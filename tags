@@ -1,0 +1,251 @@
+
+AppController.m,3265
+NSString *ESNodeIndexPathPasteBoardType ESNodeIndexPathPasteBoardType19,372
+NSString *CoreDataDragType CoreDataDragType20,448
+NSString *const CBTemplatesKey 22,499
+- (id)init28,627
+- (void)awakeFromNib34,672
+- (NSDictionary *)registrationDictionaryForGrowl72,2136
++ (NSString*)applicationVersionString 85,2529
++ (BOOL)isSelectorExcludedFromWebScript:89,2680
+- (NSString *)applicationSupportFolder 102,3087
+- (NSManagedObjectModel *)managedObjectModel 115,3563
+- (NSPersistentStoreCoordinator *)persistentStoreCoordinator 133,4057
+- (NSManagedObjectContext *) managedObjectContext 191,6252
+- (NSUndoManager *)windowWillReturnUndoManager:211,6848
+- (IBAction) saveAction:222,7163
+- (NSApplicationTerminateReply)applicationShouldTerminate:237,7545
+- (void) dealloc 284,9263
+- (BOOL)applicationShouldTerminateAfterLastWindowClosed:293,9509
+- (BOOL)validateToolbarItem:301,9665
+- (BOOL)validateMenuItem:359,11843
+- (void)outlineViewSelectionDidChange:435,13934
+- (void)swapView:474,15045
+- (IBAction)showTemplates:516,16225
+- (NSString *)pathToCourseFiles525,16349
+- (NSString *)selectionType531,16493
+- (NSString *)selectedCourseCode536,16571
+- (NSString *)selectedCoursePath541,16647
+- (Course *)selectedCourse546,16731
+- (Section *)selectedSection567,17386
+- (NSManagedObject *)selectedItem584,17818
+- (id)objectAtSelectedItem590,17966
+- (IBAction)deleteItem:613,18487
+- (void)showNewCourseWindow637,19092
+- (IBAction)showNewCourseWindow:642,19158
+- (IBAction)endNewCourseWindow:658,19523
+- (void) newCourseWithTitle:(NSString *)title andCode:(NSString *)code andDesc:(NSString *)desc andPath:newCourseWithTitle:andCode:andDesc:andPath:718,20846
+	NSString *tempPath tempPath1068,35306
+	NSString *fileToCopy fileToCopy1070,35370
+	[[self managedObjectContext] save:nil]nil1088,36073
+						andPath:insertFileWithFilename:andTitle:andDesc:andKeywords:andType:andPath:1096,36308
+- (void)addExistingFileWithPath:1129,37497
+- (IBAction)showExistingFileWindow:1152,38256
+- (IBAction)deleteCourseFile:1172,38787
+- (IBAction)duplicateSelectedFile:1214,40192
+- (IBAction)openSelectedFileInFlash:1237,41178
+- (IBAction)revealInFinder:1277,42467
+- (CBTest *)selectedTest1314,43257
+-(IBAction)addQuestion:1324,43413
+-(IBAction)removeQuestion:1344,44203
+-(IBAction)addAnswer:1351,44461
+-(IBAction)removeAnswer:1374,45360
+- (NSArray *)questionSortDescriptors1381,45610
+- (NSArray *)treeNodeSortDescriptors1386,45767
+- (IBAction)exportCourse:1394,45967
+- (IBAction)importCourse:1430,47155
+- (BOOL)allFlasCompiled1459,47987
+- (IBAction)buildCourse:1495,49298
+- (IBAction)preview:1531,50326
+- (BOOL)copyCourseFolderToDesktop1553,50891
+- (IBAction)archiveSourceFiles:1621,53545
+- (IBAction)goToBasecamp:1680,55562
+- (IBAction)installJSFL:1687,55764
+- (void)buildCourseXML1707,56444
+- (void)buildImsmanifestXML1782,59988
+- (void)buildTestXMLforTest:1933,67406
+- (BOOL)outlineView:@implementation:2004,70172
+@implementation AppController 2058,72456
+	 toPasteboard:tableView:writeRows:toPasteboard:2061,72588
+	   proposedDropOperation:tableView:validateDrop:proposedRow:proposedDropOperation:2107,74166
+	dropOperation:tableView:acceptDrop:row:dropOperation:2119,74493
+@implementation AppController 2206,77068
+
+CBAnswer.m,162
+@dynamic isCorrect;16,230
+@dynamic answer;17,250
+@dynamic order;18,267
+@dynamic question;19,283
+- (void)dealloc21,303
+- (NSMutableDictionary *)encode26,342
+
+CBQuestion.m,210
+@dynamic keywords;17,253
+@dynamic question;18,272
+@dynamic feedback;19,291
+@dynamic test;20,310
+@dynamic order;21,325
+@dynamic answers;22,341
+- (void)dealloc24,360
+- (NSMutableDictionary *)encode29,399
+
+CBTemplateController.m,479
+@synthesize defaultTemplates;14,224
+- (id) init16,255
+- (void)dealloc35,979
+- (IBAction)addTemplate:43,1059
+- (void)createTemplateFromFile:107,3409
+- (IBAction)removeTemplate:112,3495
+- (IBAction)editTemplate:140,4438
+- (NSString *)applicationSupportFolder 172,5537
+- (NSString *)path182,5999
+- (void)setPath:194,6453
+- (NSInteger)numberOfRowsInTableView:206,6721
+			row:tableView:objectValueForTableColumn:row:212,6925
+- (void)tableViewSelectionDidChange:226,7328
+
+CBTest.m,147
+@dynamic passingScore;15,206
+@dynamic pathToXML;16,229
+@dynamic questions;17,249
+- (void) dealloc19,270
+- (NSMutableDictionary *)encode24,310
+
+CBVandalay.m,670
+- (id)init13,192
+- (void)dealloc19,237
+- (id)initWithCourse:(Course *)courseFromApp andDestination:initWithCourse:andDestination:24,276
+- (id)initWithArchive:(NSString *)pathToArchive andContext:initWithArchive:andContext:35,571
+- (NSFileManager *)fileManager 45,826
+- (NSString *)appSupportFolder55,986
+- (BOOL)createCourseObjectPlist 62,1302
+- (BOOL)exportCourse70,1602
+- (BOOL)convertCourse112,2938
+- (BOOL)updatePaths 146,3808
+- (BOOL)copyToDestination 161,4360
+- (BOOL) copyArchiveFile: (NSString *) archiveFile pathToCourse:copyArchiveFile:pathToCourse:176,4786
+- (void) insertCourseIntoManagedObjectContext:191,5296
+- (BOOL)importCourse:287,9734
+
+Course.m,367
+@dynamic desc;13,181
+@dynamic keywords;14,196
+@dynamic title;15,215
+@dynamic code;16,231
+@dynamic path;17,246
+- (void)dealloc19,262
+- (NSString *)filename 24,301
+- (void)setFilename:29,346
+- (NSString *)displayName34,397
+- (NSString *)type 39,449
+- (NSArray *)keysForEncoding44,490
+- (NSString *)expandedPath49,649
+- (NSMutableDictionary *)encode57,1049
+
+CourseFile.m,1079
+@dynamic desc;13,193
+@dynamic filename;14,208
+@dynamic keywords;15,227
+@dynamic path;16,246
+@dynamic title;17,261
+@dynamic type;18,277
+- (void)dealloc20,293
+- (NSString *)filename 25,332
+- (void)setFilename:36,564
+- (NSString *)path 59,1544
+- (void)setPath:70,1760
+- (NSString *)expandedPath97,2725
+- (NSString *)code 107,3156
+- (void)setCode:112,3194
+- (NSString *)displayName117,3238
+- (BOOL)hasFla122,3326
+- (BOOL)hasSwf129,3556
+- (NSMutableDictionary *)encode148,4071
+@interface CourseFile 174,4840
+- (void)setPrimitiveDesc:primitiveDesc:177,4930
+- (void)setPrimitiveFilename:primitiveDesc:primitiveFilename:180,5008
+- (void)setPrimitiveKeywords:primitiveDesc:primitiveFilename:primitiveKeywords:183,5090
+- (void)setPrimitivePath:primitiveDesc:primitiveFilename:primitiveKeywords:primitivePath:186,5168
+- (void)setPrimitiveTitle:primitiveDesc:primitiveFilename:primitiveKeywords:primitivePath:primitiveTitle:189,5243
+- (void)setPrimitiveType:primitiveDesc:primitiveFilename:primitiveKeywords:primitivePath:primitiveTitle:primitiveType:192,5318
+
+CourseFileManager.m,470
+- (id)init14,214
+- (id)initWithCourse:20,259
+				 andType:initWithCourseCode:andType:32,545
+- (NSFileManager *)fileManager 43,807
+- (NSString *)appSupportFolder53,967
+- (void)createCourseDirectory60,1283
+- (void)deleteCourseDirectory72,1695
+- (void) removeOrRenameFalconFiles:107,2923
+- (void)overwriteCourseWithGatedCourse152,4646
+- (void)copyLmsFiles177,5618
+- (void)copyFileWithPath:218,6995
+- (BOOL)buildCourseToDesktop231,7498
+- (void)dealloc287,9934
+
+ESGroupNode.m,120
+@dynamic canExpand;38,1427
+@dynamic canCollapse;39,1447
+@dynamic isExpanded;40,1469
+@dynamic isSpecialGroup;41,1490
+
+ESTreeController.m,164
+@interface ESTreeController (Private)ESTreeController(Private)39,1545
+@implementation ESTreeController (Private)43,1628
+@implementation ESTreeController52,1883
+
+ESTreeNode.m,199
+@dynamic displayName;38,1448
+@dynamic isSelectable;39,1470
+@dynamic isLeaf;40,1493
+@dynamic sortIndex;41,1510
+@dynamic parent;42,1530
+@dynamic children;43,1547
+- (NSArray *)descendants45,1567
+
+NSArray_Extensions.m,47
+@implementation NSArray (ESExtensions)36,1410
+
+NSIndexPath_Extensions.m,51
+@implementation NSIndexPath (ESExtensions)36,1418
+
+NSManagedObjectContext-Utilities.m,58
+@implementation NSManagedObjectContext (Utilities)12,203
+
+NSTreeController_Extensions.m,56
+@implementation NSTreeController (ESExtensions)38,1527
+
+NSTreeNode_Extensions.m,50
+@implementation NSTreeNode (ESExtensions)36,1450
+
+Order.m,134
+@dynamic order;16,224
+@dynamic cbquestion;17,240
+@dynamic cbanswer;18,261
+- (void)dealloc20,281
+- (NSNumber *)displayOrder25,320
+
+Section.m,434
+- (void)dealloc15,186
+- (NSString *)desc 20,225
+- (void)setDesc:25,263
+- (NSString *)filename 30,307
+- (void)setFilename:35,349
+- (NSString *)keywords 40,397
+- (void)setKeywords:45,439
+- (NSString *)code 50,487
+- (NSString *)type 55,525
+- (void)setCode:60,566
+- (NSString *)title 65,610
+- (void)setTitle:76,830
+- (NSString *)displayName83,1008
+- (NSArray *)keysForEncoding88,1061
+- (NSMutableDictionary *)encode93,1201
+
+main.m,17
+int main(11,150
+
+ESOutlineView.m,0
+
+ESLeafNode.m,0

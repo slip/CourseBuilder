@@ -1,0 +1,29 @@
+<?xml version="1.1"?>
+<macromedia-extension type="flash command" version="1.1.0" requires-restart="false" name="Davita Flash Commands">
+	<author name="Ian Kennedy"/>
+	<products>
+		<product name="Flash" version="9" primary="true"/>
+		<product name="Flash" version="10" primary="false"/>
+	</products>
+	<description><![CDATA[A handful of commands to assist in the creation of DaVita elearning courses.]]></description>
+	<ui-access><![CDATA[To access the DaVita Commands use the "Commands > " menu.]]></ui-access>
+	<files>
+		<file source="_DVA Add Arrow.jsfl" destination="$Flash/commands"/>
+		<file source="_DVA Add Sound.jsfl" destination="$Flash/commands"/>
+		<file source="_DVA Align Top Left.jsfl" destination="$Flash/commands"/>
+		<file source="_DVA Bulletize Text.jsfl" destination="$Flash/commands"/>
+		<file source="_DVA Center All.jsfl" destination="$Flash/commands"/>
+		<file source="_DVA Duplicate And Offset.jsfl" destination="$Flash/commands"/>
+		<file source="_DVA Duplicate Stage Item.jsfl" destination="$Flash/commands"/>
+        <file source="_DVA Items To FadeIn.jsfl" destination="$Flash/commands"/>
+		<file source="_DVA Name Stage Items.jsfl" destination="$Flash/commands"/>
+		<file source="_DVA Offset 15px.jsfl" destination="$Flash/commands"/>
+		<file source="_DVA Organize Library.jsfl" destination="$Flash/commands"/>
+		<file source="_DVA Set to JPG.jsfl" destination="$Flash/commands"/>
+		<file source="_DVA Set to Lossless.jsfl" destination="$Flash/commands"/>
+		<file source="_DVA Stage Bottom Left.jsfl" destination="$Flash/commands"/>
+		<file source="_DVA Stage Bottom Right.jsfl" destination="$Flash/commands"/>
+		<file source="_DVA Stage Top Left.jsfl" destination="$Flash/commands"/>
+		<file source="_DVA Stage Top Right.jsfl" destination="$Flash/commands"/>
+	</files>
+</macromedia-extension>

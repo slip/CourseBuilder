@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>cbcourse</string>
+			</array>
+			<key>CFBundleTypeIconFile</key>
+			<string>CBCourse.icns</string>
+			<key>CFBundleTypeMIMETypes</key>
+			<array/>
+			<key>CFBundleTypeName</key>
+			<string>CourseBuilder course package</string>
+			<key>CFBundleTypeOSTypes</key>
+			<array/>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>LSTypeIsPackage</key>
+			<true/>
+			<key>NSDocumentClass</key>
+			<string>CBDocument</string>
+		</dict>
+	</array>
+	<key>CFBundleExecutable</key>
+	<string>CourseBuilder</string>
+	<key>CFBundleHelpBookFolder</key>
+	<string>CourseBuilder Help</string>
+	<key>CFBundleHelpBookName</key>
+	<string>CourseBuilder Help</string>
+	<key>CFBundleIconFile</key>
+	<string>CB</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.normal.CourseBuilder</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>CourseBuilder</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>2.0</string>
+	<key>NSMainNibFile</key>
+	<string>MainMenu</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>SUExpectsDSASignature</key>
+	<true/>
+	<key>SUFeedURL</key>
+	<string>http://www.normalsoftware.com/appcast/CoursesApp.xml</string>
+	<key>SUPublicDSAKeyFile</key>
+	<string>dsa_pub.pem</string>
+	<key>UTExportedTypeDeclarations</key>
+	<array>
+		<dict>
+			<key>UTTypeConformsTo</key>
+			<array>
+				<string>public.data</string>
+			</array>
+			<key>UTTypeDescription</key>
+			<string>CourseBuilder course package</string>
+			<key>UTTypeIconFile</key>
+			<string>CBCourse</string>
+			<key>UTTypeIdentifier</key>
+			<string>com.normal.cbcourse</string>
+			<key>UTTypeTagSpecification</key>
+			<dict>
+				<key>public.filename-extension</key>
+				<array>
+					<string>cbcourse</string>
+				</array>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

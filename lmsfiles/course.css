@@ -1,0 +1,11 @@
+body
+{
+	margin: 0; 
+	padding: 0;
+	background-image:url('course_bg.gif');
+	background-repeat: repeat-x;
+}
+img
+{
+	border: none;
+}

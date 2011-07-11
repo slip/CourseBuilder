@@ -1,0 +1,1667 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Arrow	elements/Arrow.as	/^		public function Arrow()$/;"	f
+BlankStandard	quiz/BlankStandard.as	/^		public function BlankStandard(){$/;"	f
+ButtonSet	buttons/ButtonSet.as	/^		public function ButtonSet() {$/;"	f
+CBAnimator	utilities/CBAnimator.as	/^		public function CBAnimator()$/;"	f
+CBSoundPlayer	popups/sound/CBSoundPlayer.as	/^		public function CBSoundPlayer(mp:Sound, pl:SimpleButton, pa:SimpleButton, fwd:SimpleButton, rew:SimpleButton, cl:SimpleButton, ccText:TextField, slider:MovieClip, drag:MovieClip)$/;"	f
+CYRTextEntry	elements/CYRTextEntry.as	/^		public function CYRTextEntry(){$/;"	f
+CanYouRemember	elements/CanYouRemember.as	/^		public function CanYouRemember()$/;"	f
+CaptionEvent	events/CaptionEvent.as	/^		public function CaptionEvent( type:String, captionText:String, bubbles:Boolean=true, cancelable:Boolean=false )$/;"	f
+ChangePage	utilities/URLNavigator.as	/^		public static function ChangePage(url:*, window:String = "_self"):void {$/;"	f
+Clickable	elements/Clickable.as	/^		public function Clickable()$/;"	f
+ClosedCaption	popups/ClosedCaption.as	/^		public function ClosedCaption()$/;"	f
+ContinueButton	buttons/ContinueBtn.as	/^		public function ContinueButton()$/;"	f
+ContinueButton	buttons/ContinueButton.as	/^		public function ContinueButton()$/;"	f
+Copyright	elements/Copyright.as	/^		public function Copyright()$/;"	f
+CourseButton	buttons/CourseButton.as	/^		public function CourseButton()$/;"	f
+CourseEnded	buttons/CourseEnded.as	/^		public function CourseEnded()$/;"	f
+CourseEvent	events/CourseEvent.as	/^		public function CourseEvent( type:String, pageNum:int, bubbles:Boolean=true, cancelable:Boolean=false )$/;"	f
+CourseFile	documents/CourseFile.as	/^		public function CourseFile()$/;"	f
+CourseFileCombined	documents/CourseFileCombined.as	/^		public function CourseFileCombined()$/;"	f
+CourseInteraction	documents/CourseInteraction.as	/^		public function CourseInteraction()$/;"	f
+CourseInteractionCombined	documents/CourseInteractionCombined.as	/^		public function CourseInteractionCombined()$/;"	f
+CourseMessage	popups/CourseMessage.as	/^		public function CourseMessage(message:String)$/;"	f
+CourseNavButton	buttons/CourseNavButton.as	/^		public function CourseNavButton()$/;"	f
+CourseReview	documents/CourseReview.as	/^		public function CourseReview()$/;"	f
+CourseSwf	documents/CourseSwf.as	/^		public function CourseSwf(){$/;"	f
+CourseTest	test/CourseTest.as	/^		public function CourseTest()$/;"	f
+CourseWrapper	documents/CourseWrapper.as	/^		public function CourseWrapper()$/;"	f
+CourseWrapper	documents/CourseWrapper_broken.as	/^		public function CourseWrapper()$/;"	f
+CourseWrapperGated	documents/CourseWrapperGated.as	/^		public function CourseWrapperGated()$/;"	f
+CourseWrapperStarLearning	documents/CourseWrapperStarLearning.as	/^		public function CourseWrapperStarLearning()$/;"	f
+CuePointEvent	sound/CuePointEvent.as	/^		public function CuePointEvent(type:String, cuePointName:String, cuePointTime:uint, bubbles:Boolean = false, cancelable:Boolean = false)$/;"	f
+DisablingButton	buttons/DisablingButton.as	/^		public function DisablingButton()$/;"	f
+DoubleClickable	elements/DoubleClickable.as	/^		public function DoubleClickable()$/;"	f
+DragAndDropQuiz	documents/DragAndDropQuiz.as	/^		public function DragAndDropQuiz(){$/;"	f
+DynamicButton	buttons/DynamicButton.as	/^		public function DynamicButton(w:int, h:int, r:int, str:String)$/;"	f
+FadeIn	elements/FadeIn.as	/^		public function FadeIn()$/;"	f
+FalconCourseNavButton	buttons/FalconCourseNavButton.as	/^		public function FalconCourseNavButton()$/;"	f
+FalconCourseWrapper	documents/FalconCourseWrapper.as	/^		public function FalconCourseWrapper()$/;"	f
+FalconDemo	documents/FalconDemo.as	/^	public function FalconDemo()$/;"	f
+FalconPreviewWrapper	documents/FalconPreviewWrapper.as	/^		public function FalconPreviewWrapper()$/;"	f
+GenericPopup	popups/GenericPopup.as	/^		public function GenericPopup()$/;"	f
+Help	popups/Help.as	/^		public function Help()$/;"	f
+HelpReminder	popups/HelpReminder.as	/^		public function HelpReminder()$/;"	f
+ID_ContinueButton	buttons/ID_ContinueButton.as	/^		public function ID_ContinueButton()$/;"	f
+ID_InvisibleContinueButton	buttons/ID_InvisibleContinueButton.as	/^		public function ID_InvisibleContinueButton()$/;"	f
+ID_RadioButton	elements/ID_RadioButton.as	/^		public function ID_RadioButton()$/;"	f
+IKCheckBox	elements/IKCheckBox.as	/^		public function IKCheckBox()$/;"	f
+LMSGetBookmarkedPage	documents/CourseWrapper.as	/^		public function LMSGetBookmarkedPage():void$/;"	f
+LMSGetBookmarkedPage	documents/CourseWrapperGated.as	/^		public function LMSGetBookmarkedPage():void$/;"	f
+LMSGetBookmarkedPage	documents/CourseWrapperStarLearning.as	/^		public function LMSGetBookmarkedPage():void$/;"	f
+LMSGetBookmarkedPage	documents/CourseWrapper_broken.as	/^		public function LMSGetBookmarkedPage():void$/;"	f
+LMSGetBookmarkedPage	documents/FalconCourseWrapper.as	/^		public function LMSGetBookmarkedPage():void$/;"	f
+LMSGetBookmarkedPage	documents/FalconPreviewWrapper.as	/^		public function LMSGetBookmarkedPage():void$/;"	f
+LMSGetBookmarkedPage	documents/PreviewWrapper.as	/^		public function LMSGetBookmarkedPage():void$/;"	f
+LMSGetBookmarkedPage	documents/PreviewWrapperGated.as	/^		public function LMSGetBookmarkedPage():void$/;"	f
+LMSGetBookmarkedPage	documents/PreviewWrapper_broken.as	/^		public function LMSGetBookmarkedPage():void$/;"	f
+LMSGetStudentName	documents/CourseWrapper.as	/^		public function LMSGetStudentName():String$/;"	f
+LMSGetStudentName	documents/CourseWrapperGated.as	/^		public function LMSGetStudentName():String$/;"	f
+LMSGetStudentName	documents/CourseWrapperStarLearning.as	/^		public function LMSGetStudentName():String$/;"	f
+LMSGetStudentName	documents/CourseWrapper_broken.as	/^		public function LMSGetStudentName():String$/;"	f
+LMSGetStudentName	documents/FalconCourseWrapper.as	/^		public function LMSGetStudentName():String$/;"	f
+LMSGetStudentName	documents/FalconPreviewWrapper.as	/^		public function LMSGetStudentName():String$/;"	f
+LMSGetStudentName	documents/PreviewWrapper.as	/^		public function LMSGetStudentName():String$/;"	f
+LMSGetStudentName	documents/PreviewWrapperGated.as	/^		public function LMSGetStudentName():String$/;"	f
+LMSGetStudentName	documents/PreviewWrapper_broken.as	/^		public function LMSGetStudentName():String$/;"	f
+LMSSetBookmarkedPage	documents/CourseWrapper.as	/^		public function LMSSetBookmarkedPage(pageNumber):void$/;"	f
+LMSSetBookmarkedPage	documents/CourseWrapperGated.as	/^		public function LMSSetBookmarkedPage(pageNumber):void$/;"	f
+LMSSetBookmarkedPage	documents/CourseWrapperStarLearning.as	/^		public function LMSSetBookmarkedPage(pageNumber):void$/;"	f
+LMSSetBookmarkedPage	documents/CourseWrapper_broken.as	/^		public function LMSSetBookmarkedPage(pageNumber):void$/;"	f
+LMSSetBookmarkedPage	documents/FalconCourseWrapper.as	/^		public function LMSSetBookmarkedPage(pageNumber):void$/;"	f
+LMSSetBookmarkedPage	documents/FalconPreviewWrapper.as	/^		public function LMSSetBookmarkedPage(pageNumber):void$/;"	f
+LMSSetBookmarkedPage	documents/PreviewWrapper.as	/^		public function LMSSetBookmarkedPage(pageNumber):void$/;"	f
+LMSSetBookmarkedPage	documents/PreviewWrapperGated.as	/^		public function LMSSetBookmarkedPage(pageNumber):void$/;"	f
+LMSSetBookmarkedPage	documents/PreviewWrapper_broken.as	/^		public function LMSSetBookmarkedPage(pageNumber):void$/;"	f
+LMSSetComments	documents/CourseWrapper.as	/^		public function LMSSetComments(comments:String):void $/;"	f
+LMSSetComments	documents/CourseWrapperGated.as	/^		public function LMSSetComments(comments:String):void $/;"	f
+LMSSetComments	documents/CourseWrapper_broken.as	/^		public function LMSSetComments(comments:String):void $/;"	f
+LMSSetComments	documents/FalconCourseWrapper.as	/^		public function LMSSetComments(comments:String):void $/;"	f
+LMSSetComplete	documents/CourseWrapper.as	/^		public function LMSSetComplete():void$/;"	f
+LMSSetComplete	documents/CourseWrapperGated.as	/^		public function LMSSetComplete():void$/;"	f
+LMSSetComplete	documents/CourseWrapperStarLearning.as	/^		public function LMSSetComplete():void$/;"	f
+LMSSetComplete	documents/CourseWrapper_broken.as	/^		public function LMSSetComplete():void$/;"	f
+LMSSetComplete	documents/FalconCourseWrapper.as	/^		public function LMSSetComplete():void$/;"	f
+LMSSetComplete	documents/FalconPreviewWrapper.as	/^		public function LMSSetComplete():void$/;"	f
+LMSSetComplete	documents/PreviewWrapper.as	/^		public function LMSSetComplete():void$/;"	f
+LMSSetComplete	documents/PreviewWrapperGated.as	/^		public function LMSSetComplete():void$/;"	f
+LMSSetComplete	documents/PreviewWrapper_broken.as	/^		public function LMSSetComplete():void$/;"	f
+LMSSetScore	documents/CourseWrapper.as	/^		public function LMSSetScore(score:Number, passingScore:Number):void$/;"	f
+LMSSetScore	documents/CourseWrapperGated.as	/^		public function LMSSetScore(score:Number, passingScore:Number):void$/;"	f
+LMSSetScore	documents/CourseWrapperStarLearning.as	/^		public function LMSSetScore(score:Number, passingScore:Number):void$/;"	f
+LMSSetScore	documents/CourseWrapper_broken.as	/^		public function LMSSetScore(score:Number, passingScore:Number):void$/;"	f
+LMSSetScore	documents/FalconCourseWrapper.as	/^		public function LMSSetScore(score:Number, passingScore:Number):void$/;"	f
+LMSSetScore	documents/FalconPreviewWrapper.as	/^		public function LMSSetScore(score:Number, passingScore:Number):void$/;"	f
+LMSSetScore	documents/PreviewWrapper.as	/^		public function LMSSetScore(score:Number, passingScore:Number):void$/;"	f
+LMSSetScore	documents/PreviewWrapperGated.as	/^		public function LMSSetScore(score:Number, passingScore:Number):void$/;"	f
+LMSSetScore	documents/PreviewWrapper_broken.as	/^		public function LMSSetScore(score:Number, passingScore:Number):void$/;"	f
+LMSStatus	documents/CourseWrapper.as	/^		private static var LMSStatus:String;$/;"	v
+LMSStatus	documents/CourseWrapperGated.as	/^		private static var LMSStatus:String;$/;"	v
+LMSStatus	documents/CourseWrapperStarLearning.as	/^		private static var LMSStatus:String;$/;"	v
+LMSStatus	documents/CourseWrapper_broken.as	/^		private static var LMSStatus:String;$/;"	v
+LMSStatus	documents/FalconCourseWrapper.as	/^		private static var LMSStatus:String;$/;"	v
+LMSStatus	documents/FalconPreviewWrapper.as	/^		private static var LMSStatus:String;$/;"	v
+LMSStatus	documents/PreviewWrapper.as	/^		private static var LMSStatus:String;$/;"	v
+LMSStatus	documents/PreviewWrapperGated.as	/^		private static var LMSStatus:String;$/;"	v
+LMSStatus	documents/PreviewWrapper_broken.as	/^		private static var LMSStatus:String;$/;"	v
+LMSStudentName	documents/CourseWrapper.as	/^		private static var LMSStudentName:String;		$/;"	v
+LMSStudentName	documents/CourseWrapperGated.as	/^		private static var LMSStudentName:String;		$/;"	v
+LMSStudentName	documents/CourseWrapperStarLearning.as	/^		private static var LMSStudentName:String;		$/;"	v
+LMSStudentName	documents/CourseWrapper_broken.as	/^		private static var LMSStudentName:String;		$/;"	v
+LMSStudentName	documents/FalconCourseWrapper.as	/^		private static var LMSStudentName:String;		$/;"	v
+LMSStudentName	documents/FalconPreviewWrapper.as	/^		private static var LMSStudentName:String;		$/;"	v
+LMSStudentName	documents/PreviewWrapper.as	/^		private static var LMSStudentName:String;		$/;"	v
+LMSStudentName	documents/PreviewWrapperGated.as	/^		private static var LMSStudentName:String;		$/;"	v
+LMSStudentName	documents/PreviewWrapper_broken.as	/^		private static var LMSStudentName:String;		$/;"	v
+LessonEnded	buttons/LessonEnded.as	/^		public function LessonEnded()$/;"	f
+MCCheckBox	elements/MCCheckBox.as	/^		public function MCCheckBox(){$/;"	f
+MainPopup	popups/MainPopup.as	/^		public function MainPopup()$/;"	f
+NextQuestionButton	buttons/NextQuestionButton.as	/^		public function NextQuestionButton()$/;"	f
+OneFrameFile	documents/OneFrameFile.as	/^		public function OneFrameFile()$/;"	f
+PopupButton	buttons/PopupButton.as	/^		public function PopupButton()$/;"	f
+PreviewWrapper	documents/PreviewWrapper.as	/^		public function PreviewWrapper()$/;"	f
+PreviewWrapper	documents/PreviewWrapper_broken.as	/^		public function PreviewWrapper()$/;"	f
+PreviewWrapperGated	documents/PreviewWrapperGated.as	/^		public function PreviewWrapperGated()$/;"	f
+QuickCheckMC	documents/QuickCheckMC.as	/^		public function QuickCheckMC()$/;"	f
+QuizCombined	quiz/QuizCombined.as	/^		public function QuizCombined()$/;"	f
+QuizGame	games/QuizGame.as	/^		public function QuizGame(){$/;"	f
+QuizGameReview	games/QuizGameReview.as	/^		public function QuizGameReview(review:String){$/;"	f
+QuizItemDragAndDrop	games/QuizItemDragAndDrop.as	/^		public function QuizItemDragAndDrop()$/;"	f
+QuizItemFillTheBlank	games/QuizItemFillTheBlank.as	/^		public function QuizItemFillTheBlank()$/;"	f
+QuizItemMultipleChoice	games/QuizItemMultipleChoice.as	/^		public function QuizItemMultipleChoice()$/;"	f
+QuizItem_DD	quiz/QuizItem_DD.as	/^		public function QuizItem_DD()$/;"	f
+QuizItem_FB	quiz/QuizItem_FB.as	/^		public function QuizItem_FB()$/;"	f
+QuizItem_MC	quiz/QuizItem_MC.as	/^		public function QuizItem_MC()$/;"	f
+QuizResults	quiz/QuizResults.as	/^		public function QuizResults()$/;"	f
+Review	popups/Review.as	/^		public function Review()$/;"	f
+ReviewEvent	events/ReviewEvent.as	/^		public function ReviewEvent( type:String, reviewInfo:Array, bubbles:Boolean=true, cancelable:Boolean=false )$/;"	f
+RollOverInfo	elements/RollOverInfo.as	/^		public function RollOverInfo()$/;"	f
+Scorm	utilities/Scorm.as	/^		public function Scorm() {$/;"	f
+Search	popups/Search.as	/^		public function Search()$/;"	f
+SimTest	test/SimTest.as	/^		public function SimTest()$/;"	f
+SimTestCorrectButton	test/SimTestCorrectButton.as	/^		public function SimTestCorrectButton()$/;"	f
+SoundSync	sound/SoundSync.as	/^		public function SoundSync(stream:URLRequest = null, context:SoundLoaderContext = null) {$/;"	f
+TableOfContents	popups/TableOfContents.as	/^		public function TableOfContents()$/;"	f
+TestItem	test/TestItem.as	/^		public function TestItem(question:String, feedback:String)$/;"	f
+TextEntry	elements/TextEntry.as	/^		public function TextEntry(){$/;"	f
+__connect	utilities/Scorm.as	/^		private function __connect():Boolean {$/;"	f
+__connectionActive	utilities/Scorm.as	/^		private var __connectionActive = false,$/;"	v
+__disconnect	utilities/Scorm.as	/^		private function __disconnect():Boolean {$/;"	f
+__displayDebugInfo	utilities/Scorm.as	/^		private function __displayDebugInfo(msg:String):void {$/;"	f
+__get	utilities/Scorm.as	/^		private function __get(parameter:String):String {$/;"	f
+__getDebugCode	utilities/Scorm.as	/^		private function __getDebugCode():int {$/;"	f
+__getDebugInfo	utilities/Scorm.as	/^		private function __getDebugInfo(errorCode:int):String {$/;"	f
+__getDiagnosticInfo	utilities/Scorm.as	/^		private function __getDiagnosticInfo(errorCode:int):String {$/;"	f
+__save	utilities/Scorm.as	/^		private function __save():Boolean {$/;"	f
+__set	utilities/Scorm.as	/^		private function __set(parameter:String, value:String):Boolean {$/;"	f
+__stringToBoolean	utilities/Scorm.as	/^		private function __stringToBoolean(string:String):Boolean {$/;"	f
+_aUniqueIDs	utilities/NumberUtilities.as	/^		private static  var _aUniqueIDs:Array;$/;"	v
+_allowedTries	quiz/QuizItem_MC.as	/^		private var _allowedTries;$/;"	v
+_answeredCorrectly	quiz/QuizItem_MC.as	/^		private var _answeredCorrectly;$/;"	v
+_answers	quiz/QuizItem_MC.as	/^		private var _answers:Array = new Array();$/;"	v
+_backGround	popups/CourseMessage.as	/^		private var _backGround:Sprite = new Sprite();$/;"	v
+_backGround	popups/HelpReminder.as	/^		private var _backGround:Sprite = new Sprite();$/;"	v
+_background	documents/CourseSwf.as	/^		private var _background:Sprite = new Sprite();$/;"	v
+_background	documents/FalconCourseWrapper.as	/^		private var _background:Sprite = new Sprite();$/;"	v
+_background	documents/FalconPreviewWrapper.as	/^		private var _background:Sprite = new Sprite();$/;"	v
+_background	games/QuizGame.as	/^		private var _background:Sprite = new Sprite();$/;"	v
+_backgroundRemoved	documents/CourseSwf.as	/^		private var _backgroundRemoved:Boolean = false;$/;"	v
+_blanks	elements/CanYouRemember.as	/^		private var _blanks : Array = new Array();$/;"	v
+_blanks	quiz/QuizItem_FB.as	/^		private var _blanks : Array = new Array();$/;"	v
+_bookmarkedPage	documents/CourseWrapper.as	/^		private static var _bookmarkedPage:int = 0;$/;"	v
+_bookmarkedPage	documents/CourseWrapperGated.as	/^		private static var _bookmarkedPage:int = 0;$/;"	v
+_bookmarkedPage	documents/CourseWrapperStarLearning.as	/^		private static var _bookmarkedPage:int = 0;$/;"	v
+_bookmarkedPage	documents/CourseWrapper_broken.as	/^		private static var _bookmarkedPage:int = 0;$/;"	v
+_bookmarkedPage	documents/FalconCourseWrapper.as	/^		private static var _bookmarkedPage:int = 0;$/;"	v
+_bookmarkedPage	documents/FalconPreviewWrapper.as	/^		private static var _bookmarkedPage:int = 0;$/;"	v
+_bookmarkedPage	documents/PreviewWrapper.as	/^		private static var _bookmarkedPage:int = 0;$/;"	v
+_bookmarkedPage	documents/PreviewWrapperGated.as	/^		private static var _bookmarkedPage:int = 0;$/;"	v
+_bookmarkedPage	documents/PreviewWrapper_broken.as	/^		private static var _bookmarkedPage:int = 0;$/;"	v
+_ccText	documents/CourseSwf.as	/^		private var _ccText:String;$/;"	v
+_contentsFormat	popups/TableOfContents.as	/^		private var _contentsFormat:TextFormat = new TextFormat();$/;"	v
+_correctAnswer	quiz/QuizItem_MC.as	/^		private var _correctAnswer:int;$/;"	v
+_correctAnswers	elements/CanYouRemember.as	/^		private var _correctAnswers : int;$/;"	v
+_correctAnswers	quiz/QuizItem_FB.as	/^		private var _correctAnswers : int;$/;"	v
+_coursePages	popups/Search.as	/^		private var _coursePages:XMLList;$/;"	v
+_coursePages	popups/TableOfContents.as	/^		private var _coursePages:XMLList;$/;"	v
+_courseXML	popups/Search.as	/^		private var _courseXML:XML;$/;"	v
+_courseXML	popups/TableOfContents.as	/^		private var _courseXML:XML;$/;"	v
+_cuePoints	sound/SoundSync.as	/^		private var _cuePoints:Array;$/;"	v
+_currentCuePoint	sound/SoundSync.as	/^		private var _currentCuePoint:uint;$/;"	v
+_currentQuestionNumber	quiz/QuizCombined.as	/^		private var _currentQuestionNumber:Number;$/;"	v
+_currentQuizQuestion	quiz/QuizCombined.as	/^		private var _currentQuizQuestion;$/;"	v
+_dragX	documents/DragAndDropQuiz.as	/^		private var _dragX:Number;$/;"	v
+_dragX	games/QuizItemDragAndDrop.as	/^		private var _dragX:Number;$/;"	v
+_dragX	quiz/QuizItem_DD.as	/^		private var _dragX:Number;$/;"	v
+_dragY	documents/DragAndDropQuiz.as	/^		private var _dragY:Number;$/;"	v
+_dragY	games/QuizItemDragAndDrop.as	/^		private var _dragY:Number;$/;"	v
+_dragY	quiz/QuizItem_DD.as	/^		private var _dragY:Number;$/;"	v
+_expectedString	elements/CYRTextEntry.as	/^		private var _expectedString:String;$/;"	v
+_expectedString	quiz/BlankStandard.as	/^		private var _expectedString:String;$/;"	v
+_feedback	games/QuizItemDragAndDrop.as	/^		private var _feedback:String;$/;"	v
+_feedback	quiz/QuizItem_DD.as	/^		private var _feedback:String;$/;"	v
+_feedback	quiz/QuizItem_FB.as	/^		private var _feedback:String;$/;"	v
+_feedback	quiz/QuizItem_MC.as	/^		private var _feedback:String;$/;"	v
+_finalPage	documents/CourseWrapper.as	/^		private static var _finalPage:int;$/;"	v
+_finalPage	documents/CourseWrapperGated.as	/^		private static var _finalPage:int;$/;"	v
+_finalPage	documents/CourseWrapperStarLearning.as	/^		private static var _finalPage:int;$/;"	v
+_finalPage	documents/CourseWrapper_broken.as	/^		private static var _finalPage:int;$/;"	v
+_finalPage	documents/FalconCourseWrapper.as	/^		private static var _finalPage:int;$/;"	v
+_finalPage	documents/FalconPreviewWrapper.as	/^		private static var _finalPage:int;$/;"	v
+_finalPage	documents/PreviewWrapper.as	/^		private static var _finalPage:int;$/;"	v
+_finalPage	documents/PreviewWrapperGated.as	/^		private static var _finalPage:int;$/;"	v
+_finalPage	documents/PreviewWrapper_broken.as	/^		private static var _finalPage:int;$/;"	v
+_gated	documents/CourseWrapper.as	/^		private var _gated:Boolean = new Boolean();$/;"	v
+_gated	documents/CourseWrapperStarLearning.as	/^		private var _gated:Boolean = new Boolean();$/;"	v
+_gated	documents/CourseWrapper_broken.as	/^		private var _gated:Boolean = new Boolean();$/;"	v
+_gated	documents/FalconCourseWrapper.as	/^		private var _gated:Boolean = new Boolean();$/;"	v
+_gated	documents/FalconPreviewWrapper.as	/^		private var _gated:Boolean = new Boolean();$/;"	v
+_gated	documents/PreviewWrapper.as	/^		private var _gated:Boolean = new Boolean();$/;"	v
+_gated	documents/PreviewWrapper_broken.as	/^		private var _gated:Boolean = new Boolean();$/;"	v
+_highestPageNumViewed	documents/CourseWrapper.as	/^		private var _highestPageNumViewed:int = 0;$/;"	v
+_highestPageNumViewed	documents/CourseWrapperGated.as	/^		private var _highestPageNumViewed:int = 0;$/;"	v
+_highestPageNumViewed	documents/CourseWrapperStarLearning.as	/^		private var _highestPageNumViewed:int = 0;$/;"	v
+_highestPageNumViewed	documents/CourseWrapper_broken.as	/^		private var _highestPageNumViewed:int = 0;$/;"	v
+_highestPageNumViewed	documents/FalconCourseWrapper.as	/^		private var _highestPageNumViewed:int = 0;$/;"	v
+_highestPageNumViewed	documents/FalconPreviewWrapper.as	/^		private var _highestPageNumViewed:int = 0;$/;"	v
+_highestPageNumViewed	documents/PreviewWrapper.as	/^		private var _highestPageNumViewed:int = 0;$/;"	v
+_highestPageNumViewed	documents/PreviewWrapperGated.as	/^		private var _highestPageNumViewed:int = 0;$/;"	v
+_highestPageNumViewed	documents/PreviewWrapper_broken.as	/^		private var _highestPageNumViewed:int = 0;$/;"	v
+_isPlaying	documents/CourseSwf.as	/^		private var _isPlaying:Boolean = true;$/;"	v
+_loops	sound/SoundSync.as	/^		private var _loops:uint;$/;"	v
+_message	popups/CourseMessage.as	/^		private var _message:String;$/;"	v
+_message	popups/HelpReminder.as	/^		private var _message:String = "We couldn't help but notice you haven't clicked anything yet and we’re concerned you need help navigating through the course. If that’s true, close this alert and click the round blue question mark in the lower left area of the course window for assistance.";$/;"	v
+_mixedFeedback	quiz/QuizResults.as	/^		private var _mixedFeedback:Array;$/;"	v
+_myParent	buttons/ContinueBtn.as	/^		public var _myParent:MovieClip;$/;"	v
+_myParent	buttons/ContinueButton.as	/^		public var _myParent:MovieClip;$/;"	v
+_myParent	buttons/CourseEnded.as	/^		public var _myParent:MovieClip;$/;"	v
+_myParent	buttons/ID_ContinueButton.as	/^		public var _myParent:MovieClip;$/;"	v
+_myParent	buttons/ID_InvisibleContinueButton.as	/^		public var _myParent:MovieClip;$/;"	v
+_myParent	buttons/LessonEnded.as	/^		public var _myParent:MovieClip;$/;"	v
+_myParent	documents/CourseSwf.as	/^		public var _myParent:MovieClip;$/;"	v
+_myParent	elements/Arrow.as	/^		public var _myParent:MovieClip;$/;"	v
+_myParent	elements/CYRTextEntry.as	/^		private var _myParent:MovieClip;$/;"	v
+_myParent	elements/CanYouRemember.as	/^		private var _myParent:MovieClip;$/;"	v
+_myParent	elements/Clickable.as	/^		private var _myParent:MovieClip;$/;"	v
+_myParent	elements/Copyright.as	/^		public var _myParent:MovieClip;$/;"	v
+_myParent	elements/DoubleClickable.as	/^		private var _myParent:MovieClip;$/;"	v
+_myParent	elements/TextEntry.as	/^		public var _myParent:MovieClip;$/;"	v
+_myParent	games/QuizGame.as	/^		public var _myParent:MovieClip;$/;"	v
+_myParent	quiz/BlankStandard.as	/^		private var _myParent:MovieClip;$/;"	v
+_myParent	test/SimTestCorrectButton.as	/^		public var _myParent:MovieClip;$/;"	v
+_negativeFeedback	quiz/QuizItem_MC.as	/^		private var _negativeFeedback:String;$/;"	v
+_negativeFeedback	quiz/QuizResults.as	/^		private var _negativeFeedback:Array;$/;"	v
+_numOfAnswers	quiz/QuizItem_MC.as	/^		private var _numOfAnswers:int;$/;"	v
+_numOfRequiredLetters	elements/CanYouRemember.as	/^		private var _numOfRequiredLetters : int;$/;"	v
+_numOfRequiredLetters	quiz/QuizItem_FB.as	/^		private var _numOfRequiredLetters : int;$/;"	v
+_originalString	elements/CYRTextEntry.as	/^		private var _originalString:String;$/;"	v
+_originalString	quiz/BlankStandard.as	/^		private var _originalString:String;$/;"	v
+_originalX	popups/GenericPopup.as	/^		public var _originalX : int;$/;"	v
+_originalY	popups/GenericPopup.as	/^		public var _originalY : int;$/;"	v
+_pageMask	documents/CourseSwf.as	/^		private var _pageMask:Sprite = new Sprite();$/;"	v
+_pageMask	games/QuizGame.as	/^		private var _pageMask:Sprite = new Sprite();$/;"	v
+_parent	documents/CourseReview.as	/^		public var _parent:MovieClip;$/;"	v
+_parentQuiz	quiz/QuizItem_DD.as	/^		private var _parentQuiz:QuizCombined;$/;"	v
+_parentQuiz	quiz/QuizItem_FB.as	/^		private var _parentQuiz:QuizCombined;$/;"	v
+_parentQuiz	quiz/QuizItem_MC.as	/^		private var _parentQuiz:QuizCombined;$/;"	v
+_positiveFeedback	quiz/QuizResults.as	/^		private var _positiveFeedback:Array;$/;"	v
+_positiveFeedbackArray	games/QuizItemDragAndDrop.as	/^		private var _positiveFeedbackArray:Array;$/;"	v
+_positiveFeedbackArray	quiz/QuizItem_DD.as	/^		private var _positiveFeedbackArray:Array;$/;"	v
+_positiveFeedbackArray	quiz/QuizItem_FB.as	/^		private var _positiveFeedbackArray:Array;$/;"	v
+_positiveFeedbackArray	quiz/QuizItem_MC.as	/^		private var _positiveFeedbackArray:Array;$/;"	v
+_question	quiz/QuizItem_MC.as	/^		private var _question:String;$/;"	v
+_quizQuestions	quiz/QuizCombined.as	/^		private var _quizQuestions:Array = new Array();$/;"	v
+_quizType	quiz/QuizCombined.as	/^        private var _quizType:String = "";$/;"	v
+_reviewInfo	documents/CourseWrapper.as	/^		public var _reviewInfo:Array = new Array();$/;"	v
+_reviewInfo	documents/CourseWrapperGated.as	/^		public var _reviewInfo:Array = new Array();$/;"	v
+_reviewInfo	documents/CourseWrapperStarLearning.as	/^		public var _reviewInfo:Array = new Array();$/;"	v
+_reviewInfo	documents/CourseWrapper_broken.as	/^		public var _reviewInfo:Array = new Array();$/;"	v
+_reviewInfo	documents/FalconCourseWrapper.as	/^		public var _reviewInfo:Array = new Array();$/;"	v
+_reviewInfo	documents/FalconPreviewWrapper.as	/^		public var _reviewInfo:Array = new Array();$/;"	v
+_reviewInfo	documents/PreviewWrapper.as	/^		public var _reviewInfo:Array = new Array();$/;"	v
+_reviewInfo	documents/PreviewWrapperGated.as	/^		public var _reviewInfo:Array = new Array();$/;"	v
+_reviewInfo	documents/PreviewWrapper_broken.as	/^		public var _reviewInfo:Array = new Array();$/;"	v
+_reviewInfo	documents/QuickCheckMC.as	/^		var _reviewInfo:Array = new Array();$/;"	v
+_reviewText	documents/DragAndDropQuiz.as	/^		private var _reviewText:String;$/;"	v
+_soundChannel	sound/SoundSync.as	/^		private var _soundChannel:SoundChannel;$/;"	v
+_startTime	sound/SoundSync.as	/^		private var _startTime:Number;$/;"	v
+_textBackGround	popups/CourseMessage.as	/^		private var _textBackGround:Sprite = new Sprite();$/;"	v
+_textBackGround	popups/HelpReminder.as	/^		private var _textBackGround:Sprite = new Sprite();$/;"	v
+_timer	sound/SoundSync.as	/^		private var _timer:Timer;$/;"	v
+_timerInterval	sound/SoundSync.as	/^		private var _timerInterval:uint;$/;"	v
+_titleFormat	popups/TableOfContents.as	/^		private var _titleFormat:TextFormat = new TextFormat();	$/;"	v
+_tries	documents/DragAndDropQuiz.as	/^		private var _tries:int = 0;$/;"	v
+_tries	games/QuizItemDragAndDrop.as	/^		private var _tries:int = 0;$/;"	v
+_tries	quiz/QuizItem_DD.as	/^		private var _tries:int = 0;$/;"	v
+_tries	quiz/QuizItem_MC.as	/^		private var _tries:int;$/;"	v
+aArrayACopy	utilities/ArrayUtilities.as	/^      var aArrayACopy:Array = aArrayA.concat();$/;"	v
+aArrayBCopy	utilities/ArrayUtilities.as	/^      var aArrayBCopy:Array = aArrayB.concat();$/;"	v
+aCopy	utilities/ArrayUtilities.as	/^      var aCopy:Array = aArray.concat();$/;"	v
+aIndices	utilities/ArrayUtilities.as	/^      var aIndices:Array = new Array();$/;"	v
+aRandomized	utilities/ArrayUtilities.as	/^      var aRandomized:Array = new Array();$/;"	v
+addAnswer	elements/CanYouRemember.as	/^		public function addAnswer(blankName:CYRTextEntry, answer:String):void $/;"	f
+addAnswer	quiz/QuizItem_FB.as	/^		public function addAnswer(blankName:BlankStandard, answer:String):void $/;"	f
+addAnswer	quiz/QuizItem_MC.as	/^		public function addAnswer(answer:String, isCorrectAnswer:Boolean = false):void $/;"	f
+addAnswer	test/TestItem.as	/^		public function addAnswer(answer:String, isCorrectAnswer:Boolean):void $/;"	f
+addButtons	buttons/ButtonSet.as	/^		public function addButtons(buttonSet:Array):void $/;"	f
+addCuePoint	sound/SoundSync.as	/^		public function addCuePoint(cuePointName:String, cuePointTime:uint):void {$/;"	f
+addDistinct	utilities/ArrayUtilities.as	/^	public static function addDistinct(aArray:Array, value:Array):Array$/;"	f
+addEndBtnToStage	quiz/QuizCombined.as	/^		private function addEndBtnToStage():void $/;"	f
+addMenuItems	documents/CourseSwf.as	/^		private function addMenuItems():void$/;"	f
+addQuestionToStage	quiz/QuizCombined.as	/^		private function addQuestionToStage(question):void $/;"	f
+addResultsToStage	quiz/QuizCombined.as	/^		private function addResultsToStage():void$/;"	f
+addReviewInfo	documents/CourseWrapper.as	/^		public function addReviewInfo(value:String):void $/;"	f
+addReviewInfo	documents/CourseWrapperGated.as	/^		public function addReviewInfo(value:String):void $/;"	f
+addReviewInfo	documents/CourseWrapperStarLearning.as	/^		public function addReviewInfo(value:String):void $/;"	f
+addReviewInfo	documents/CourseWrapper_broken.as	/^		public function addReviewInfo(value:String):void $/;"	f
+addReviewInfo	documents/FalconCourseWrapper.as	/^		public function addReviewInfo(value:String):void $/;"	f
+addReviewInfo	documents/FalconPreviewWrapper.as	/^		public function addReviewInfo(value:String):void $/;"	f
+addReviewInfo	documents/PreviewWrapper.as	/^		public function addReviewInfo(value:String):void $/;"	f
+addReviewInfo	documents/PreviewWrapperGated.as	/^		public function addReviewInfo(value:String):void $/;"	f
+addReviewInfo	documents/PreviewWrapper_broken.as	/^		public function addReviewInfo(value:String):void $/;"	f
+almostCorrectKeywords	documents/CourseReview.as	/^		private var almostCorrectKeywords:Array = new Array();$/;"	v
+almostCorrectReviewPages	documents/CourseWrapper.as	/^		public var almostCorrectReviewPages:Array = new Array();$/;"	v
+almostCorrectReviewPages	documents/CourseWrapperGated.as	/^		public var almostCorrectReviewPages:Array = new Array();$/;"	v
+almostCorrectReviewPages	documents/CourseWrapperStarLearning.as	/^		public var almostCorrectReviewPages:Array = new Array();$/;"	v
+almostCorrectReviewPages	documents/CourseWrapper_broken.as	/^		public var almostCorrectReviewPages:Array = new Array();$/;"	v
+almostCorrectReviewPages	documents/FalconCourseWrapper.as	/^		public var almostCorrectReviewPages:Array = new Array();$/;"	v
+almostCorrectReviewPages	documents/FalconPreviewWrapper.as	/^		public var almostCorrectReviewPages:Array = new Array();$/;"	v
+almostCorrectReviewPages	documents/PreviewWrapper.as	/^		public var almostCorrectReviewPages:Array = new Array();$/;"	v
+almostCorrectReviewPages	documents/PreviewWrapperGated.as	/^		public var almostCorrectReviewPages:Array = new Array();$/;"	v
+almostCorrectReviewPages	documents/PreviewWrapper_broken.as	/^		public var almostCorrectReviewPages:Array = new Array();$/;"	v
+alphas	buttons/DynamicButton.as	/^		var alphas:Array = [100, 100];$/;"	v
+alphas	documents/FalconCourseWrapper.as	/^            var alphas:Array = [1,1];$/;"	v
+alphas	documents/FalconPreviewWrapper.as	/^            var alphas:Array = [1,1];$/;"	v
+animator	documents/CourseSwf.as	/^		public var animator:CBAnimator;$/;"	v
+answer	elements/CanYouRemember.as	/^				var answer:String = blank[1];				$/;"	v
+answer	quiz/QuizItem_FB.as	/^				var answer:String = blank[1];				$/;"	v
+answer	test/CourseTest.as	/^					var answer = answers[j];$/;"	v
+answer	test/CourseTest.as	/^				var answer:String = currentTestItem.getAnswer(i);$/;"	v
+answer1	games/QuizItemFillTheBlank.as	/^		private var answer1:String;$/;"	v
+answer2	games/QuizItemFillTheBlank.as	/^		private var answer2:String;$/;"	v
+answerClicked	documents/QuickCheckMC.as	/^		private function answerClicked(event:MouseEvent):void$/;"	f
+answerClicked	games/QuizItemFillTheBlank.as	/^		private function answerClicked(event:MouseEvent):void$/;"	f
+answerClicked	games/QuizItemMultipleChoice.as	/^		private function answerClicked(event:MouseEvent):void$/;"	f
+answerClicked	test/CourseTest.as	/^		private function answerClicked(event:MouseEvent):void$/;"	f
+answerNum	test/CourseTest.as	/^			var answerNum:Number = targetName.charAt(12);$/;"	v
+answeredCorrectly	documents/CourseReview.as	/^		private var answeredCorrectly:Array = new Array();$/;"	v
+answeredCorrectlyAfterOneTry	documents/CourseReview.as	/^		private var answeredCorrectlyAfterOneTry:Array = new Array();$/;"	v
+answeredIncorrectly	documents/CourseReview.as	/^		private var answeredIncorrectly:Array = new Array();$/;"	v
+answers	documents/QuickCheckMC.as	/^		var answers:Array = new Array();$/;"	v
+answers	games/QuizItemMultipleChoice.as	/^		var answers:Array = new Array();$/;"	v
+answers	test/CourseTest.as	/^				var answers:XMLList = testItem.*;$/;"	v
+answers	test/TestItem.as	/^		public var answers:Array = new Array();$/;"	v
+askQuestion	test/CourseTest.as	/^		private function askQuestion():void $/;"	f
+assert	utilities/Console.as	/^		public function assert(...rest):void{$/;"	f
+average	utilities/ArrayUtilities.as	/^    public static function average(aArray:Array):Number {$/;"	f
+bMatch	utilities/ArrayUtilities.as	/^      var bMatch:Boolean = false;$/;"	v
+bPartialMatch	utilities/ArrayUtilities.as	/^      var bPartialMatch:Boolean = false;$/;"	v
+beginQuiz	quiz/QuizCombined.as	/^		private function beginQuiz():void $/;"	f
+bigToSmall	utilities/CBAnimator.as	/^        public function bigToSmall(duration:Number, delayInSeconds:Number, ...movieClips):void$/;"	f
+boxBeingDragged	documents/DragAndDropQuiz.as	/^		private var boxBeingDragged:MovieClip;$/;"	v
+boxBeingDragged	games/QuizItemDragAndDrop.as	/^		private var boxBeingDragged:MovieClip;$/;"	v
+boxBeingDragged	quiz/QuizItem_DD.as	/^		private var boxBeingDragged:MovieClip;$/;"	v
+btnH	buttons/DynamicButton.as	/^		var btnH:int;         \/\/ Button Height$/;"	v
+btnW	buttons/DynamicButton.as	/^		var btnW:int;         \/\/ Button Width$/;"	v
+buttonBkg	buttons/DynamicButton.as	/^			var buttonBkg:Sprite = new Sprite();$/;"	v
+buttons	buttons/ButtonSet.as	/^		public var buttons:Array;$/;"	v
+c	documents/CourseWrapper.as	/^			var c:String = getCourseTitle();$/;"	v
+c	documents/CourseWrapperGated.as	/^			var c:String = getCourseTitle();$/;"	v
+c	documents/CourseWrapperStarLearning.as	/^			var c:String = getCourseTitle();$/;"	v
+c	documents/CourseWrapper_broken.as	/^			var c:String = getCourseTitle();$/;"	v
+c	documents/FalconCourseWrapper.as	/^			var c:String = getCourseTitle();$/;"	v
+c	documents/FalconPreviewWrapper.as	/^			var c:String = getCourseTitle();$/;"	v
+c	documents/PreviewWrapper.as	/^			var c:String = getCourseTitle();$/;"	v
+c	documents/PreviewWrapperGated.as	/^			var c:String = getCourseTitle();$/;"	v
+c	documents/PreviewWrapper_broken.as	/^			var c:String = getCourseTitle();$/;"	v
+calculate	utilities/Rot13.as	/^		public function calculate(src:String):String {$/;"	f
+calculated	utilities/Rot13.as	/^			var calculated:String = new String("");$/;"	v
+captionText	events/CaptionEvent.as	/^		public var captionText:String;$/;"	v
+captionTextField	popups/sound/CBSoundPlayer.as	/^        private var captionTextField:TextField;$/;"	v
+ccFormat	popups/ClosedCaption.as	/^		private var ccFormat:TextFormat = new TextFormat();$/;"	v
+ccText	popups/ClosedCaption.as	/^		private var ccText:String;$/;"	v
+ceil	utilities/NumberUtilities.as	/^		public static function ceil (nNumber:Number, nRoundToInterval:Number = 1):Number$/;"	f
+changeBgColor	documents/CourseSwf.as	/^		public function changeBgColor(color:uint):void $/;"	f
+character	utilities/Rot13.as	/^				var character:String = src.charAt(i);$/;"	v
+characters	utilities/StringUtilities.as	/^			var characters:Array = original.split( "" );$/;"	v
+characters	utilities/StringUtilities.as	/^			var characters:Array = original.split("");$/;"	v
+characters	utilities/StringUtilities.as	/^		  var characters:Array = encoded.split( "" );$/;"	v
+chars	utilities/Rot13.as	/^		private static var chars:String = "ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMabcdefghijklmnopqrstuvwxyzabcdefghijklm";$/;"	v
+checkAnswer	documents/DragAndDropQuiz.as	/^		private function checkAnswer(dragBox:MovieClip, dropBox:MovieClip):Boolean$/;"	f
+checkAnswer	games/QuizItemDragAndDrop.as	/^		private function checkAnswer(dragBox:MovieClip, dropBox:MovieClip):Boolean$/;"	f
+checkAnswer	quiz/QuizItem_DD.as	/^		private function checkAnswer(dragBox:MovieClip, dropBox:MovieClip):Boolean$/;"	f
+checkAnswer	quiz/QuizItem_MC.as	/^		private function checkAnswer():void $/;"	f
+checkAnswerNumber	test/TestItem.as	/^		public function checkAnswerNumber(answerNumber:Number):String$/;"	f
+checkAnswers	documents/QuickCheckMC.as	/^		public function checkAnswers(event:MouseEvent):void{$/;"	f
+checkAnswers	games/QuizItemFillTheBlank.as	/^		public function checkAnswers(event:MouseEvent):void{$/;"	f
+checkAnswers	games/QuizItemMultipleChoice.as	/^		public function checkAnswers(event:MouseEvent):void{$/;"	f
+checkAnswersBtnClicked	games/QuizItemDragAndDrop.as	/^		private function checkAnswersBtnClicked(event:MouseEvent):void $/;"	f
+checkAnswersBtnClicked	quiz/QuizItem_DD.as	/^		private function checkAnswersBtnClicked(event:MouseEvent):void $/;"	f
+checkAnswersBtnClicked	quiz/QuizItem_FB.as	/^		private function checkAnswersBtnClicked(event:MouseEvent):void $/;"	f
+checkAnswersBtnClicked	quiz/QuizItem_MC.as	/^		private function checkAnswersBtnClicked(event:MouseEvent):void $/;"	f
+checkBadResponse	documents/QuickCheckMC.as	/^		public function checkBadResponse():Boolean{$/;"	f
+checkBoxClicked	quiz/QuizItem_MC.as	/^		private function checkBoxClicked(event:MouseEvent):void $/;"	f
+checkForBadResponse	games/QuizItemFillTheBlank.as	/^		public function checkForBadResponse():Boolean{$/;"	f
+checkForBadResponse	games/QuizItemMultipleChoice.as	/^		public function checkForBadResponse():Boolean{$/;"	f
+checkForBadResponse	quiz/QuizItem_FB.as	/^		private function checkForBadResponse():Boolean{$/;"	f
+checkForBadResponse	quiz/QuizItem_MC.as	/^		private function checkForBadResponse():Boolean{$/;"	f
+checkbox	documents/QuickCheckMC.as	/^				var checkbox = this["answerText"+i];$/;"	v
+checkbox	documents/QuickCheckMC.as	/^				var checkbox = this["check"+i];$/;"	v
+checkbox	games/QuizItemMultipleChoice.as	/^				var checkbox = this["answerText"+i];$/;"	v
+checkbox	games/QuizItemMultipleChoice.as	/^				var checkbox = this["check"+i];$/;"	v
+checkbox	quiz/QuizItem_MC.as	/^				var checkbox = this["check"+i];$/;"	v
+checkmark	documents/FalconDemo.as	/^		var checkmark:MovieClip = new CheckMark();$/;"	v
+checkmark	documents/FalconDemo.as	/^	public function checkmark(xPos:int, yPos:int, num:uint):void$/;"	f
+child	documents/CourseInteractionCombined.as	/^		    var child:DisplayObject; $/;"	v
+child	documents/DragAndDropQuiz.as	/^				var child = this.getChildAt(i);$/;"	v
+child	games/QuizItemDragAndDrop.as	/^				var child = this.getChildAt(i);$/;"	v
+child	quiz/QuizItem_DD.as	/^				var child = this.getChildAt(i);$/;"	v
+click	buttons/CourseButton.as	/^		function click(event:MouseEvent):void$/;"	f
+click	buttons/DynamicButton.as	/^		function click(event:MouseEvent):void$/;"	f
+click	elements/IKCheckBox.as	/^		private function click(event:MouseEvent):void$/;"	f
+clickHandler	documents/CourseFile.as	/^		private function clickHandler(event:MouseEvent):void$/;"	f
+clickHandler	documents/CourseFileCombined.as	/^		private function clickHandler(event:MouseEvent):void$/;"	f
+clickHandler	documents/CourseInteraction.as	/^		private function clickHandler(event:MouseEvent):void$/;"	f
+clickHandler	documents/CourseInteractionCombined.as	/^		private function clickHandler(event:MouseEvent):void$/;"	f
+clickHandler	documents/OneFrameFile.as	/^		private function clickHandler(event:MouseEvent):void$/;"	f
+clickHandler	popups/GenericPopup.as	/^		private function clickHandler(event:MouseEvent):void$/;"	f
+clickHandler	test/SimTest.as	/^		private function clickHandler(event:MouseEvent):void$/;"	f
+clicked	buttons/DisablingButton.as	/^		var clicked:Boolean = new Boolean();$/;"	v
+clicked	buttons/FalconCourseNavButton.as	/^		function clicked(event:MouseEvent):void$/;"	f
+clicked	buttons/ID_ContinueButton.as	/^		function clicked(event:MouseEvent):void$/;"	f
+clicked	buttons/ID_InvisibleContinueButton.as	/^		function clicked(event:MouseEvent):void$/;"	f
+clicked	elements/Clickable.as	/^		private function clicked(Event:MouseEvent):void$/;"	f
+clicked	test/SimTestCorrectButton.as	/^		function clicked(event:MouseEvent):void$/;"	f
+closeBtn	popups/CourseMessage.as	/^		public var closeBtn:DynamicButton = new DynamicButton(100, 30, 5, "Close");$/;"	v
+closeBtn	popups/HelpReminder.as	/^		public var closeBtn:DynamicButton = new DynamicButton(100, 30, 5, "Close");$/;"	v
+closeBtn	popups/sound/CBSoundPlayer.as	/^        private var closeBtn:SimpleButton = player_mc.close_btn;$/;"	v
+closeCourse	documents/CourseWrapper.as	/^		private function closeCourse(event:MouseEvent):void$/;"	f
+closeCourse	documents/CourseWrapperGated.as	/^		private function closeCourse(event:MouseEvent):void$/;"	f
+closeCourse	documents/CourseWrapperStarLearning.as	/^		private function closeCourse(event:MouseEvent):void$/;"	f
+closeCourse	documents/CourseWrapper_broken.as	/^		private function closeCourse(event:MouseEvent):void$/;"	f
+closeCourse	documents/FalconCourseWrapper.as	/^		private function closeCourse(event:MouseEvent):void$/;"	f
+closeCourse	documents/FalconPreviewWrapper.as	/^		private function closeCourse(event:MouseEvent):void$/;"	f
+closeCourse	documents/PreviewWrapper.as	/^		private function closeCourse(event:MouseEvent):void$/;"	f
+closeCourse	documents/PreviewWrapperGated.as	/^		private function closeCourse(event:MouseEvent):void$/;"	f
+closeCourse	documents/PreviewWrapper_broken.as	/^		private function closeCourse(event:MouseEvent):void$/;"	f
+closeGate	documents/CourseWrapper.as	/^		public function closeGate():void$/;"	f
+closeGate	documents/CourseWrapperGated.as	/^		public function closeGate():void$/;"	f
+closeGate	documents/CourseWrapperStarLearning.as	/^		public function closeGate():void$/;"	f
+closeGate	documents/CourseWrapper_broken.as	/^		public function closeGate():void$/;"	f
+closeGate	documents/FalconCourseWrapper.as	/^		public function closeGate():void$/;"	f
+closeGate	documents/FalconPreviewWrapper.as	/^		public function closeGate():void$/;"	f
+closeGate	documents/PreviewWrapper.as	/^		public function closeGate():void$/;"	f
+closeGate	documents/PreviewWrapperGated.as	/^		public function closeGate():void$/;"	f
+closeGate	documents/PreviewWrapper_broken.as	/^		public function closeGate():void$/;"	f
+closeReview	games/QuizItemDragAndDrop.as	/^		private function closeReview(e:Event):void$/;"	f
+closeReview	games/QuizItemFillTheBlank.as	/^		private function closeReview(e:Event):void$/;"	f
+closeReview	games/QuizItemMultipleChoice.as	/^		private function closeReview(e:Event):void$/;"	f
+closedCaption	documents/CourseWrapper.as	/^		public var closedCaption:ClosedCaption = new ClosedCaption();$/;"	v
+closedCaption	documents/CourseWrapperGated.as	/^		public var closedCaption:ClosedCaption = new ClosedCaption();$/;"	v
+closedCaption	documents/CourseWrapperStarLearning.as	/^		public var closedCaption:ClosedCaption = new ClosedCaption();$/;"	v
+closedCaption	documents/CourseWrapper_broken.as	/^		public var closedCaption:ClosedCaption = new ClosedCaption();$/;"	v
+closedCaption	documents/PreviewWrapper.as	/^		public var closedCaption:ClosedCaption = new ClosedCaption();$/;"	v
+closedCaption	documents/PreviewWrapperGated.as	/^		public var closedCaption:ClosedCaption = new ClosedCaption();$/;"	v
+closedCaption	documents/PreviewWrapper_broken.as	/^		public var closedCaption:ClosedCaption = new ClosedCaption();$/;"	v
+closedCaption_txt	popups/ClosedCaption.as	/^		public var closedCaption_txt:TextField = new TextField();$/;"	v
+code	utilities/Scorm.as	/^			var code:int = int(ExternalInterface.call("SCORM.debug.getCode"));$/;"	v
+codeMap	utilities/StringUtilities.as	/^		private static var codeMap:Object;$/;"	v
+colors	buttons/DynamicButton.as	/^		var colors:Array = [0xE26C44, 0xE8B04A];    \/\/ The main gradient of your button$/;"	v
+colors	documents/FalconCourseWrapper.as	/^            var colors:Array = [0x000000, 0x20201f];$/;"	v
+colors	documents/FalconPreviewWrapper.as	/^            var colors:Array = [0x000000, 0x20201f];$/;"	v
+completeHandler	documents/CourseWrapper_broken.as	/^		private function completeHandler(event:LoaderEvent):void {$/;"	f
+completeHandler	documents/PreviewWrapper_broken.as	/^		private function completeHandler(event:LoaderEvent):void {$/;"	f
+completion_status	documents/CourseWrapper.as	/^		private var completion_status:String;$/;"	v
+completion_status	documents/CourseWrapperGated.as	/^		private var completion_status:String;$/;"	v
+completion_status	documents/CourseWrapper_broken.as	/^		private var completion_status:String;$/;"	v
+completion_status	documents/FalconCourseWrapper.as	/^		private var completion_status:String;$/;"	v
+connect	utilities/Scorm.as	/^		public function connect():Boolean {$/;"	f
+copyright	documents/CourseWrapper.as	/^		private var copyright:String;$/;"	v
+copyright	documents/CourseWrapperGated.as	/^		private var copyright:String;$/;"	v
+copyright	documents/CourseWrapperStarLearning.as	/^		private var copyright:String;$/;"	v
+copyright	documents/FalconCourseWrapper.as	/^		private var copyright:String;$/;"	v
+copyright	documents/FalconPreviewWrapper.as	/^		private var copyright:String;$/;"	v
+copyright	documents/PreviewWrapper.as	/^		private var copyright:String;$/;"	v
+copyright	documents/PreviewWrapperGated.as	/^		private var copyright:String;$/;"	v
+correctAnswer	documents/QuickCheckMC.as	/^		var correctAnswer:int;$/;"	v
+correctAnswer	elements/CanYouRemember.as	/^		public function correctAnswer():void $/;"	f
+correctAnswer	games/QuizItemMultipleChoice.as	/^		var correctAnswer:int;$/;"	v
+correctAnswer	quiz/QuizItem_FB.as	/^		public function correctAnswer():void $/;"	f
+correctAnswer	test/TestItem.as	/^		public var correctAnswer:Number;$/;"	v
+correctAnswerFeedback	elements/CanYouRemember.as	/^		public var correctAnswerFeedback:String = "";$/;"	v
+correctAnswerHandler	documents/DragAndDropQuiz.as	/^		private function correctAnswerHandler(dragBox:MovieClip, dropBox:MovieClip):void$/;"	f
+correctAnswerHandler	games/QuizItemDragAndDrop.as	/^		private function correctAnswerHandler(dragBox:MovieClip, dropBox:MovieClip):void$/;"	f
+correctAnswerHandler	quiz/QuizItem_DD.as	/^		private function correctAnswerHandler(dragBox:MovieClip, dropBox:MovieClip):void$/;"	f
+correctAnswerHandler	quiz/QuizItem_MC.as	/^		private function correctAnswerHandler():void $/;"	f
+correctAnswers	documents/DragAndDropQuiz.as	/^		private var correctAnswers:int = 0;$/;"	v
+correctAnswers	games/QuizItemDragAndDrop.as	/^		private var correctAnswers:int = 0;$/;"	v
+correctAnswers	quiz/QuizItem_DD.as	/^		private var correctAnswers:int = 0;$/;"	v
+correctFeedback	documents/QuickCheckMC.as	/^		var correctFeedback:String;$/;"	v
+correctFeedback	games/QuizItemFillTheBlank.as	/^		private var correctFeedback:String;$/;"	v
+correctFeedback	games/QuizItemMultipleChoice.as	/^		var correctFeedback:String;$/;"	v
+correctFormat	elements/CYRTextEntry.as	/^		private var correctFormat:TextFormat = new TextFormat();		$/;"	v
+correctFormat	quiz/BlankStandard.as	/^		private var correctFormat:TextFormat = new TextFormat();		$/;"	v
+correctQuestions	quiz/QuizResults.as	/^		public var correctQuestions:Array = new Array();$/;"	v
+correctSound	games/QuizItemFillTheBlank.as	/^		private var correctSound:CorrectSound = new CorrectSound();$/;"	v
+correctSound	games/QuizItemMultipleChoice.as	/^		private var correctSound:CorrectSound = new CorrectSound();$/;"	v
+count	utilities/Console.as	/^		public function count(name:String=null):void{$/;"	f
+counter	sound/SoundSync.as	/^			var counter:uint = 0;$/;"	v
+courseDescription_txt	popups/TableOfContents.as	/^		public var courseDescription_txt:TextField = new TextField();$/;"	v
+courseNavButtonSet	documents/CourseWrapper.as	/^		private var courseNavButtonSet:ButtonSet = new ButtonSet();$/;"	v
+courseNavButtonSet	documents/CourseWrapperGated.as	/^		private var courseNavButtonSet:ButtonSet = new ButtonSet();$/;"	v
+courseNavButtonSet	documents/CourseWrapperStarLearning.as	/^		private var courseNavButtonSet:ButtonSet = new ButtonSet();$/;"	v
+courseNavButtonSet	documents/CourseWrapper_broken.as	/^		private var courseNavButtonSet:ButtonSet = new ButtonSet();$/;"	v
+courseNavButtonSet	documents/FalconCourseWrapper.as	/^		private var courseNavButtonSet:ButtonSet = new ButtonSet();$/;"	v
+courseNavButtonSet	documents/FalconPreviewWrapper.as	/^		private var courseNavButtonSet:ButtonSet = new ButtonSet();$/;"	v
+courseNavButtonSet	documents/PreviewWrapper.as	/^		private var courseNavButtonSet:ButtonSet = new ButtonSet();$/;"	v
+courseNavButtonSet	documents/PreviewWrapperGated.as	/^		private var courseNavButtonSet:ButtonSet = new ButtonSet();$/;"	v
+courseNavButtonSet	documents/PreviewWrapper_broken.as	/^		private var courseNavButtonSet:ButtonSet = new ButtonSet();$/;"	v
+coursePageInfo	documents/CourseReview.as	/^					var coursePageInfo:Array = [coursePage.@title, coursePage.@pagenum];$/;"	v
+coursePageKeywords	documents/CourseReview.as	/^		private var coursePageKeywords:Array = new Array();$/;"	v
+courseTitle	documents/CourseWrapper.as	/^		private var courseTitle:String;$/;"	v
+courseTitle	documents/CourseWrapperGated.as	/^		private var courseTitle:String;$/;"	v
+courseTitle	documents/CourseWrapperStarLearning.as	/^		private var courseTitle:String;$/;"	v
+courseTitle	documents/CourseWrapper_broken.as	/^		private var courseTitle:String;$/;"	v
+courseTitle	documents/FalconCourseWrapper.as	/^		private var courseTitle:String;$/;"	v
+courseTitle	documents/FalconPreviewWrapper.as	/^		private var courseTitle:String;$/;"	v
+courseTitle	documents/PreviewWrapper.as	/^		private var courseTitle:String;$/;"	v
+courseTitle	documents/PreviewWrapperGated.as	/^		private var courseTitle:String;$/;"	v
+courseTitle	documents/PreviewWrapper_broken.as	/^		private var courseTitle:String;$/;"	v
+courseTitle_txt	popups/TableOfContents.as	/^		public var courseTitle_txt:TextField = new TextField();$/;"	v
+courseXml	documents/CourseWrapper.as	/^		public var courseXml:XML;$/;"	v
+courseXml	documents/CourseWrapperGated.as	/^		public var courseXml:XML;$/;"	v
+courseXml	documents/CourseWrapperStarLearning.as	/^		public var courseXml:XML;$/;"	v
+courseXml	documents/CourseWrapper_broken.as	/^		public var courseXml:XML;$/;"	v
+courseXml	documents/FalconCourseWrapper.as	/^		public var courseXml:XML;$/;"	v
+courseXml	documents/FalconPreviewWrapper.as	/^		public var courseXml:XML;$/;"	v
+courseXml	documents/PreviewWrapper.as	/^		public var courseXml:XML;$/;"	v
+courseXml	documents/PreviewWrapperGated.as	/^		public var courseXml:XML;$/;"	v
+courseXml	documents/PreviewWrapper_broken.as	/^		public var courseXml:XML;$/;"	v
+cr	documents/CourseWrapper.as	/^			var cr:String = getCopyright();$/;"	v
+cr	documents/CourseWrapperGated.as	/^			var cr:String = getCopyright();$/;"	v
+cr	documents/CourseWrapperStarLearning.as	/^			var cr:String = getCopyright();$/;"	v
+cr	documents/FalconCourseWrapper.as	/^			var cr:String = getCopyright();$/;"	v
+cr	documents/FalconPreviewWrapper.as	/^			var cr:String = getCopyright();$/;"	v
+cr	documents/PreviewWrapper.as	/^			var cr:String = getCopyright();$/;"	v
+cr	documents/PreviewWrapperGated.as	/^			var cr:String = getCopyright();$/;"	v
+currentPage	documents/CourseWrapper.as	/^		public var currentPage:int;$/;"	v
+currentPage	documents/CourseWrapperGated.as	/^		public var currentPage:int;$/;"	v
+currentPage	documents/CourseWrapperStarLearning.as	/^		public var currentPage:int;$/;"	v
+currentPage	documents/CourseWrapper_broken.as	/^		public var currentPage:int;$/;"	v
+currentPage	documents/FalconCourseWrapper.as	/^		public var currentPage:int;$/;"	v
+currentPage	documents/FalconPreviewWrapper.as	/^		public var currentPage:int;$/;"	v
+currentPage	documents/PreviewWrapper.as	/^		public var currentPage:int;$/;"	v
+currentPage	documents/PreviewWrapperGated.as	/^		public var currentPage:int;$/;"	v
+currentPage	documents/PreviewWrapper_broken.as	/^		public var currentPage:int;$/;"	v
+currentQuestionNumber	test/CourseTest.as	/^		private var currentQuestionNumber:Number;$/;"	v
+currentTestItem	test/CourseTest.as	/^		private var currentTestItem:TestItem;$/;"	v
+dCurrent	utilities/NumberUtilities.as	/^			var dCurrent:Date = new Date();$/;"	v
+davitaWayPopup	documents/CourseFile.as	/^				var davitaWayPopup:DavitaWayPopup = new DavitaWayPopup();$/;"	v
+davitaWayPopup	documents/CourseInteraction.as	/^					var davitaWayPopup:DavitaWayPopup = new DavitaWayPopup();$/;"	v
+dealloc	documents/CourseSwf.as	/^		private function dealloc(event:Event):void$/;"	f
+dealloc	popups/GenericPopup.as	/^		private function dealloc(event:Event):void $/;"	f
+dealloc	popups/MainPopup.as	/^		private function dealloc(event:Event):void $/;"	f
+debug	utilities/Console.as	/^		public function debug(...rest):void{$/;"	f
+debugAlertText	documents/CourseSwf.as	/^			var debugAlertText = "This is the file named: " + filename + " at frame: " + currentFrame;$/;"	v
+debugInfo	utilities/Scorm.as	/^						var debugInfo:String = __getDebugInfo(errorCode);$/;"	v
+debugInfo	utilities/Scorm.as	/^					var debugInfo:String = __getDebugInfo(errorCode);$/;"	v
+decode	utilities/StringUtilities.as	/^		public static function decode( encoded:String ):String {$/;"	f
+defaultFormat	elements/CYRTextEntry.as	/^		private var defaultFormat:TextFormat = new TextFormat("Verdana", "12", 0x000000);$/;"	v
+defaultItems	documents/CourseSwf.as	/^			var defaultItems:ContextMenuBuiltInItems = myContextMenu.builtInItems;$/;"	v
+dir	utilities/Console.as	/^		public function dir(object:Object):void{$/;"	f
+dirxml	utilities/Console.as	/^		public function dirxml(object:XML):void{$/;"	f
+disable	elements/IKCheckBox.as	/^		public function disable():void$/;"	f
+disableAnswerButtons	test/CourseTest.as	/^		private function disableAnswerButtons():void$/;"	f
+disableButton	buttons/CourseNavButton.as	/^		public function disableButton():void$/;"	f
+disableButton	buttons/DisablingButton.as	/^		function disableButton():void$/;"	f
+disableButton	buttons/FalconCourseNavButton.as	/^		public function disableButton():void$/;"	f
+disableButtonsExcept	documents/CourseWrapper.as	/^		private function disableButtonsExcept(buttonName:String):void$/;"	f
+disableButtonsExcept	documents/CourseWrapperGated.as	/^		private function disableButtonsExcept(buttonName:String):void$/;"	f
+disableButtonsExcept	documents/CourseWrapperStarLearning.as	/^		private function disableButtonsExcept(buttonName:String):void$/;"	f
+disableButtonsExcept	documents/CourseWrapper_broken.as	/^		private function disableButtonsExcept(buttonName:String):void$/;"	f
+disableButtonsExcept	documents/FalconCourseWrapper.as	/^		private function disableButtonsExcept(buttonName:String):void$/;"	f
+disableButtonsExcept	documents/FalconPreviewWrapper.as	/^		private function disableButtonsExcept(buttonName:String):void$/;"	f
+disableButtonsExcept	documents/PreviewWrapper.as	/^		private function disableButtonsExcept(buttonName:String):void$/;"	f
+disableButtonsExcept	documents/PreviewWrapperGated.as	/^		private function disableButtonsExcept(buttonName:String):void$/;"	f
+disableButtonsExcept	documents/PreviewWrapper_broken.as	/^		private function disableButtonsExcept(buttonName:String):void$/;"	f
+disableCheckBoxes	documents/QuickCheckMC.as	/^		public function disableCheckBoxes():void{$/;"	f
+disableCheckBoxes	games/QuizItemMultipleChoice.as	/^		public function disableCheckBoxes():void{$/;"	f
+disableCheckBoxes	quiz/QuizItem_MC.as	/^		private function disableCheckBoxes():void $/;"	f
+disableComponents	documents/QuickCheckMC.as	/^		public function disableComponents():void{$/;"	f
+disableComponents	games/QuizItemMultipleChoice.as	/^		public function disableComponents():void{$/;"	f
+disableDragBox	documents/DragAndDropQuiz.as	/^		private function disableDragBox(box:MovieClip):void$/;"	f
+disableDragBox	games/QuizItemDragAndDrop.as	/^		private function disableDragBox(box:MovieClip):void$/;"	f
+disableDragBox	quiz/QuizItem_DD.as	/^		private function disableDragBox(box:MovieClip):void$/;"	f
+disableNextAndContentsButtons	documents/CourseWrapper.as	/^		private function disableNextAndContentsButtons():void$/;"	f
+disableNextAndContentsButtons	documents/CourseWrapperStarLearning.as	/^		private function disableNextAndContentsButtons():void$/;"	f
+disableNextAndContentsButtons	documents/CourseWrapper_broken.as	/^		private function disableNextAndContentsButtons():void$/;"	f
+disableNextAndContentsButtons	documents/FalconCourseWrapper.as	/^		private function disableNextAndContentsButtons():void$/;"	f
+disableNextAndContentsButtons	documents/FalconPreviewWrapper.as	/^		private function disableNextAndContentsButtons():void$/;"	f
+disableNextAndContentsButtons	documents/PreviewWrapper.as	/^		private function disableNextAndContentsButtons():void$/;"	f
+disableNextAndContentsButtons	documents/PreviewWrapper_broken.as	/^		private function disableNextAndContentsButtons():void$/;"	f
+disableOthers	buttons/DisablingButton.as	/^		function disableOthers(event:MouseEvent):void$/;"	f
+disabledBlur	documents/DragAndDropQuiz.as	/^		private var disabledBlur:BlurFilter = new BlurFilter();$/;"	v
+disabledBlur	games/QuizItemDragAndDrop.as	/^		private var disabledBlur:BlurFilter = new BlurFilter();$/;"	v
+disabledBlur	quiz/QuizItem_DD.as	/^		private var disabledBlur:BlurFilter = new BlurFilter();$/;"	v
+disconnect	utilities/Scorm.as	/^		public function disconnect():Boolean {$/;"	f
+displayMessage	popups/CourseMessage.as	/^		private function displayMessage():void$/;"	f
+displayMessage	popups/HelpReminder.as	/^		private function displayMessage():void$/;"	f
+dot	games/QuizItemFillTheBlank.as	/^			var dot:MovieClip = this.parent.parent["dot"+label];$/;"	v
+dot	games/QuizItemMultipleChoice.as	/^			var dot:MovieClip = this.parent.parent["dot"+label];$/;"	v
+doubleClicked	elements/DoubleClickable.as	/^		private function doubleClicked(Event:MouseEvent):void$/;"	f
+dragBoxNum	documents/DragAndDropQuiz.as	/^			var dragBoxNum:Number = dragBox.name.charAt(dragBox.name.length - 1);$/;"	v
+dragBoxNum	games/QuizItemDragAndDrop.as	/^			var dragBoxNum:Number = parseInt(dragBox.name.charAt(dragBox.name.length - 1));$/;"	v
+dragBoxNum	quiz/QuizItem_DD.as	/^			var dragBoxNum:Number = parseInt(dragBox.name.charAt(dragBox.name.length - 1));$/;"	v
+dragSelectedBox	documents/DragAndDropQuiz.as	/^		private function dragSelectedBox(event:MouseEvent):void$/;"	f
+dragSelectedBox	games/QuizItemDragAndDrop.as	/^		private function dragSelectedBox(event:MouseEvent):void$/;"	f
+dragSelectedBox	quiz/QuizItem_DD.as	/^		private function dragSelectedBox(event:MouseEvent):void$/;"	f
+drawBackground	documents/CourseSwf.as	/^		private function drawBackground():void$/;"	f
+drawBackground	documents/FalconCourseWrapper.as	/^		private function drawBackground():void$/;"	f
+drawBackground	documents/FalconPreviewWrapper.as	/^		private function drawBackground():void$/;"	f
+drawBackground	games/QuizGame.as	/^		private function drawBackground():void$/;"	f
+drawBackground	popups/CourseMessage.as	/^		private function drawBackground():void$/;"	f
+drawBackground	popups/HelpReminder.as	/^		private function drawBackground():void$/;"	f
+drawButton	popups/CourseMessage.as	/^		private function drawButton():void$/;"	f
+drawButton	popups/HelpReminder.as	/^		private function drawButton():void$/;"	f
+drawTextBackground	popups/CourseMessage.as	/^		private function drawTextBackground():void$/;"	f
+drawTextBackground	popups/HelpReminder.as	/^		private function drawTextBackground():void$/;"	f
+dropBox	documents/DragAndDropQuiz.as	/^				var dropBox:MovieClip = event.target.dropTarget.parent;$/;"	v
+dropBox	games/QuizItemDragAndDrop.as	/^				var dropBox:MovieClip = event.target.dropTarget.parent;$/;"	v
+dropBox	quiz/QuizItem_DD.as	/^				var dropBox:MovieClip = event.target.dropTarget.parent;$/;"	v
+dropBoxNum	documents/DragAndDropQuiz.as	/^			var dropBoxNum:Number = dropBox.name.charAt(dropBox.name.length - 1);$/;"	v
+dropBoxNum	games/QuizItemDragAndDrop.as	/^			var dropBoxNum:Number = parseInt(dropBox.name.charAt(dropBox.name.length - 1));$/;"	v
+dropBoxNum	quiz/QuizItem_DD.as	/^			var dropBoxNum:Number = parseInt(dropBox.name.charAt(dropBox.name.length - 1));$/;"	v
+duplicate	utilities/ArrayUtilities.as	/^    public static function duplicate(oArray:Object, bRecursive:Boolean = false):Object {$/;"	f
+eiCall	utilities/Scorm.as	/^				var eiCall:String = String(ExternalInterface.call("SCORM.connection.initialize"));$/;"	v
+eiCall	utilities/Scorm.as	/^				var eiCall:String = String(ExternalInterface.call("SCORM.connection.terminate"));$/;"	v
+eiCall	utilities/Scorm.as	/^				var eiCall:String = String(ExternalInterface.call("SCORM.data.save"));$/;"	v
+eiCall	utilities/Scorm.as	/^				var eiCall:String = String(ExternalInterface.call("SCORM.data.set", parameter, value));$/;"	v
+enable	elements/IKCheckBox.as	/^		public function enable():void$/;"	f
+enableAllButtons	documents/CourseWrapper.as	/^		private function enableAllButtons():void$/;"	f
+enableAllButtons	documents/CourseWrapperGated.as	/^		private function enableAllButtons():void$/;"	f
+enableAllButtons	documents/CourseWrapperStarLearning.as	/^		private function enableAllButtons():void$/;"	f
+enableAllButtons	documents/CourseWrapper_broken.as	/^		private function enableAllButtons():void$/;"	f
+enableAllButtons	documents/FalconCourseWrapper.as	/^		private function enableAllButtons():void$/;"	f
+enableAllButtons	documents/FalconPreviewWrapper.as	/^		private function enableAllButtons():void$/;"	f
+enableAllButtons	documents/PreviewWrapper.as	/^		private function enableAllButtons():void$/;"	f
+enableAllButtons	documents/PreviewWrapperGated.as	/^		private function enableAllButtons():void$/;"	f
+enableAllButtons	documents/PreviewWrapper_broken.as	/^		private function enableAllButtons():void$/;"	f
+enableAnswerButtons	test/CourseTest.as	/^		private function enableAnswerButtons():void$/;"	f
+enableButton	buttons/CourseNavButton.as	/^		public function enableButton():void$/;"	f
+enableButton	buttons/DisablingButton.as	/^		function enableButton():void$/;"	f
+enableButton	buttons/FalconCourseNavButton.as	/^		public function enableButton():void$/;"	f
+enableDragBox	games/QuizItemDragAndDrop.as	/^		private function enableDragBox(box:MovieClip):void$/;"	f
+enableNextAndContentsButtons	documents/CourseWrapper.as	/^		private function enableNextAndContentsButtons():void$/;"	f
+enableNextAndContentsButtons	documents/CourseWrapperStarLearning.as	/^		private function enableNextAndContentsButtons():void$/;"	f
+enableNextAndContentsButtons	documents/CourseWrapper_broken.as	/^		private function enableNextAndContentsButtons():void$/;"	f
+enableNextAndContentsButtons	documents/FalconCourseWrapper.as	/^		private function enableNextAndContentsButtons():void$/;"	f
+enableNextAndContentsButtons	documents/FalconPreviewWrapper.as	/^		private function enableNextAndContentsButtons():void$/;"	f
+enableNextAndContentsButtons	documents/PreviewWrapper.as	/^		private function enableNextAndContentsButtons():void$/;"	f
+enableNextAndContentsButtons	documents/PreviewWrapper_broken.as	/^		private function enableNextAndContentsButtons():void$/;"	f
+enableOthers	buttons/DisablingButton.as	/^		function enableOthers():void$/;"	f
+encode	utilities/StringUtilities.as	/^		public static function encode( original:String ):String {$/;"	f
+endBtn	quiz/QuizCombined.as	/^            var endBtn:MovieClip;$/;"	v
+equals	utilities/ArrayUtilities.as	/^    public static function equals(aArrayA:Array, aArrayB:Array, bNotOrdered:Boolean, bRecursive:Boolean):Boolean {$/;"	f
+error	utilities/Console.as	/^		public function error(...rest):void{$/;"	f
+errorCode	utilities/Scorm.as	/^					var errorCode:int = __getDebugCode();$/;"	v
+errorCode	utilities/Scorm.as	/^				var errorCode:int = __getDebugCode();$/;"	v
+errorHandler	documents/CourseWrapper_broken.as	/^		private function errorHandler(event:LoaderEvent):void {$/;"	f
+errorHandler	documents/PreviewWrapper_broken.as	/^		private function errorHandler(event:LoaderEvent):void {$/;"	f
+errorTest	test/CourseTest.as	/^		private function errorTest(event:IOErrorEvent):void $/;"	f
+expectedString	elements/TextEntry.as	/^		public var expectedString:String;$/;"	v
+extensionIndex	utilities/StringUtilities.as	/^			var extensionIndex:Number = filename.lastIndexOf( '.' );$/;"	v
+extractExtension	utilities/StringUtilities.as	/^		public static function extractExtension( filename:String ):String {$/;"	f
+fadeIn	utilities/CBAnimator.as	/^		public function fadeIn(duration:Number, delay:Number, ...movieClips):void$/;"	f
+fadeOut	utilities/CBAnimator.as	/^		public function fadeOut(duration:Number, delay:Number, ...movieClips):void$/;"	f
+falconFormat	quiz/BlankStandard.as	/^        private var falconFormat:TextFormat = new TextFormat("Verdana", "12", 0xFFFFFF);$/;"	v
+feedback	test/CourseTest.as	/^				var feedback:String = testItem.@feedback;$/;"	v
+feedback	test/CourseTest.as	/^			var feedback:String = currentTestItem.getFeedback();$/;"	v
+feedback	test/TestItem.as	/^		public var feedback:String;$/;"	v
+filename	documents/CourseSwf.as	/^			var filename:String = (_myParent.xmlPages[_myParent.currentPage].@source).split("\/")[1];$/;"	v
+fillInTheBlanks	elements/CanYouRemember.as	/^		private function fillInTheBlanks(event:MouseEvent):void $/;"	f
+fillInTheBlanks	quiz/QuizItem_FB.as	/^		private function fillInTheBlanks():void $/;"	f
+fillType	buttons/DynamicButton.as	/^		var fillType:String = GradientType.LINEAR;$/;"	v
+filltype	documents/FalconCourseWrapper.as	/^            var filltype:String = GradientType.LINEAR;$/;"	v
+filltype	documents/FalconPreviewWrapper.as	/^            var filltype:String = GradientType.LINEAR;$/;"	v
+finalX	documents/FalconDemo.as	/^		var finalX:int = movieClip.x;$/;"	v
+finalY	documents/FalconDemo.as	/^		var finalY:int = movieClip.y;$/;"	v
+findKeyword	popups/Search.as	/^		public function findKeyword(event:MouseEvent):void $/;"	f
+findLastMatchIndex	utilities/ArrayUtilities.as	/^    public static function findLastMatchIndex(aArray:Array, oElement:Object, oParameter:Object):Number {$/;"	f
+findMatchIndex	utilities/ArrayUtilities.as	/^    public static function findMatchIndex(aArray:Array, oElement:Object, ...rest):Number {$/;"	f
+findMatchIndices	utilities/ArrayUtilities.as	/^    public static function findMatchIndices(aArray:Array, oElement:Object, bPartialMatch:Boolean = false):Array {$/;"	f
+floor	utilities/NumberUtilities.as	/^		public static function floor (nNumber:Number, nRoundToInterval:Number = 1):Number$/;"	f
+fullURL	documents/CourseWrapper.as	/^					var fullURL:String = ExternalInterface.call("window.location.href.toString");$/;"	v
+fullURL	documents/CourseWrapperGated.as	/^					var fullURL:String = ExternalInterface.call("window.location.href.toString");$/;"	v
+fullURL	documents/CourseWrapperStarLearning.as	/^					var fullURL:String = ExternalInterface.call("window.location.href.toString");$/;"	v
+fullURL	documents/CourseWrapper_broken.as	/^					var fullURL:String = ExternalInterface.call("window.location.href.toString");$/;"	v
+fullURL	documents/FalconCourseWrapper.as	/^					var fullURL:String = ExternalInterface.call("window.location.href.toString");$/;"	v
+fullURL	documents/FalconPreviewWrapper.as	/^					var fullURL:String = ExternalInterface.call("window.location.href.toString");$/;"	v
+fullURL	documents/PreviewWrapper.as	/^					var fullURL:String = ExternalInterface.call("window.location.href.toString");$/;"	v
+fwdBtn	popups/sound/CBSoundPlayer.as	/^        private var fwdBtn:SimpleButton = player_mc.fwd_btn;$/;"	v
+gateCourse	documents/CourseSwf.as	/^		public function gateCourse():void$/;"	f
+gateCourse	games/QuizGame.as	/^		public function gateCourse():void$/;"	f
+get	utilities/Scorm.as	/^		public function get(param:String):String {$/;"	f
+getAnswer	test/TestItem.as	/^		public function getAnswer(answerNumberToGet:Number):String$/;"	f
+getBookmarkedPage	documents/CourseWrapper.as	/^		public function getBookmarkedPage():int $/;"	f
+getBookmarkedPage	documents/CourseWrapperGated.as	/^		public function getBookmarkedPage():int $/;"	f
+getBookmarkedPage	documents/CourseWrapperStarLearning.as	/^		public function getBookmarkedPage():int $/;"	f
+getBookmarkedPage	documents/CourseWrapper_broken.as	/^		public function getBookmarkedPage():int $/;"	f
+getBookmarkedPage	documents/FalconCourseWrapper.as	/^		public function getBookmarkedPage():int $/;"	f
+getBookmarkedPage	documents/FalconPreviewWrapper.as	/^		public function getBookmarkedPage():int $/;"	f
+getBookmarkedPage	documents/PreviewWrapper.as	/^		public function getBookmarkedPage():int $/;"	f
+getBookmarkedPage	documents/PreviewWrapperGated.as	/^		public function getBookmarkedPage():int $/;"	f
+getBookmarkedPage	documents/PreviewWrapper_broken.as	/^		public function getBookmarkedPage():int $/;"	f
+getButtonText	documents/QuickCheckMC.as	/^		public function getButtonText():String{$/;"	f
+getButtonText	games/QuizItemDragAndDrop.as	/^		public function getButtonText():String{$/;"	f
+getButtonText	games/QuizItemFillTheBlank.as	/^		public function getButtonText():String{$/;"	f
+getButtonText	games/QuizItemMultipleChoice.as	/^		public function getButtonText():String{$/;"	f
+getCcText	documents/CourseSwf.as	/^		public function getCcText():String $/;"	f
+getCcText	popups/ClosedCaption.as	/^		public function getCcText():String$/;"	f
+getCopyright	documents/CourseWrapper.as	/^		public function getCopyright():String $/;"	f
+getCopyright	documents/CourseWrapperGated.as	/^		public function getCopyright():String $/;"	f
+getCopyright	documents/CourseWrapperStarLearning.as	/^		public function getCopyright():String $/;"	f
+getCopyright	documents/FalconCourseWrapper.as	/^		public function getCopyright():String $/;"	f
+getCopyright	documents/FalconPreviewWrapper.as	/^		public function getCopyright():String $/;"	f
+getCopyright	documents/PreviewWrapper.as	/^		public function getCopyright():String $/;"	f
+getCopyright	documents/PreviewWrapperGated.as	/^		public function getCopyright():String $/;"	f
+getCorrectAnswer	documents/QuickCheckMC.as	/^		public function getCorrectAnswer():String{$/;"	f
+getCorrectAnswer	games/QuizItemFillTheBlank.as	/^		public function getCorrectAnswer():String{$/;"	f
+getCorrectAnswer	games/QuizItemMultipleChoice.as	/^		public function getCorrectAnswer():String{$/;"	f
+getCorrectAnswerNumber	test/TestItem.as	/^		public function getCorrectAnswerNumber():Number$/;"	f
+getCourseTitle	documents/CourseWrapper.as	/^		public function getCourseTitle():String $/;"	f
+getCourseTitle	documents/CourseWrapperGated.as	/^		public function getCourseTitle():String $/;"	f
+getCourseTitle	documents/CourseWrapperStarLearning.as	/^		public function getCourseTitle():String $/;"	f
+getCourseTitle	documents/CourseWrapper_broken.as	/^		public function getCourseTitle():String $/;"	f
+getCourseTitle	documents/FalconCourseWrapper.as	/^		public function getCourseTitle():String $/;"	f
+getCourseTitle	documents/FalconPreviewWrapper.as	/^		public function getCourseTitle():String $/;"	f
+getCourseTitle	documents/PreviewWrapper.as	/^		public function getCourseTitle():String $/;"	f
+getCourseTitle	documents/PreviewWrapperGated.as	/^		public function getCourseTitle():String $/;"	f
+getCourseTitle	documents/PreviewWrapper_broken.as	/^		public function getCourseTitle():String $/;"	f
+getCuePoint	sound/SoundSync.as	/^		public function getCuePoint(nameOrTime:Object):Object {$/;"	f
+getCurrentCuePointIndex	sound/SoundSync.as	/^		private function getCurrentCuePointIndex(cuePoint:CuePointEvent):uint {$/;"	f
+getCurrentPage	documents/CourseWrapper.as	/^		public function getCurrentPage():int$/;"	f
+getCurrentPage	documents/CourseWrapperGated.as	/^		public function getCurrentPage():int$/;"	f
+getCurrentPage	documents/CourseWrapperStarLearning.as	/^		public function getCurrentPage():int$/;"	f
+getCurrentPage	documents/CourseWrapper_broken.as	/^		public function getCurrentPage():int$/;"	f
+getCurrentPage	documents/FalconCourseWrapper.as	/^		public function getCurrentPage():int$/;"	f
+getCurrentPage	documents/FalconPreviewWrapper.as	/^		public function getCurrentPage():int$/;"	f
+getCurrentPage	documents/PreviewWrapper.as	/^		public function getCurrentPage():int$/;"	f
+getCurrentPage	documents/PreviewWrapperGated.as	/^		public function getCurrentPage():int$/;"	f
+getCurrentPage	documents/PreviewWrapper_broken.as	/^		public function getCurrentPage():int$/;"	f
+getFeedback	test/TestItem.as	/^		public function getFeedback():String$/;"	f
+getLoadedPageInfo	documents/CourseWrapper.as	/^		private function getLoadedPageInfo (event:Event):void		$/;"	f
+getLoadedPageInfo	documents/CourseWrapperGated.as	/^		private function getLoadedPageInfo (event:Event):void		$/;"	f
+getLoadedPageInfo	documents/CourseWrapperStarLearning.as	/^		private function getLoadedPageInfo (event:Event):void		$/;"	f
+getLoadedPageInfo	documents/PreviewWrapper.as	/^		private function getLoadedPageInfo (event:Event):void		$/;"	f
+getLoadedPageInfo	documents/PreviewWrapperGated.as	/^		private function getLoadedPageInfo (event:Event):void		$/;"	f
+getMixedFeedback	quiz/QuizResults.as	/^		private function getMixedFeedback():String$/;"	f
+getMode	quiz/QuizResults.as	/^		private function getMode():String $/;"	f
+getNegativeFeedback	quiz/QuizResults.as	/^		private function getNegativeFeedback():String$/;"	f
+getNextCuePointIndex	sound/SoundSync.as	/^		private function getNextCuePointIndex(milliseconds:Number):uint {$/;"	f
+getNumOfAnswers	test/TestItem.as	/^		public function getNumOfAnswers():Number$/;"	f
+getNumberOfRequiredLetters	elements/CanYouRemember.as	/^		public function getNumberOfRequiredLetters():int $/;"	f
+getNumberOfRequiredLetters	quiz/QuizItem_FB.as	/^		public function getNumberOfRequiredLetters():int $/;"	f
+getPageTitle	documents/CourseWrapper.as	/^		public function getPageTitle():String $/;"	f
+getPageTitle	documents/CourseWrapperGated.as	/^		public function getPageTitle():String $/;"	f
+getPageTitle	documents/CourseWrapperStarLearning.as	/^		public function getPageTitle():String $/;"	f
+getPageTitle	documents/CourseWrapper_broken.as	/^		public function getPageTitle():String $/;"	f
+getPageTitle	documents/FalconCourseWrapper.as	/^		public function getPageTitle():String $/;"	f
+getPageTitle	documents/FalconPreviewWrapper.as	/^		public function getPageTitle():String $/;"	f
+getPageTitle	documents/PreviewWrapper.as	/^		public function getPageTitle():String $/;"	f
+getPageTitle	documents/PreviewWrapperGated.as	/^		public function getPageTitle():String $/;"	f
+getPageTitle	documents/PreviewWrapper_broken.as	/^		public function getPageTitle():String $/;"	f
+getPositiveFeedback	quiz/QuizItem_FB.as	/^		private function getPositiveFeedback():String$/;"	f
+getPositiveFeedback	quiz/QuizItem_MC.as	/^		private function getPositiveFeedback():String$/;"	f
+getPositiveFeedback	quiz/QuizResults.as	/^		private function getPositiveFeedback():String$/;"	f
+getPositiveFeedback	test/CourseTest.as	/^		private function getPositiveFeedback():String$/;"	f
+getQuestion	test/TestItem.as	/^		public function getQuestion():String$/;"	f
+getSelectedCheckboxNumber	quiz/QuizItem_MC.as	/^		private function getSelectedCheckboxNumber():int $/;"	f
+getTestTitle	test/CourseTest.as	/^		private function getTestTitle():String $/;"	f
+getTotalQuestions	documents/DragAndDropQuiz.as	/^		private function getTotalQuestions():int$/;"	f
+getTotalQuestions	games/QuizItemDragAndDrop.as	/^		private function getTotalQuestions():int$/;"	f
+getTotalQuestions	quiz/QuizItem_DD.as	/^		private function getTotalQuestions():int$/;"	f
+getUnique	utilities/NumberUtilities.as	/^		public static function getUnique ():Number$/;"	f
+getValidateImmediately	elements/TextEntry.as	/^		public function getValidateImmediately():Boolean$/;"	f
+giveFeedback	quiz/QuizResults.as	/^		private function giveFeedback():void $/;"	f
+glow	utilities/CBAnimator.as	/^        public function glow(duration:Number, delayInSeconds:Number, myColor:String, ...movieClips):void$/;"	f
+goToAndClick	elements/Arrow.as	/^		public function goToAndClick(xPos:int, yPos:int, seconds:int):void $/;"	f
+goToAndClick	elements/Copyright.as	/^		public function goToAndClick(xPos:int, yPos:int, seconds:int):void $/;"	f
+goToReview	documents/DragAndDropQuiz.as	/^		private function goToReview():void$/;"	f
+goToReview	games/QuizItemDragAndDrop.as	/^		public function goToReview():void$/;"	f
+goToReview	games/QuizItemFillTheBlank.as	/^		public function goToReview(event:MouseEvent):void$/;"	f
+goToReview	games/QuizItemMultipleChoice.as	/^		public function goToReview(event:MouseEvent):void$/;"	f
+gotoPopup	popups/GenericPopup.as	/^		private function gotoPopup():void$/;"	f
+group	utilities/Console.as	/^		public function group(...rest):void{$/;"	f
+groupEnd	utilities/Console.as	/^		public function groupEnd():void{$/;"	f
+handleClick	elements/ID_RadioButton.as	/^		private function handleClick(e:MouseEvent):void$/;"	f
+handleKeyUp	elements/CYRTextEntry.as	/^		private function handleKeyUp(event:KeyboardEvent):void$/;"	f
+handleKeyUp	elements/TextEntry.as	/^		private function handleKeyUp(event:KeyboardEvent):void$/;"	f
+handleKeyUp	quiz/BlankStandard.as	/^		private function handleKeyUp(event:KeyboardEvent):void$/;"	f
+handleLink	documents/CourseReview.as	/^		private function handleLink(event:TextEvent):void $/;"	f
+handleLink	popups/Review.as	/^		private function handleLink(event:TextEvent):void $/;"	f
+handleLink	popups/Search.as	/^		private function handleLink(event:TextEvent):void $/;"	f
+handleRollOut	elements/RollOverInfo.as	/^		private function handleRollOut(e:MouseEvent):void$/;"	f
+handleRollOver	elements/RollOverInfo.as	/^		private function handleRollOver(e:MouseEvent):void$/;"	f
+hasAnswered	test/CourseTest.as	/^			var hasAnswered:Boolean = false;$/;"	v
+hasAudio	documents/CourseSwf.as	/^		public var hasAudio:Boolean = new Boolean();$/;"	v
+hasUnlimitedChances	documents/DragAndDropQuiz.as	/^		private var hasUnlimitedChances:Boolean = new Boolean();$/;"	v
+hasUnlimitedChances	games/QuizItemDragAndDrop.as	/^		private var hasUnlimitedChances:Boolean = new Boolean();$/;"	v
+hasUnlimitedChances	quiz/QuizItem_DD.as	/^		private var hasUnlimitedChances:Boolean = new Boolean();$/;"	v
+headerFadeIn	documents/FalconDemo.as	/^	public function headerFadeIn(...movieClips):void$/;"	f
+help	documents/CourseWrapper.as	/^		private var help:Help = new Help();$/;"	v
+help	documents/CourseWrapperGated.as	/^		private var help:Help = new Help();$/;"	v
+help	documents/CourseWrapperStarLearning.as	/^		private var help:Help = new Help();$/;"	v
+help	documents/CourseWrapper_broken.as	/^		private var help:Help = new Help();$/;"	v
+help	documents/FalconCourseWrapper.as	/^		private var help:Help = new Help();$/;"	v
+help	documents/FalconPreviewWrapper.as	/^		private var help:Help = new Help();$/;"	v
+help	documents/PreviewWrapper.as	/^		private var help:Help = new Help();$/;"	v
+help	documents/PreviewWrapperGated.as	/^		private var help:Help = new Help();$/;"	v
+help	documents/PreviewWrapper_broken.as	/^		private var help:Help = new Help();$/;"	v
+helpTxt	popups/HelpReminder.as	/^		private var helpTxt:TextField = new TextField();$/;"	v
+hideAllAnswers	quiz/QuizItem_MC.as	/^		private function hideAllAnswers():void $/;"	f
+hideAllAnswers	test/CourseTest.as	/^		private function hideAllAnswers():void$/;"	f
+hideCC	popups/ClosedCaption.as	/^		public function hideCC():void$/;"	f
+hideReview	popups/Review.as	/^		private function hideReview(event:MouseEvent):void$/;"	f
+hilite	documents/FalconDemo.as	/^		var hilite:MovieClip = new MouseHilite();$/;"	v
+hilite	documents/FalconDemo.as	/^	public function hilite(xPos:int, yPos:int):void$/;"	f
+hint	elements/CanYouRemember.as	/^		public function hint():void $/;"	f
+hint	quiz/QuizItem_FB.as	/^		public function hint():void $/;"	f
+incorrectAnswerHandler	documents/DragAndDropQuiz.as	/^		private function incorrectAnswerHandler(dragBox:MovieClip, dropBox:MovieClip):void$/;"	f
+incorrectAnswerHandler	games/QuizItemDragAndDrop.as	/^		private function incorrectAnswerHandler(dragBox:MovieClip, dropBox:MovieClip):void$/;"	f
+incorrectAnswerHandler	quiz/QuizItem_DD.as	/^		private function incorrectAnswerHandler(dragBox:MovieClip, dropBox:MovieClip):void$/;"	f
+incorrectAnswerHandler	quiz/QuizItem_MC.as	/^		private function incorrectAnswerHandler():void $/;"	f
+incorrectAnswers	documents/DragAndDropQuiz.as	/^		private var incorrectAnswers:int = 0;$/;"	v
+incorrectAnswers	games/QuizItemDragAndDrop.as	/^		private var incorrectAnswers:int = 0;$/;"	v
+incorrectAnswers	quiz/QuizItem_DD.as	/^		private var incorrectAnswers:int = 0;$/;"	v
+incorrectFeedback	documents/QuickCheckMC.as	/^		var incorrectFeedback:String;$/;"	v
+incorrectFeedback	games/QuizItemFillTheBlank.as	/^		private var incorrectFeedback:String;$/;"	v
+incorrectFeedback	games/QuizItemMultipleChoice.as	/^		var incorrectFeedback:String;$/;"	v
+incorrectFormat	elements/CYRTextEntry.as	/^		private var incorrectFormat:TextFormat = new TextFormat();$/;"	v
+incorrectFormat	quiz/BlankStandard.as	/^		private var incorrectFormat:TextFormat = new TextFormat();$/;"	v
+incorrectKeywords	documents/CourseReview.as	/^		private var incorrectKeywords:Array = new Array();$/;"	v
+incorrectQuestions	quiz/QuizResults.as	/^		public var incorrectQuestions:Array = new Array();$/;"	v
+incorrectReviewPages	documents/CourseWrapper.as	/^		public var incorrectReviewPages:Array = new Array();$/;"	v
+incorrectReviewPages	documents/CourseWrapperGated.as	/^		public var incorrectReviewPages:Array = new Array();$/;"	v
+incorrectReviewPages	documents/CourseWrapperStarLearning.as	/^		public var incorrectReviewPages:Array = new Array();$/;"	v
+incorrectReviewPages	documents/CourseWrapper_broken.as	/^		public var incorrectReviewPages:Array = new Array();$/;"	v
+incorrectReviewPages	documents/FalconCourseWrapper.as	/^		public var incorrectReviewPages:Array = new Array();$/;"	v
+incorrectReviewPages	documents/FalconPreviewWrapper.as	/^		public var incorrectReviewPages:Array = new Array();$/;"	v
+incorrectReviewPages	documents/PreviewWrapper.as	/^		public var incorrectReviewPages:Array = new Array();$/;"	v
+incorrectReviewPages	documents/PreviewWrapperGated.as	/^		public var incorrectReviewPages:Array = new Array();$/;"	v
+incorrectReviewPages	documents/PreviewWrapper_broken.as	/^		public var incorrectReviewPages:Array = new Array();$/;"	v
+incorrectSound	games/QuizItemFillTheBlank.as	/^		private var incorrectSound:IncorrectSound = new IncorrectSound();$/;"	v
+incorrectSound	games/QuizItemMultipleChoice.as	/^		private var incorrectSound:IncorrectSound = new IncorrectSound();$/;"	v
+indicator	test/SimTest.as	/^		private var indicator:MovieClip;$/;"	v
+info	utilities/Console.as	/^		public function info(...rest):void{$/;"	f
+init	buttons/CourseButton.as	/^		function init(event:Event):void$/;"	f
+init	buttons/DynamicButton.as	/^		private function init(event:Event):void$/;"	f
+init	buttons/PopupButton.as	/^		function init(event:Event):void$/;"	f
+init	documents/CourseFile.as	/^		private function init(event:Event):void$/;"	f
+init	documents/CourseFileCombined.as	/^		private function init(event:Event):void$/;"	f
+init	documents/CourseInteraction.as	/^		private function init(event:Event):void$/;"	f
+init	documents/CourseInteractionCombined.as	/^		private function init(event:Event):void$/;"	f
+init	documents/CourseReview.as	/^		private function init(event:Event):void$/;"	f
+init	documents/CourseWrapper.as	/^		private function init(event:Event):void$/;"	f
+init	documents/CourseWrapperGated.as	/^		private function init(event:Event):void$/;"	f
+init	documents/CourseWrapperStarLearning.as	/^		private function init(event:Event):void$/;"	f
+init	documents/CourseWrapper_broken.as	/^		private function init(event:Event):void$/;"	f
+init	documents/DragAndDropQuiz.as	/^		private function init(e:Event):void$/;"	f
+init	documents/FalconCourseWrapper.as	/^		private function init(event:Event):void$/;"	f
+init	documents/FalconPreviewWrapper.as	/^		private function init(event:Event):void$/;"	f
+init	documents/OneFrameFile.as	/^		private function init(event:Event):void$/;"	f
+init	documents/PreviewWrapper.as	/^		private function init(event:Event):void$/;"	f
+init	documents/PreviewWrapperGated.as	/^		private function init(event:Event):void$/;"	f
+init	documents/PreviewWrapper_broken.as	/^		private function init(event:Event):void$/;"	f
+init	elements/Arrow.as	/^		private function init(event:Event):void$/;"	f
+init	elements/CYRTextEntry.as	/^		private function init(event:Event):void$/;"	f
+init	elements/Clickable.as	/^		private function init(event:Event):void$/;"	f
+init	elements/Copyright.as	/^		private function init(event:Event):void$/;"	f
+init	elements/DoubleClickable.as	/^		private function init(event:Event):void$/;"	f
+init	elements/FadeIn.as	/^		private function init(event:Event):void$/;"	f
+init	elements/ID_RadioButton.as	/^		private function init(event:Event):void$/;"	f
+init	elements/RollOverInfo.as	/^		private function init(event:Event):void$/;"	f
+init	elements/TextEntry.as	/^		private function init(event:Event):void$/;"	f
+init	games/QuizGameReview.as	/^		private function init(event:Event):void$/;"	f
+init	games/QuizItemDragAndDrop.as	/^		private function init(event:Event):void $/;"	f
+init	popups/GenericPopup.as	/^		private function init(event:Event):void$/;"	f
+init	popups/MainPopup.as	/^		private function init(event:Event):void$/;"	f
+init	quiz/BlankStandard.as	/^		private function init(event:Event):void$/;"	f
+init	quiz/QuizCombined.as	/^		private function init(event:Event):void$/;"	f
+init	quiz/QuizItem_DD.as	/^		private function init(event:Event):void $/;"	f
+init	quiz/QuizItem_FB.as	/^		private function init(event:Event):void $/;"	f
+init	quiz/QuizItem_MC.as	/^		private function init(event:Event):void $/;"	f
+init	quiz/QuizResults.as	/^		private function init(event:Event):void $/;"	f
+init	sound/SoundSync.as	/^		private function init():void {$/;"	f
+init	test/CourseTest.as	/^		private function init(event:Event):void$/;"	f
+init	test/SimTest.as	/^		private function init(event:Event):void$/;"	f
+initialize	buttons/ContinueBtn.as	/^		function initialize(event:Event):void$/;"	f
+initialize	buttons/ContinueButton.as	/^		function initialize(event:Event):void$/;"	f
+initialize	buttons/ID_ContinueButton.as	/^		function initialize(event:Event):void$/;"	f
+initialize	buttons/ID_InvisibleContinueButton.as	/^		function initialize(event:Event):void$/;"	f
+initialize	buttons/LessonEnded.as	/^		function initialize(event:Event):void$/;"	f
+initialize	buttons/NextQuestionButton.as	/^		function initialize(event:Event):void$/;"	f
+initialize	documents/CourseSwf.as	/^		private function initialize(event:Event):void$/;"	f
+initialize	elements/IKCheckBox.as	/^		function initialize(event:Event):void$/;"	f
+initialize	games/QuizGame.as	/^		private function initialize(event:Event):void$/;"	f
+initialize	test/SimTestCorrectButton.as	/^		function initialize(event:Event):void$/;"	f
+inputMatchesExpected	elements/CYRTextEntry.as	/^		private function inputMatchesExpected():Boolean$/;"	f
+inputMatchesExpected	elements/TextEntry.as	/^		private function inputMatchesExpected():Boolean$/;"	f
+inputMatchesExpected	quiz/BlankStandard.as	/^		private function inputMatchesExpected():Boolean$/;"	f
+intX	buttons/DynamicButton.as	/^		var intX:int = 0;           \/\/ X-Position of your button's upper-left corner$/;"	v
+intY	buttons/DynamicButton.as	/^		var intY:int = 0;           \/\/ Y-Position of your button's upper-left corner$/;"	v
+interactions	documents/CourseInteraction.as	/^		public var interactions:Array = new Array();$/;"	v
+interactions	documents/CourseInteractionCombined.as	/^		public var interactions:Array = new Array();$/;"	v
+isCorrect	test/CourseTest.as	/^			var isCorrect:String = currentTestItem.checkAnswerNumber(answerNum);$/;"	v
+isCorrectAnswer	test/CourseTest.as	/^					var isCorrectAnswer = false;$/;"	v
+isEnabled	buttons/ContinueBtn.as	/^		public var isEnabled:Boolean = new Boolean;$/;"	v
+isEnabled	buttons/ContinueButton.as	/^		public var isEnabled:Boolean = new Boolean;$/;"	v
+isEnabled	buttons/CourseNavButton.as	/^		public var isEnabled:Boolean = new Boolean;$/;"	v
+isEnabled	buttons/FalconCourseNavButton.as	/^		public var isEnabled:Boolean = new Boolean;$/;"	v
+isEnabled	buttons/ID_ContinueButton.as	/^		public var isEnabled:Boolean = new Boolean;$/;"	v
+isEnabled	buttons/ID_InvisibleContinueButton.as	/^		public var isEnabled:Boolean = new Boolean;$/;"	v
+isEnabled	buttons/NextQuestionButton.as	/^		public var isEnabled:Boolean = new Boolean;$/;"	v
+isEnabled	test/SimTestCorrectButton.as	/^		public var isEnabled:Boolean = new Boolean;$/;"	v
+isSelected	elements/IKCheckBox.as	/^		public var isSelected:Boolean = new Boolean;$/;"	v
+isUnique	utilities/NumberUtilities.as	/^		private static function isUnique (nNumber:Number):Boolean$/;"	f
+isVisible	popups/ClosedCaption.as	/^		public var isVisible:Boolean = new Boolean();$/;"	v
+isVisible	popups/sound/CBSoundPlayer.as	/^		public var isVisible:Boolean = new Boolean();$/;"	v
+isWaitingFor	elements/CYRTextEntry.as	/^		public function isWaitingFor(string:String):void$/;"	f
+isWaitingFor	elements/TextEntry.as	/^		public function isWaitingFor(value:String):void$/;"	f
+isWaitingFor	quiz/BlankStandard.as	/^		public function isWaitingFor(string:String):void$/;"	f
+isWhitespace	utilities/StringUtilities.as	/^		public static function isWhitespace( ch:String ):Boolean {$/;"	f
+is_EI_available	utilities/Scorm.as	/^			var is_EI_available:Boolean = ExternalInterface.available,$/;"	v
+keywords	documents/QuickCheckMC.as	/^		var keywords:Array = new Array();$/;"	v
+label	games/QuizItemFillTheBlank.as	/^			var label:String = this.parent.currentLabel;$/;"	v
+label	games/QuizItemMultipleChoice.as	/^			var label:String = this.parent.currentLabel;$/;"	v
+labelFormat	elements/MCCheckBox.as	/^		private var labelFormat = new TextFormat("Gotham Book", "14");$/;"	v
+labelFormat	elements/TextEntry.as	/^		private var labelFormat = new TextFormat("Arial", "12");$/;"	v
+labelText	buttons/DynamicButton.as	/^			var labelText:TextField = new TextField();$/;"	v
+legacyFormat	quiz/BlankStandard.as	/^		private var legacyFormat:TextFormat = new TextFormat("Verdana", "12", 0x000000);$/;"	v
+lessonEndedBtn	games/QuizItemDragAndDrop.as	/^		private var lessonEndedBtn:LessonEndBtn = new LessonEndBtn();$/;"	v
+linkContent	documents/CourseReview.as	/^			var linkContent:Array = event.text.split(",");$/;"	v
+linkContent	popups/Review.as	/^			var linkContent:Array = event.text.split(",");$/;"	v
+linkContent	popups/Search.as	/^			var linkContent:Array = event.text.split(",");$/;"	v
+loadPage	documents/CourseWrapper.as	/^		public function loadPage(page:int):void $/;"	f
+loadPage	documents/CourseWrapperGated.as	/^		public function loadPage(page:int):void $/;"	f
+loadPage	documents/CourseWrapperStarLearning.as	/^		public function loadPage(page:int):void $/;"	f
+loadPage	documents/CourseWrapper_broken.as	/^		public function loadPage(page:int):void $/;"	f
+loadPage	documents/FalconCourseWrapper.as	/^		public function loadPage(page:int):void $/;"	f
+loadPage	documents/FalconPreviewWrapper.as	/^		public function loadPage(page:int):void $/;"	f
+loadPage	documents/PreviewWrapper.as	/^		public function loadPage(page:int):void $/;"	f
+loadPage	documents/PreviewWrapperGated.as	/^		public function loadPage(page:int):void $/;"	f
+loadPage	documents/PreviewWrapper_broken.as	/^		public function loadPage(page:int):void $/;"	f
+loadProgress_txt	documents/CourseWrapper.as	/^		private var loadProgress_txt:TextField = new TextField();$/;"	v
+loadProgress_txt	documents/CourseWrapperGated.as	/^		private var loadProgress_txt:TextField = new TextField();$/;"	v
+loadProgress_txt	documents/CourseWrapperStarLearning.as	/^		private var loadProgress_txt:TextField = new TextField();$/;"	v
+loadProgress_txt	documents/FalconCourseWrapper.as	/^		private var loadProgress_txt:TextField = new TextField();$/;"	v
+loadProgress_txt	documents/FalconPreviewWrapper.as	/^		private var loadProgress_txt:TextField = new TextField();$/;"	v
+loadProgress_txt	documents/PreviewWrapper.as	/^		private var loadProgress_txt:TextField = new TextField();$/;"	v
+loadProgress_txt	documents/PreviewWrapperGated.as	/^		private var loadProgress_txt:TextField = new TextField();$/;"	v
+loadedPage	documents/CourseWrapper.as	/^		private var loadedPage:MovieClip;$/;"	v
+loadedPage	documents/CourseWrapperGated.as	/^		private var loadedPage:MovieClip;$/;"	v
+loadedPage	documents/CourseWrapperStarLearning.as	/^		private var loadedPage:MovieClip;$/;"	v
+loadedPage	documents/FalconCourseWrapper.as	/^		private var loadedPage:MovieClip;$/;"	v
+loadedPage	documents/FalconPreviewWrapper.as	/^		private var loadedPage:MovieClip;$/;"	v
+loadedPage	documents/PreviewWrapper.as	/^		private var loadedPage:MovieClip;$/;"	v
+loadedPage	documents/PreviewWrapperGated.as	/^		private var loadedPage:MovieClip;$/;"	v
+log	utilities/Console.as	/^		public function log(...rest):void{$/;"	f
+mainImageFadeIn	documents/FalconDemo.as	/^	public function mainImageFadeIn(mc:MovieClip):void$/;"	f
+makeInvisible	documents/FalconDemo.as	/^	public function makeInvisible(...movieClips):void$/;"	f
+makeInvisible	utilities/CBAnimator.as	/^        public function makeInvisible(...movieClips):void$/;"	f
+markAndContinue	test/SimTest.as	/^		private function markAndContinue(correct:Boolean):void$/;"	f
+maskPage	documents/CourseSwf.as	/^		private function maskPage():void$/;"	f
+maskPage	games/QuizGame.as	/^		private function maskPage():void$/;"	f
+matchKeywords	documents/CourseReview.as	/^		private function matchKeywords():Array$/;"	f
+matr	buttons/DynamicButton.as	/^		var matr:Matrix = new Matrix();$/;"	v
+matrix	documents/FalconCourseWrapper.as	/^            var matrix:Matrix = new Matrix();$/;"	v
+matrix	documents/FalconPreviewWrapper.as	/^            var matrix:Matrix = new Matrix();$/;"	v
+max	utilities/ArrayUtilities.as	/^    public static function max(aArray:Array):Number {$/;"	f
+messageTxt	popups/CourseMessage.as	/^		private var messageTxt:TextField = new TextField();$/;"	v
+min	utilities/ArrayUtilities.as	/^    public static function min(aArray:Array):Number {$/;"	f
+mouseReleased	documents/DragAndDropQuiz.as	/^		private function mouseReleased(event:MouseEvent):void$/;"	f
+mouseReleased	games/QuizItemDragAndDrop.as	/^		private function mouseReleased(event:MouseEvent):void$/;"	f
+mouseReleased	quiz/QuizItem_DD.as	/^		private function mouseReleased(event:MouseEvent):void$/;"	f
+mouseToAndCheck	documents/FalconDemo.as	/^	public function mouseToAndCheck(mc:MovieClip, positions:Array):void$/;"	f
+mouseToAndClick	documents/FalconDemo.as	/^	public function mouseToAndClick(mc:MovieClip, positions:Array):void$/;"	f
+moveTo	utilities/CBAnimator.as	/^		public function moveTo(xPos:Number, yPos:Number, duration:Number, delay:Number, ...movieClips):void$/;"	f
+msg	documents/CourseWrapper.as	/^					var msg:String = "You've already completed this course. Interactions will not be recorded. If you wish to take the course again, you will have to re-enroll.";$/;"	v
+msg	documents/CourseWrapperGated.as	/^					var msg:String = "You've already completed this course. Interactions will not be recorded. If you wish to take the course again, you will have to re-enroll.";$/;"	v
+msg	documents/CourseWrapper_broken.as	/^					var msg:String = "You've already completed this course. Interactions will not be recorded. If you wish to take the course again, you will have to re-enroll.";$/;"	v
+msg	documents/FalconCourseWrapper.as	/^					var msg:String = "You've already completed this course. Interactions will not be recorded. If you wish to take the course again, you will have to re-enroll.";$/;"	v
+myButton	buttons/DynamicButton.as	/^		var myButton:MovieClip = new MovieClip();$/;"	v
+myContextMenu	documents/CourseSwf.as	/^		private var myContextMenu:ContextMenu = new ContextMenu();$/;"	v
+myFormat	buttons/DynamicButton.as	/^			var myFormat:TextFormat = new TextFormat();$/;"	v
+myParent	test/CourseTest.as	/^		public var myParent:MovieClip;$/;"	v
+myParent	test/SimTest.as	/^		public var myParent:MovieClip;$/;"	v
+myTimeline	test/SimTest.as	/^			var myTimeline:TimelineLite = new TimelineLite({onComplete:timeLineComplete});$/;"	v
+nDeltaRange	utilities/NumberUtilities.as	/^			var nDeltaRange:Number = (nMaximum - nMinimum) + (1 * nRoundToInterval);$/;"	v
+nID	utilities/NumberUtilities.as	/^			var nID:Number = dCurrent.getTime();$/;"	v
+nIndex	utilities/ArrayUtilities.as	/^      var nIndex:Number = findMatchIndex(aArray, oElement, bPartialMatch);$/;"	v
+nMaximum	utilities/ArrayUtilities.as	/^      var nMaximum:Number = Number(aCopy.pop());$/;"	v
+nMinimum	utilities/ArrayUtilities.as	/^      var nMinimum:Number = Number(aCopy.shift());$/;"	v
+nRandom	utilities/ArrayUtilities.as	/^      var nRandom:Number;$/;"	v
+nRandomNumber	utilities/NumberUtilities.as	/^			var nRandomNumber:Number = Math.random() * nDeltaRange;$/;"	v
+nStartingIndex	utilities/ArrayUtilities.as	/^      var nStartingIndex:Number = 0;$/;"	v
+nStartingIndex	utilities/ArrayUtilities.as	/^      var nStartingIndex:Number = aArray.length;$/;"	v
+nSum	utilities/ArrayUtilities.as	/^      var nSum:Number = 0;$/;"	v
+nTemp	utilities/NumberUtilities.as	/^				var nTemp:Number = nMinimum;$/;"	v
+name	sound/CuePointEvent.as	/^		public var name:String;$/;"	v
+neededHintFeedback	elements/CanYouRemember.as	/^		public var neededHintFeedback:String = "";$/;"	v
+nestedTimeline	documents/FalconDemo.as	/^			var nestedTimeline:TimelineLite = new TimelineLite();$/;"	v
+newAnswer	elements/CanYouRemember.as	/^			var newAnswer:Array = [blankName, answer];$/;"	v
+newAnswer	quiz/QuizItem_FB.as	/^			var newAnswer:Array = [blankName, answer];$/;"	v
+nextPage	documents/CourseWrapper.as	/^		public function nextPage(event:MouseEvent):void$/;"	f
+nextPage	documents/CourseWrapperGated.as	/^		public function nextPage(event:MouseEvent):void$/;"	f
+nextPage	documents/CourseWrapperStarLearning.as	/^		public function nextPage(event:MouseEvent):void$/;"	f
+nextPage	documents/CourseWrapper_broken.as	/^		public function nextPage(event:MouseEvent):void$/;"	f
+nextPage	documents/FalconCourseWrapper.as	/^		public function nextPage(event:MouseEvent):void$/;"	f
+nextPage	documents/FalconPreviewWrapper.as	/^		public function nextPage(event:MouseEvent):void$/;"	f
+nextPage	documents/PreviewWrapper.as	/^		public function nextPage(event:MouseEvent):void$/;"	f
+nextPage	documents/PreviewWrapperGated.as	/^		public function nextPage(event:MouseEvent):void$/;"	f
+nextPage	documents/PreviewWrapper_broken.as	/^		public function nextPage(event:MouseEvent):void$/;"	f
+nextQuestion	games/QuizItemFillTheBlank.as	/^		public function nextQuestion():void$/;"	f
+nextQuestion	games/QuizItemMultipleChoice.as	/^		public function nextQuestion():void$/;"	f
+nextQuestion	quiz/QuizCombined.as	/^		private function nextQuestion():void$/;"	f
+nextQuestion	test/CourseTest.as	/^		private function nextQuestion(event:MouseEvent):void$/;"	f
+numChecked	documents/QuickCheckMC.as	/^			var numChecked:int = 0;$/;"	v
+numChecked	games/QuizItemMultipleChoice.as	/^			var numChecked:int = 0;$/;"	v
+numChecked	quiz/QuizItem_MC.as	/^			var numChecked:int = 0;$/;"	v
+numOfAnswers	test/TestItem.as	/^		public var numOfAnswers:Number;$/;"	v
+numOfQuestionsAnsweredCorrectly	test/CourseTest.as	/^		private var numOfQuestionsAnsweredCorrectly:Number;$/;"	v
+numOfQuestionsAnsweredCorrectly	test/SimTest.as	/^		private var numOfQuestionsAnsweredCorrectly:Number;$/;"	v
+numOfQuestionsAnsweredIncorrectly	test/CourseTest.as	/^		private var numOfQuestionsAnsweredIncorrectly:Number;$/;"	v
+numOfQuestionsAnsweredIncorrectly	test/SimTest.as	/^		private var numOfQuestionsAnsweredIncorrectly:Number;$/;"	v
+numberOfBoxesChecked	quiz/QuizItem_MC.as	/^		private function numberOfBoxesChecked():int $/;"	f
+numberOfRequiredLetters	elements/CYRTextEntry.as	/^			var numberOfRequiredLetters:int = _myParent.getNumberOfRequiredLetters();$/;"	v
+numberOfRequiredLetters	elements/CYRTextEntry.as	/^		private var numberOfRequiredLetters:Number = 3;$/;"	v
+numberOfRequiredLetters	quiz/BlankStandard.as	/^			var numberOfRequiredLetters:int = _myParent.getNumberOfRequiredLetters();$/;"	v
+numberOfRequiredLetters	quiz/BlankStandard.as	/^		private var numberOfRequiredLetters:Number = 3;$/;"	v
+oDuplicate	utilities/ArrayUtilities.as	/^          var oDuplicate:Object = new Object();$/;"	v
+oDuplicate	utilities/ArrayUtilities.as	/^      var oDuplicate:Object;$/;"	v
+oElement	utilities/ArrayUtilities.as	/^      var oElement:Object;$/;"	v
+oElementA	utilities/ArrayUtilities.as	/^      var oElementA:Object = aArray[nIndexA];$/;"	v
+oElementB	utilities/ArrayUtilities.as	/^      var oElementB:Object = aArray[nIndexB];$/;"	v
+objectEquals	utilities/ArrayUtilities.as	/^    private static function objectEquals(oInstanceA:Object, oInstanceB:Object):Boolean {$/;"	f
+onSoundComplete	sound/SoundSync.as	/^		public function onSoundComplete(event:Event):void {$/;"	f
+openGate	documents/CourseSwf.as	/^		public function openGate():void$/;"	f
+openGate	documents/CourseWrapper.as	/^		public function openGate():void$/;"	f
+openGate	documents/CourseWrapperGated.as	/^		public function openGate():void$/;"	f
+openGate	documents/CourseWrapperStarLearning.as	/^		public function openGate():void$/;"	f
+openGate	documents/CourseWrapper_broken.as	/^		public function openGate():void$/;"	f
+openGate	documents/FalconCourseWrapper.as	/^		public function openGate():void$/;"	f
+openGate	documents/FalconPreviewWrapper.as	/^		public function openGate():void$/;"	f
+openGate	documents/PreviewWrapper.as	/^		public function openGate():void$/;"	f
+openGate	documents/PreviewWrapperGated.as	/^		public function openGate():void$/;"	f
+openGate	documents/PreviewWrapper_broken.as	/^		public function openGate():void$/;"	f
+openGate	games/QuizGame.as	/^		public function openGate():void$/;"	f
+openGate	games/QuizGameReview.as	/^		public function openGate(){$/;"	f
+originalMap	utilities/StringUtilities.as	/^				var originalMap:Array = new Array();$/;"	v
+out	buttons/CourseButton.as	/^		function out(event:MouseEvent):void$/;"	f
+out	buttons/CourseNavButton.as	/^		function out(event:MouseEvent):void$/;"	f
+out	buttons/DisablingButton.as	/^		function out(event:MouseEvent):void$/;"	f
+out	buttons/DynamicButton.as	/^		function out(event:MouseEvent):void$/;"	f
+out	buttons/FalconCourseNavButton.as	/^		function out(event:MouseEvent):void$/;"	f
+out	buttons/PopupButton.as	/^		function out(event:MouseEvent):void$/;"	f
+out	elements/IKCheckBox.as	/^		private function out(event:MouseEvent):void$/;"	f
+over	buttons/CourseButton.as	/^		function over(event:MouseEvent):void$/;"	f
+over	buttons/CourseNavButton.as	/^		function over(event:MouseEvent):void$/;"	f
+over	buttons/DisablingButton.as	/^		function over(event:MouseEvent):void$/;"	f
+over	buttons/DynamicButton.as	/^		function over(event:MouseEvent):void$/;"	f
+over	buttons/FalconCourseNavButton.as	/^		function over(event:MouseEvent):void$/;"	f
+over	buttons/PopupButton.as	/^		function over(event:MouseEvent):void$/;"	f
+over	elements/IKCheckBox.as	/^		private function over(event:MouseEvent):void$/;"	f
+p	documents/CourseWrapper.as	/^			var p:String = getPageTitle();$/;"	v
+p	documents/CourseWrapperGated.as	/^			var p:String = getPageTitle();$/;"	v
+p	documents/CourseWrapperStarLearning.as	/^			var p:String = getPageTitle();$/;"	v
+p	documents/CourseWrapper_broken.as	/^			var p:String = getPageTitle();$/;"	v
+p	documents/FalconCourseWrapper.as	/^			var p:String = getPageTitle();$/;"	v
+p	documents/FalconPreviewWrapper.as	/^			var p:String = getPageTitle();$/;"	v
+p	documents/PreviewWrapper.as	/^			var p:String = getPageTitle();$/;"	v
+p	documents/PreviewWrapperGated.as	/^			var p:String = getPageTitle();$/;"	v
+p	documents/PreviewWrapper_broken.as	/^			var p:String = getPageTitle();$/;"	v
+pageDescription_txt	popups/TableOfContents.as	/^		public var pageDescription_txt:TextField = new TextField();$/;"	v
+pageFromURL	documents/CourseWrapper.as	/^					var pageFromURL:int;$/;"	v
+pageFromURL	documents/CourseWrapperGated.as	/^					var pageFromURL:int;$/;"	v
+pageFromURL	documents/CourseWrapperStarLearning.as	/^					var pageFromURL:int;$/;"	v
+pageFromURL	documents/CourseWrapper_broken.as	/^					var pageFromURL:int;$/;"	v
+pageFromURL	documents/FalconCourseWrapper.as	/^					var pageFromURL:int;$/;"	v
+pageFromURL	documents/FalconPreviewWrapper.as	/^					var pageFromURL:int;$/;"	v
+pageFromURL	documents/PreviewWrapper.as	/^					var pageFromURL:int;$/;"	v
+pageLoader	documents/CourseWrapper.as	/^		private var pageLoader:Loader = new Loader();$/;"	v
+pageLoader	documents/CourseWrapperGated.as	/^		private var pageLoader:Loader = new Loader();$/;"	v
+pageLoader	documents/CourseWrapperStarLearning.as	/^		private var pageLoader:Loader = new Loader();$/;"	v
+pageLoader	documents/FalconCourseWrapper.as	/^		private var pageLoader:Loader = new Loader();$/;"	v
+pageLoader	documents/FalconPreviewWrapper.as	/^		private var pageLoader:Loader = new Loader();$/;"	v
+pageLoader	documents/PreviewWrapper.as	/^		private var pageLoader:Loader = new Loader();$/;"	v
+pageLoader	documents/PreviewWrapperGated.as	/^		private var pageLoader:Loader = new Loader();$/;"	v
+pageNum	events/CourseEvent.as	/^		public var pageNum:int;		$/;"	v
+pageNum	popups/TableOfContents.as	/^			var pageNum:int = event.pageNum;$/;"	v
+pageTitle	documents/CourseWrapper.as	/^		private var pageTitle:String;$/;"	v
+pageTitle	documents/CourseWrapperGated.as	/^		private var pageTitle:String;$/;"	v
+pageTitle	documents/CourseWrapperStarLearning.as	/^		private var pageTitle:String;$/;"	v
+pageTitle	documents/CourseWrapper_broken.as	/^		private var pageTitle:String;$/;"	v
+pageTitle	documents/FalconCourseWrapper.as	/^		private var pageTitle:String;$/;"	v
+pageTitle	documents/FalconPreviewWrapper.as	/^		private var pageTitle:String;$/;"	v
+pageTitle	documents/PreviewWrapper.as	/^		private var pageTitle:String;$/;"	v
+pageTitle	documents/PreviewWrapperGated.as	/^		private var pageTitle:String;$/;"	v
+pageTitle	documents/PreviewWrapper_broken.as	/^		private var pageTitle:String;$/;"	v
+pageTitle_txt	popups/TableOfContents.as	/^		public var pageTitle_txt:TextField = new TextField();$/;"	v
+param	utilities/Scorm.as	/^			var param:String = parameter;$/;"	v
+passingScore	test/CourseTest.as	/^		private var passingScore:Number;$/;"	v
+passingScore	test/SimTest.as	/^		private var passingScore:Number;$/;"	v
+pattern	popups/Search.as	/^			var pattern:RegExp = new RegExp(searchString, "i");$/;"	v
+patternMatches	popups/Search.as	/^			var patternMatches:Array = new Array();$/;"	v
+pauseBtn	popups/sound/CBSoundPlayer.as	/^        private var pauseBtn:SimpleButton = player_mc.pause_btn;$/;"	v
+playBtn	popups/sound/CBSoundPlayer.as	/^        private var playBtn:SimpleButton = player_mc.play_btn;$/;"	v
+playClick	elements/Arrow.as	/^		public function playClick():void $/;"	f
+playClick	elements/Copyright.as	/^		public function playClick():void $/;"	f
+playCorrectIndicator	elements/CYRTextEntry.as	/^		public function playCorrectIndicator():void$/;"	f
+playCorrectIndicator	quiz/BlankStandard.as	/^		public function playCorrectIndicator():void$/;"	f
+playIncorrectIndicator	elements/CYRTextEntry.as	/^		private function playIncorrectIndicator():void$/;"	f
+playIncorrectIndicator	elements/TextEntry.as	/^		private function playIncorrectIndicator():void$/;"	f
+playIncorrectIndicator	quiz/BlankStandard.as	/^		private function playIncorrectIndicator():void$/;"	f
+pollCuePoints	sound/SoundSync.as	/^		private function pollCuePoints(event:TimerEvent):void {$/;"	f
+populateReviewTxt	documents/CourseReview.as	/^		private function populateReviewTxt():void$/;"	f
+popupButtonSet	documents/CourseWrapper.as	/^		private var popupButtonSet:ButtonSet = new ButtonSet();$/;"	v
+popupButtonSet	documents/CourseWrapperGated.as	/^		private var popupButtonSet:ButtonSet = new ButtonSet();$/;"	v
+popupButtonSet	documents/CourseWrapperStarLearning.as	/^		private var popupButtonSet:ButtonSet = new ButtonSet();$/;"	v
+popupButtonSet	documents/CourseWrapper_broken.as	/^		private var popupButtonSet:ButtonSet = new ButtonSet();$/;"	v
+popupButtonSet	documents/FalconCourseWrapper.as	/^		private var popupButtonSet:ButtonSet = new ButtonSet();$/;"	v
+popupButtonSet	documents/FalconPreviewWrapper.as	/^		private var popupButtonSet:ButtonSet = new ButtonSet();$/;"	v
+popupButtonSet	documents/PreviewWrapper.as	/^		private var popupButtonSet:ButtonSet = new ButtonSet();$/;"	v
+popupButtonSet	documents/PreviewWrapperGated.as	/^		private var popupButtonSet:ButtonSet = new ButtonSet();$/;"	v
+popupButtonSet	documents/PreviewWrapper_broken.as	/^		private var popupButtonSet:ButtonSet = new ButtonSet();$/;"	v
+popupVisible	documents/CourseWrapper.as	/^		public var popupVisible:Boolean = new Boolean();$/;"	v
+popupVisible	documents/CourseWrapperGated.as	/^		public var popupVisible:Boolean = new Boolean();$/;"	v
+popupVisible	documents/CourseWrapperStarLearning.as	/^		public var popupVisible:Boolean = new Boolean();$/;"	v
+popupVisible	documents/CourseWrapper_broken.as	/^		public var popupVisible:Boolean = new Boolean();$/;"	v
+popupVisible	documents/FalconCourseWrapper.as	/^		public var popupVisible:Boolean = new Boolean();$/;"	v
+popupVisible	documents/FalconPreviewWrapper.as	/^		public var popupVisible:Boolean = new Boolean();$/;"	v
+popupVisible	documents/PreviewWrapper.as	/^		public var popupVisible:Boolean = new Boolean();$/;"	v
+popupVisible	documents/PreviewWrapperGated.as	/^		public var popupVisible:Boolean = new Boolean();$/;"	v
+popupVisible	documents/PreviewWrapper_broken.as	/^		public var popupVisible:Boolean = new Boolean();$/;"	v
+pos	utilities/Rot13.as	/^				var pos:Number = chars.indexOf(character);$/;"	v
+positiveFeedbackArray	test/CourseTest.as	/^		private var positiveFeedbackArray:Array = new Array("Great Job!", "That's right!", "Nicely answered!", "You got it!","You're a whiz!");$/;"	v
+prepareToContinue	games/QuizItemDragAndDrop.as	/^		private function prepareToContinue():void $/;"	f
+prepareToContinue	quiz/QuizItem_DD.as	/^		private function prepareToContinue():void $/;"	f
+prepareToContinue	quiz/QuizItem_FB.as	/^		private function prepareToContinue():void $/;"	f
+prepareToContinue	quiz/QuizItem_MC.as	/^		private function prepareToContinue():void $/;"	f
+previousPage	documents/CourseWrapper.as	/^		public function previousPage(event:MouseEvent):void$/;"	f
+previousPage	documents/CourseWrapperGated.as	/^		public function previousPage(event:MouseEvent):void$/;"	f
+previousPage	documents/CourseWrapperStarLearning.as	/^		public function previousPage(event:MouseEvent):void$/;"	f
+previousPage	documents/CourseWrapper_broken.as	/^		public function previousPage(event:MouseEvent):void$/;"	f
+previousPage	documents/FalconCourseWrapper.as	/^		public function previousPage(event:MouseEvent):void$/;"	f
+previousPage	documents/FalconPreviewWrapper.as	/^		public function previousPage(event:MouseEvent):void$/;"	f
+previousPage	documents/PreviewWrapper.as	/^		public function previousPage(event:MouseEvent):void$/;"	f
+previousPage	documents/PreviewWrapperGated.as	/^		public function previousPage(event:MouseEvent):void$/;"	f
+previousPage	documents/PreviewWrapper_broken.as	/^		public function previousPage(event:MouseEvent):void$/;"	f
+profile	utilities/Console.as	/^		public function profile(title:String):void{$/;"	f
+profileEnd	utilities/Console.as	/^		public function profileEnd():void{$/;"	f
+progSlider	popups/sound/CBSoundPlayer.as	/^        private var progSlider:MovieClip = player_mc.progSlider_mc;$/;"	v
+progressHandler	documents/CourseWrapper_broken.as	/^		function progressHandler(event:LoaderEvent):void {$/;"	f
+progressHandler	documents/PreviewWrapper_broken.as	/^		function progressHandler(event:LoaderEvent):void {$/;"	f
+question	test/CourseTest.as	/^				var question:String = testItem.@question;$/;"	v
+question	test/CourseTest.as	/^			var question:String = currentTestItem.getQuestion();$/;"	v
+question	test/TestItem.as	/^		public var question:String;$/;"	v
+queue	documents/CourseWrapper_broken.as	/^		private var queue:LoaderMax = new LoaderMax({name:"mainQueue", onProgress:progressHandler, onComplete:completeHandler, onError:errorHandler});$/;"	v
+queue	documents/PreviewWrapper_broken.as	/^		private var queue:LoaderMax = new LoaderMax({name:"mainQueue", onProgress:progressHandler, onComplete:completeHandler, onError:errorHandler});$/;"	v
+quickGlow	documents/FalconDemo.as	/^	public function quickGlow(...movieClips):void$/;"	f
+quizReview	games/QuizItemDragAndDrop.as	/^		private var quizReview:QuizGameReview;$/;"	v
+quizReview	games/QuizItemFillTheBlank.as	/^		private var quizReview:QuizGameReview;$/;"	v
+quizReview	games/QuizItemMultipleChoice.as	/^		private var quizReview:QuizGameReview;$/;"	v
+quizReview	quiz/QuizCombined.as	/^		private var quizReview:QuizResults = new QuizResultsStandard();$/;"	v
+radius	buttons/DynamicButton.as	/^		var radius:int;        \/\/ The corners of your button$/;"	v
+random	utilities/NumberUtilities.as	/^		public static function random (nMinimum:Number, nMaximum:Number = 0, nRoundToInterval:Number = 1):Number$/;"	f
+randomIndex	utilities/StringUtilities.as	/^					var randomIndex:int = Math.floor( Math.random() * ( tempChars.length - 1 ) );$/;"	v
+randomize	utilities/ArrayUtilities.as	/^    public static function randomize(aArray:Array):Array {$/;"	f
+ratios	buttons/DynamicButton.as	/^		var ratios:Array = [0, 245];$/;"	v
+ratios	documents/FalconCourseWrapper.as	/^            var ratios:Array = [127, 255];$/;"	v
+ratios	documents/FalconPreviewWrapper.as	/^            var ratios:Array = [127, 255];$/;"	v
+readyToContinue	games/QuizItemDragAndDrop.as	/^		public var readyToContinue:Boolean = new Boolean();$/;"	v
+readyToContinue	games/QuizItemFillTheBlank.as	/^		public var readyToContinue:Boolean = new Boolean();$/;"	v
+readyToContinue	games/QuizItemMultipleChoice.as	/^		public var readyToContinue:Boolean = new Boolean();$/;"	v
+reloadPage	documents/CourseWrapper.as	/^		public function reloadPage(event:MouseEvent):void$/;"	f
+reloadPage	documents/CourseWrapperGated.as	/^		public function reloadPage(event:MouseEvent):void$/;"	f
+reloadPage	documents/CourseWrapperStarLearning.as	/^		public function reloadPage(event:MouseEvent):void$/;"	f
+reloadPage	documents/CourseWrapper_broken.as	/^		public function reloadPage(event:MouseEvent):void$/;"	f
+reloadPage	documents/FalconCourseWrapper.as	/^		public function reloadPage(event:MouseEvent):void$/;"	f
+reloadPage	documents/FalconPreviewWrapper.as	/^		public function reloadPage(event:MouseEvent):void$/;"	f
+reloadPage	documents/PreviewWrapper.as	/^		public function reloadPage(event:MouseEvent):void$/;"	f
+reloadPage	documents/PreviewWrapperGated.as	/^		public function reloadPage(event:MouseEvent):void$/;"	f
+reloadPage	documents/PreviewWrapper_broken.as	/^		public function reloadPage(event:MouseEvent):void$/;"	f
+removeAllCuePoints	sound/SoundSync.as	/^		public function removeAllCuePoints():void {$/;"	f
+removeBackground	documents/CourseSwf.as	/^        public function removeBackground():void$/;"	f
+removeCheckmarks	documents/FalconDemo.as	/^	public function removeCheckmarks():void$/;"	f
+removeCuePoint	sound/SoundSync.as	/^		public function removeCuePoint(cuePoint:CuePointEvent):void {$/;"	f
+removeDefaultMenuItems	documents/CourseSwf.as	/^		private function removeDefaultMenuItems():void$/;"	f
+removeExtension	utilities/StringUtilities.as	/^		public static function removeExtension( filename:String ):String {$/;"	f
+removePopups	documents/CourseFileCombined.as	/^		private function removePopups():void $/;"	f
+removePopups	documents/CourseInteractionCombined.as	/^		private function removePopups():void $/;"	f
+removed	buttons/ID_ContinueButton.as	/^		function removed(event:Event):void$/;"	f
+removed	buttons/ID_InvisibleContinueButton.as	/^		function removed(event:Event):void$/;"	f
+removed	test/SimTestCorrectButton.as	/^		function removed(event:Event):void$/;"	f
+replaceXml	documents/CourseWrapper.as	/^		public function replaceXml(newXml:XML):void $/;"	f
+replaceXml	documents/CourseWrapperGated.as	/^		public function replaceXml(newXml:XML):void $/;"	f
+replaceXml	documents/CourseWrapperStarLearning.as	/^		public function replaceXml(newXml:XML):void $/;"	f
+replaceXml	documents/CourseWrapper_broken.as	/^		public function replaceXml(newXml:XML):void $/;"	f
+replaceXml	documents/FalconCourseWrapper.as	/^		public function replaceXml(newXml:XML):void $/;"	f
+replaceXml	documents/FalconPreviewWrapper.as	/^		public function replaceXml(newXml:XML):void $/;"	f
+replaceXml	documents/PreviewWrapper.as	/^		public function replaceXml(newXml:XML):void $/;"	f
+replaceXml	documents/PreviewWrapperGated.as	/^		public function replaceXml(newXml:XML):void $/;"	f
+replaceXml	documents/PreviewWrapper_broken.as	/^		public function replaceXml(newXml:XML):void $/;"	f
+req	utilities/URLNavigator.as	/^			var req:URLRequest = url is String ? new URLRequest(url) : url;$/;"	v
+resetBlanks	games/QuizItemFillTheBlank.as	/^		public function resetBlanks():void{$/;"	f
+resetCheckBoxes	documents/QuickCheckMC.as	/^		public function resetCheckBoxes():void{$/;"	f
+resetCheckBoxes	games/QuizItemMultipleChoice.as	/^		public function resetCheckBoxes():void{$/;"	f
+resetCheckBoxes	quiz/QuizItem_MC.as	/^		private function resetCheckBoxes():void{$/;"	f
+resetDragBoxes	games/QuizItemDragAndDrop.as	/^		public function resetDragBoxes():void{$/;"	f
+result	games/QuizItemFillTheBlank.as	/^		            var result:String = string;$/;"	v
+result	utilities/Scorm.as	/^			var result:Boolean = false;$/;"	v
+result	utilities/Scorm.as	/^			var result:String = String(ExternalInterface.call("SCORM.debug.getDiagnosticInfo", errorCode));$/;"	v
+result	utilities/Scorm.as	/^			var result:String = String(ExternalInterface.call("SCORM.debug.getInfo", errorCode));$/;"	v
+resultArray	games/QuizItemFillTheBlank.as	/^		            var resultArray:Array;$/;"	v
+returnFromPopup	popups/GenericPopup.as	/^		private function returnFromPopup():void$/;"	f
+returnedValue	utilities/Scorm.as	/^			var returnedValue:String = "";$/;"	v
+reverseCodeMap	utilities/StringUtilities.as	/^		private static var reverseCodeMap:Object;$/;"	v
+reviewBackground	games/QuizGameReview.as	/^		private var reviewBackground:ReviewBackground = new ReviewBackground();$/;"	v
+reviewCloseBtn	games/QuizItemDragAndDrop.as	/^		private var reviewCloseBtn:ReviewCloseBtn = new ReviewCloseBtn();$/;"	v
+reviewCloseBtn	games/QuizItemFillTheBlank.as	/^		private var reviewCloseBtn:ReviewCloseBtn = new ReviewCloseBtn();$/;"	v
+reviewCloseBtn	games/QuizItemMultipleChoice.as	/^		private var reviewCloseBtn:ReviewCloseBtn = new ReviewCloseBtn();$/;"	v
+reviewFormat	documents/CourseReview.as	/^		private var reviewFormat:TextFormat = new TextFormat();$/;"	v
+reviewFormat	popups/Review.as	/^		private var reviewFormat:TextFormat = new TextFormat();	$/;"	v
+reviewInfo	documents/CourseReview.as	/^		public var reviewInfo:Array;$/;"	v
+reviewInfo	events/ReviewEvent.as	/^		public var reviewInfo:Array;$/;"	v
+reviewIntroTxt	documents/CourseReview.as	/^		private var reviewIntroTxt:TextField = new TextField();$/;"	v
+reviewIntroTxt	popups/Review.as	/^		private var reviewIntroTxt:TextField = new TextField();$/;"	v
+reviewLoader	games/QuizGameReview.as	/^		private var reviewLoader:Loader = new Loader();$/;"	v
+reviewLoaderErrorHandler	games/QuizGameReview.as	/^		private function reviewLoaderErrorHandler(event:IOErrorEvent):void $/;"	f
+reviewLoaderInitListener	games/QuizGameReview.as	/^		private function reviewLoaderInitListener(e:Event):void$/;"	f
+reviewPage	games/QuizGameReview.as	/^		private var reviewPage:String;$/;"	v
+reviewPage	games/QuizItemDragAndDrop.as	/^		public var reviewPage:String;$/;"	v
+reviewPage	games/QuizItemFillTheBlank.as	/^		public var reviewPage:String;$/;"	v
+reviewPage	games/QuizItemMultipleChoice.as	/^		public var reviewPage:String;$/;"	v
+reviewTxt	documents/CourseReview.as	/^		private var reviewTxt:TextField = new TextField();$/;"	v
+rewBtn	popups/sound/CBSoundPlayer.as	/^        private var rewBtn:SimpleButton = player_mc.rew_btn;$/;"	v
+round	utilities/NumberUtilities.as	/^		public static function round (nNumber:Number, nRoundToInterval:Number = 1):Number$/;"	f
+sIndent	utilities/ArrayUtilities.as	/^      var sIndent:String = "";$/;"	v
+sOutput	utilities/ArrayUtilities.as	/^      var sOutput:String = "";$/;"	v
+save	utilities/Scorm.as	/^		public function save():Boolean {$/;"	f
+scoreAndContinue	quiz/QuizCombined.as	/^		public function scoreAndContinue(answeredCorrectly:Number):void $/;"	f
+scorm	documents/CourseWrapper.as	/^		public var scorm:Scorm = new Scorm();$/;"	v
+scorm	documents/CourseWrapperGated.as	/^		public var scorm:Scorm = new Scorm();$/;"	v
+scorm	documents/CourseWrapper_broken.as	/^		public var scorm:Scorm = new Scorm();$/;"	v
+scorm	documents/FalconCourseWrapper.as	/^		public var scorm:Scorm = new Scorm();$/;"	v
+scormInit	documents/CourseWrapper.as	/^		private function scormInit():Boolean$/;"	f
+scormInit	documents/CourseWrapperGated.as	/^		private function scormInit():Boolean$/;"	f
+scormInit	documents/CourseWrapper_broken.as	/^		private function scormInit():Boolean$/;"	f
+scormInit	documents/FalconCourseWrapper.as	/^		private function scormInit():Boolean$/;"	f
+screenBounceIn	documents/FalconDemo.as	/^	public function screenBounceIn(mc:MovieClip):void$/;"	f
+screenFromLeft	documents/FalconDemo.as	/^	public function screenFromLeft(mc:MovieClip):void$/;"	f
+screenIconFadeIn	documents/FalconDemo.as	/^	public function screenIconFadeIn(movieClip:MovieClip):void$/;"	f
+screenIconFadeOut	documents/FalconDemo.as	/^	public function screenIconFadeOut(movieClip:MovieClip):void$/;"	f
+search	documents/CourseWrapper.as	/^		private var search:Search = new Search();$/;"	v
+search	documents/CourseWrapperGated.as	/^		private var search:Search = new Search();$/;"	v
+search	documents/CourseWrapperStarLearning.as	/^		private var search:Search = new Search();$/;"	v
+search	documents/CourseWrapper_broken.as	/^		private var search:Search = new Search();$/;"	v
+search	documents/FalconCourseWrapper.as	/^		private var search:Search = new Search();$/;"	v
+search	documents/FalconPreviewWrapper.as	/^		private var search:Search = new Search();$/;"	v
+search	documents/PreviewWrapper.as	/^		private var search:Search = new Search();$/;"	v
+search	documents/PreviewWrapperGated.as	/^		private var search:Search = new Search();$/;"	v
+search	documents/PreviewWrapper_broken.as	/^		private var search:Search = new Search();$/;"	v
+searchButton	popups/Search.as	/^		private var searchButton:Button = new Button();$/;"	v
+searchFieldTxt	popups/Search.as	/^		private var searchFieldTxt:TextField = new TextField();$/;"	v
+searchFormat	popups/Search.as	/^		private var searchFormat:TextFormat = new TextFormat();	$/;"	v
+searchIntroTxt	popups/Search.as	/^		private var searchIntroTxt:TextField = new TextField();$/;"	v
+searchLabelTxt	popups/Search.as	/^		private var searchLabelTxt:TextField = new TextField();$/;"	v
+searchLoadPage	documents/CourseWrapper.as	/^		public function searchLoadPage(page):void $/;"	f
+searchLoadPage	documents/CourseWrapperGated.as	/^		public function searchLoadPage(page):void $/;"	f
+searchLoadPage	documents/CourseWrapperStarLearning.as	/^		public function searchLoadPage(page):void $/;"	f
+searchLoadPage	documents/CourseWrapper_broken.as	/^		public function searchLoadPage(page):void $/;"	f
+searchLoadPage	documents/FalconCourseWrapper.as	/^		public function searchLoadPage(page):void $/;"	f
+searchLoadPage	documents/FalconPreviewWrapper.as	/^		public function searchLoadPage(page):void $/;"	f
+searchLoadPage	documents/PreviewWrapper.as	/^		public function searchLoadPage(page):void $/;"	f
+searchLoadPage	documents/PreviewWrapperGated.as	/^		public function searchLoadPage(page):void $/;"	f
+searchLoadPage	documents/PreviewWrapper_broken.as	/^		public function searchLoadPage(page):void $/;"	f
+searchResultsTxt	popups/Search.as	/^		private var searchResultsTxt:TextField = new TextField();$/;"	v
+searchString	popups/Search.as	/^			var searchString = searchFieldTxt.text;$/;"	v
+selected	documents/QuickCheckMC.as	/^			var selected:int;$/;"	v
+selected	games/QuizItemMultipleChoice.as	/^			var selected:int;$/;"	v
+selected	quiz/QuizItem_MC.as	/^			var selected:int;$/;"	v
+send	utilities/Console.as	/^		private function send(level:String,...rest):void{$/;"	f
+sendCorrectToQuiz	quiz/QuizItem_FB.as	/^		private function sendCorrectToQuiz():void $/;"	f
+sendIncorrectToQuiz	quiz/QuizItem_FB.as	/^		private function sendIncorrectToQuiz():void $/;"	f
+sendScoreToQuiz	quiz/QuizItem_DD.as	/^		private function sendScoreToQuiz():void $/;"	f
+sendScoreToQuiz	quiz/QuizItem_MC.as	/^		private function sendScoreToQuiz():void $/;"	f
+serverUnresponsive	documents/CourseWrapper.as	/^		private function serverUnresponsive():void {$/;"	f
+serverUnresponsive	documents/CourseWrapperGated.as	/^		private function serverUnresponsive():void {$/;"	f
+serverUnresponsive	documents/CourseWrapperStarLearning.as	/^		function serverUnresponsive():void {$/;"	f
+serverUnresponsive	documents/CourseWrapper_broken.as	/^		private function serverUnresponsive():void {$/;"	f
+serverUnresponsive	documents/FalconCourseWrapper.as	/^		private function serverUnresponsive():void {$/;"	f
+serverUnresponsive	documents/FalconPreviewWrapper.as	/^		function serverUnresponsive():void {$/;"	f
+serverUnresponsive	documents/PreviewWrapper.as	/^		function serverUnresponsive():void {$/;"	f
+serverUnresponsive	documents/PreviewWrapperGated.as	/^		function serverUnresponsive():void {$/;"	f
+serverUnresponsive	documents/PreviewWrapper_broken.as	/^		function serverUnresponsive():void {$/;"	f
+set	utilities/Scorm.as	/^		public function set(parameter:String, value:*):Boolean {$/;"	f
+setAnswer	documents/QuickCheckMC.as	/^		public function setAnswer(answer:String):void{$/;"	f
+setAnswer	games/QuizItemMultipleChoice.as	/^		public function setAnswer(answer:String):void{$/;"	f
+setAnswer1	games/QuizItemFillTheBlank.as	/^		public function setAnswer1(answer:String):void{$/;"	f
+setAnswer2	games/QuizItemFillTheBlank.as	/^		public function setAnswer2(answer:String):void{$/;"	f
+setAnswerText	test/CourseTest.as	/^		private function setAnswerText(textField:TextField, answerText:String):void $/;"	f
+setBlankType	quiz/BlankStandard.as	/^        public function setBlankType(type:String):void$/;"	f
+setBookmarkedPage	documents/CourseWrapper.as	/^		public function setBookmarkedPage( value:int ):void $/;"	f
+setBookmarkedPage	documents/CourseWrapperGated.as	/^		public function setBookmarkedPage(value:int):void $/;"	f
+setBookmarkedPage	documents/CourseWrapperStarLearning.as	/^		public function setBookmarkedPage( value:int ):void $/;"	f
+setBookmarkedPage	documents/CourseWrapper_broken.as	/^		public function setBookmarkedPage( value:int ):void $/;"	f
+setBookmarkedPage	documents/FalconCourseWrapper.as	/^		public function setBookmarkedPage( value:int ):void $/;"	f
+setBookmarkedPage	documents/FalconPreviewWrapper.as	/^		public function setBookmarkedPage( value:int ):void $/;"	f
+setBookmarkedPage	documents/PreviewWrapper.as	/^		public function setBookmarkedPage( value:int ):void $/;"	f
+setBookmarkedPage	documents/PreviewWrapperGated.as	/^		public function setBookmarkedPage(value:int):void $/;"	f
+setBookmarkedPage	documents/PreviewWrapper_broken.as	/^		public function setBookmarkedPage( value:int ):void $/;"	f
+setButtonText	documents/QuickCheckMC.as	/^		public function setButtonText(buttonText:String):void{$/;"	f
+setButtonText	games/QuizItemDragAndDrop.as	/^		private function setButtonText(buttonText:String):void{$/;"	f
+setButtonText	games/QuizItemFillTheBlank.as	/^		public function setButtonText(buttonText:String):void{$/;"	f
+setButtonText	games/QuizItemMultipleChoice.as	/^		public function setButtonText(buttonText:String):void{$/;"	f
+setButtonText	quiz/QuizItem_DD.as	/^		private function setButtonText(buttonText:String):void{$/;"	f
+setButtonText	quiz/QuizItem_FB.as	/^		private function setButtonText(buttonText:String):void{$/;"	f
+setButtonText	quiz/QuizItem_MC.as	/^		private function setButtonText(buttonText:String):void{$/;"	f
+setCcText	documents/CourseSwf.as	/^		public function setCcText( value:String ):void $/;"	f
+setCcText	popups/ClosedCaption.as	/^		public function setCcText(value:String):void $/;"	f
+setCheckBoxes	documents/QuickCheckMC.as	/^		public function setCheckBoxes():void{				$/;"	f
+setCheckBoxes	games/QuizItemMultipleChoice.as	/^		public function setCheckBoxes():void{				$/;"	f
+setCopyright	documents/CourseWrapper.as	/^		public function setCopyright( value:String ):void $/;"	f
+setCopyright	documents/CourseWrapperGated.as	/^		public function setCopyright( value:String ):void $/;"	f
+setCopyright	documents/CourseWrapperStarLearning.as	/^		public function setCopyright( value:String ):void $/;"	f
+setCopyright	documents/FalconCourseWrapper.as	/^		public function setCopyright( value:String ):void $/;"	f
+setCopyright	documents/FalconPreviewWrapper.as	/^		public function setCopyright( value:String ):void $/;"	f
+setCopyright	documents/PreviewWrapper.as	/^		public function setCopyright( value:String ):void $/;"	f
+setCopyright	documents/PreviewWrapperGated.as	/^		public function setCopyright( value:String ):void $/;"	f
+setCorrectAnswer	documents/QuickCheckMC.as	/^		public function setCorrectAnswer(answer:int):void{$/;"	f
+setCorrectAnswer	games/QuizItemFillTheBlank.as	/^		public function setCorrectAnswer(answer:int):void{$/;"	f
+setCorrectAnswer	games/QuizItemMultipleChoice.as	/^		public function setCorrectAnswer(answer:int):void{$/;"	f
+setCorrectFeedback	documents/QuickCheckMC.as	/^		public function setCorrectFeedback(feedbackText:String):void{$/;"	f
+setCorrectFeedback	games/QuizItemFillTheBlank.as	/^		public function setCorrectFeedback(feedbackText:String):void{$/;"	f
+setCorrectFeedback	games/QuizItemMultipleChoice.as	/^		public function setCorrectFeedback(feedbackText:String):void{$/;"	f
+setCourseAsGated	documents/CourseWrapper.as	/^		public function setCourseAsGated():void$/;"	f
+setCourseAsGated	documents/CourseWrapperStarLearning.as	/^		public function setCourseAsGated():void$/;"	f
+setCourseAsGated	documents/CourseWrapper_broken.as	/^		public function setCourseAsGated():void$/;"	f
+setCourseAsGated	documents/FalconCourseWrapper.as	/^		public function setCourseAsGated():void$/;"	f
+setCourseAsGated	documents/FalconPreviewWrapper.as	/^		public function setCourseAsGated():void$/;"	f
+setCourseAsGated	documents/PreviewWrapper.as	/^		public function setCourseAsGated():void$/;"	f
+setCourseAsGated	documents/PreviewWrapper_broken.as	/^		public function setCourseAsGated():void$/;"	f
+setCourseTextFields	popups/TableOfContents.as	/^		private function setCourseTextFields():void $/;"	f
+setCourseTitle	documents/CourseWrapper.as	/^		public function setCourseTitle( value:String ):void $/;"	f
+setCourseTitle	documents/CourseWrapperGated.as	/^		public function setCourseTitle(value:String):void $/;"	f
+setCourseTitle	documents/CourseWrapperStarLearning.as	/^		public function setCourseTitle( value:String ):void $/;"	f
+setCourseTitle	documents/CourseWrapper_broken.as	/^		public function setCourseTitle( value:String ):void $/;"	f
+setCourseTitle	documents/FalconCourseWrapper.as	/^		public function setCourseTitle( value:String ):void $/;"	f
+setCourseTitle	documents/FalconPreviewWrapper.as	/^		public function setCourseTitle( value:String ):void $/;"	f
+setCourseTitle	documents/PreviewWrapper.as	/^		public function setCourseTitle( value:String ):void $/;"	f
+setCourseTitle	documents/PreviewWrapperGated.as	/^		public function setCourseTitle(value:String):void $/;"	f
+setCourseTitle	documents/PreviewWrapper_broken.as	/^		public function setCourseTitle( value:String ):void $/;"	f
+setCurrentPage	documents/CourseWrapper.as	/^		public function setCurrentPage( page:int ):void $/;"	f
+setCurrentPage	documents/CourseWrapperGated.as	/^		public function setCurrentPage(page:int):void $/;"	f
+setCurrentPage	documents/CourseWrapperStarLearning.as	/^		public function setCurrentPage( page:int ):void $/;"	f
+setCurrentPage	documents/CourseWrapper_broken.as	/^		public function setCurrentPage( page:int ):void $/;"	f
+setCurrentPage	documents/FalconCourseWrapper.as	/^		public function setCurrentPage( page:int ):void $/;"	f
+setCurrentPage	documents/FalconPreviewWrapper.as	/^		public function setCurrentPage( page:int ):void $/;"	f
+setCurrentPage	documents/PreviewWrapper.as	/^		public function setCurrentPage( page:int ):void $/;"	f
+setCurrentPage	documents/PreviewWrapperGated.as	/^		public function setCurrentPage(page:int):void $/;"	f
+setCurrentPage	documents/PreviewWrapper_broken.as	/^		public function setCurrentPage( page:int ):void $/;"	f
+setFeedback	documents/QuickCheckMC.as	/^		public function setFeedback(feedbackText:String):void{$/;"	f
+setFeedback	games/QuizItemFillTheBlank.as	/^		public function setFeedback(feedbackText:String):void{$/;"	f
+setFeedback	games/QuizItemMultipleChoice.as	/^		public function setFeedback(feedbackText:String):void{$/;"	f
+setFinalPage	documents/CourseWrapper.as	/^		public function setFinalPage(page:int):void$/;"	f
+setFinalPage	documents/CourseWrapperGated.as	/^		public function setFinalPage(page:int):void$/;"	f
+setFinalPage	documents/CourseWrapperStarLearning.as	/^		public function setFinalPage(page:int):void$/;"	f
+setFinalPage	documents/CourseWrapper_broken.as	/^		public function setFinalPage(page:int):void$/;"	f
+setFinalPage	documents/FalconCourseWrapper.as	/^		public function setFinalPage(page:int):void$/;"	f
+setFinalPage	documents/FalconPreviewWrapper.as	/^		public function setFinalPage(page:int):void$/;"	f
+setFinalPage	documents/PreviewWrapper.as	/^		public function setFinalPage(page:int):void$/;"	f
+setFinalPage	documents/PreviewWrapperGated.as	/^		public function setFinalPage(page:int):void$/;"	f
+setFinalPage	documents/PreviewWrapper_broken.as	/^		public function setFinalPage(page:int):void$/;"	f
+setHighestPageNumViewed	documents/CourseWrapper.as	/^		private function setHighestPageNumViewed(pageNum:int):void$/;"	f
+setHighestPageNumViewed	documents/CourseWrapperGated.as	/^		private function setHighestPageNumViewed(pageNum:int):void$/;"	f
+setHighestPageNumViewed	documents/CourseWrapperStarLearning.as	/^		private function setHighestPageNumViewed(pageNum:int):void$/;"	f
+setHighestPageNumViewed	documents/CourseWrapper_broken.as	/^		private function setHighestPageNumViewed(pageNum:int):void$/;"	f
+setHighestPageNumViewed	documents/FalconCourseWrapper.as	/^		private function setHighestPageNumViewed(pageNum:int):void$/;"	f
+setHighestPageNumViewed	documents/FalconPreviewWrapper.as	/^		private function setHighestPageNumViewed(pageNum:int):void$/;"	f
+setHighestPageNumViewed	documents/PreviewWrapper.as	/^		private function setHighestPageNumViewed(pageNum:int):void$/;"	f
+setHighestPageNumViewed	documents/PreviewWrapperGated.as	/^		private function setHighestPageNumViewed(pageNum:int):void$/;"	f
+setHighestPageNumViewed	documents/PreviewWrapper_broken.as	/^		private function setHighestPageNumViewed(pageNum:int):void$/;"	f
+setIncorrectFeedback	documents/QuickCheckMC.as	/^		public function setIncorrectFeedback(feedbackText:String):void{$/;"	f
+setIncorrectFeedback	games/QuizItemFillTheBlank.as	/^		public function setIncorrectFeedback(feedbackText:String):void{$/;"	f
+setIncorrectFeedback	games/QuizItemMultipleChoice.as	/^		public function setIncorrectFeedback(feedbackText:String):void{$/;"	f
+setMode	quiz/QuizItem_MC.as	/^		private function setMode():void $/;"	f
+setNumberOfRequiredLetters	elements/CanYouRemember.as	/^		public function setNumberOfRequiredLetters(num:int):void $/;"	f
+setNumberOfRequiredLetters	quiz/QuizItem_FB.as	/^		public function setNumberOfRequiredLetters(num:int):void $/;"	f
+setPageTextFields	popups/TableOfContents.as	/^		private function setPageTextFields():void $/;"	f
+setPageTitle	documents/CourseWrapper.as	/^		public function setPageTitle( value:String ):void $/;"	f
+setPageTitle	documents/CourseWrapperGated.as	/^		public function setPageTitle(value:String):void $/;"	f
+setPageTitle	documents/CourseWrapperStarLearning.as	/^		public function setPageTitle( value:String ):void $/;"	f
+setPageTitle	documents/CourseWrapper_broken.as	/^		public function setPageTitle( value:String ):void $/;"	f
+setPageTitle	documents/FalconCourseWrapper.as	/^		public function setPageTitle( value:String ):void $/;"	f
+setPageTitle	documents/FalconPreviewWrapper.as	/^		public function setPageTitle( value:String ):void $/;"	f
+setPageTitle	documents/PreviewWrapper.as	/^		public function setPageTitle( value:String ):void $/;"	f
+setPageTitle	documents/PreviewWrapperGated.as	/^		public function setPageTitle(value:String):void $/;"	f
+setPageTitle	documents/PreviewWrapper_broken.as	/^		public function setPageTitle( value:String ):void $/;"	f
+setParent	buttons/CourseNavButton.as	/^		function setParent(event:Event):void$/;"	f
+setParent	buttons/DisablingButton.as	/^		function setParent(event:Event):void$/;"	f
+setParent	buttons/FalconCourseNavButton.as	/^		function setParent(event:Event):void$/;"	f
+setQuestion	documents/QuickCheckMC.as	/^		public function setQuestion(question:String):void{$/;"	f
+setQuestion	games/QuizItemFillTheBlank.as	/^		public function setQuestion(question:String):void{$/;"	f
+setQuestion	games/QuizItemMultipleChoice.as	/^		public function setQuestion(question:String):void{$/;"	f
+setQuestionNumText	test/CourseTest.as	/^		private function setQuestionNumText():void$/;"	f
+setQuizType	quiz/QuizCombined.as	/^        public function setQuizType(quiztype:String):void$/;"	f
+setReviewInfo	documents/QuickCheckMC.as	/^        private function setReviewInfo(info:Array):void$/;"	f
+setTestTitle	test/CourseTest.as	/^		private function setTestTitle(value:String):void $/;"	f
+setTitleText	documents/CourseWrapper.as	/^		public function setTitleText():void$/;"	f
+setTitleText	documents/CourseWrapperGated.as	/^		public function setTitleText():void$/;"	f
+setTitleText	documents/CourseWrapperStarLearning.as	/^		public function setTitleText():void$/;"	f
+setTitleText	documents/CourseWrapper_broken.as	/^		public function setTitleText():void$/;"	f
+setTitleText	documents/FalconCourseWrapper.as	/^		public function setTitleText():void$/;"	f
+setTitleText	documents/FalconPreviewWrapper.as	/^		public function setTitleText():void$/;"	f
+setTitleText	documents/PreviewWrapper.as	/^		public function setTitleText():void$/;"	f
+setTitleText	documents/PreviewWrapperGated.as	/^		public function setTitleText():void$/;"	f
+setTitleText	documents/PreviewWrapper_broken.as	/^		public function setTitleText():void$/;"	f
+setTitleText	test/CourseTest.as	/^		private function setTitleText():void$/;"	f
+setUpFonts	test/CourseTest.as	/^		private function setUpFonts():void$/;"	f
+setUpTextFields	documents/CourseReview.as	/^		private function setUpTextFields():void$/;"	f
+setUpTextFields	popups/Review.as	/^		private function setUpTextFields():void {$/;"	f
+setUpTextFields	popups/Search.as	/^		private function setUpTextFields():void {$/;"	f
+setValidateImmediately	elements/TextEntry.as	/^		public function setValidateImmediately(value:Boolean):void$/;"	f
+setXml	popups/Search.as	/^		public function setXml(xml:XML):void$/;"	f
+setXml	popups/TableOfContents.as	/^		public function setXml(xml:XML):void$/;"	f
+setupTextFields	quiz/QuizItem_MC.as	/^		private function setupTextFields():void $/;"	f
+shine	buttons/DynamicButton.as	/^			var shine:Sprite = new Sprite();$/;"	v
+shineAlphas	buttons/DynamicButton.as	/^			var shineAlphas:Array = [70, 0];$/;"	v
+shineColors	buttons/DynamicButton.as	/^			var shineColors:Array = [0xFFFFFF, 0xFFFFFF];$/;"	v
+shineFillType	buttons/DynamicButton.as	/^			var shineFillType:String = GradientType.LINEAR;$/;"	v
+shineH	buttons/DynamicButton.as	/^			var shineH:Number = btnH \/ 2 - ( 0.0667 * btnH );$/;"	v
+shineMatr	buttons/DynamicButton.as	/^			var shineMatr:Matrix = new Matrix();$/;"	v
+shineRadius	buttons/DynamicButton.as	/^			var shineRadius:Number = radius * 2 \/ 3;$/;"	v
+shineRatios	buttons/DynamicButton.as	/^			var shineRatios:Array = [0, 255];$/;"	v
+shineW	buttons/DynamicButton.as	/^			var shineW:Number = btnW - ( 0.0333 * btnW );$/;"	v
+showAnswers	test/CourseTest.as	/^		private function showAnswers():void$/;"	f
+showCC	popups/ClosedCaption.as	/^		public function showCC():void$/;"	f
+showDescription	popups/TableOfContents.as	/^		private function showDescription(event:ListEvent):void$/;"	f
+showLoadResult	documents/CourseWrapper.as	/^		private function showLoadResult(event:Event):void $/;"	f
+showLoadResult	documents/CourseWrapperGated.as	/^		private function showLoadResult(event:Event):void $/;"	f
+showLoadResult	documents/CourseWrapperStarLearning.as	/^		private function showLoadResult(event:Event):void $/;"	f
+showLoadResult	documents/FalconCourseWrapper.as	/^		private function showLoadResult(event:Event):void $/;"	f
+showLoadResult	documents/FalconPreviewWrapper.as	/^		private function showLoadResult(event:Event):void $/;"	f
+showLoadResult	documents/PreviewWrapper.as	/^		private function showLoadResult(event:Event):void $/;"	f
+showLoadResult	documents/PreviewWrapperGated.as	/^		private function showLoadResult(event:Event):void $/;"	f
+showLoadingProgress	documents/CourseWrapper.as	/^		private function showLoadingProgress(event:ProgressEvent):void $/;"	f
+showLoadingProgress	documents/CourseWrapperGated.as	/^		private function showLoadingProgress(event:ProgressEvent):void $/;"	f
+showLoadingProgress	documents/CourseWrapperStarLearning.as	/^		private function showLoadingProgress(event:ProgressEvent):void $/;"	f
+showLoadingProgress	documents/FalconCourseWrapper.as	/^		private function showLoadingProgress(event:ProgressEvent):void $/;"	f
+showLoadingProgress	documents/FalconPreviewWrapper.as	/^		private function showLoadingProgress(event:ProgressEvent):void $/;"	f
+showLoadingProgress	documents/PreviewWrapper.as	/^		private function showLoadingProgress(event:ProgressEvent):void $/;"	f
+showLoadingProgress	documents/PreviewWrapperGated.as	/^		private function showLoadingProgress(event:ProgressEvent):void $/;"	f
+showPreloader	documents/CourseWrapper.as	/^		private function showPreloader(event:Event):void $/;"	f
+showPreloader	documents/CourseWrapperGated.as	/^		private function showPreloader(event:Event):void $/;"	f
+showPreloader	documents/CourseWrapperStarLearning.as	/^		private function showPreloader(event:Event):void $/;"	f
+showPreloader	documents/FalconCourseWrapper.as	/^		private function showPreloader(event:Event):void $/;"	f
+showPreloader	documents/FalconPreviewWrapper.as	/^		private function showPreloader(event:Event):void $/;"	f
+showPreloader	documents/PreviewWrapper.as	/^		private function showPreloader(event:Event):void $/;"	f
+showPreloader	documents/PreviewWrapperGated.as	/^		private function showPreloader(event:Event):void $/;"	f
+showReviewItem	documents/CourseSwf.as	/^			var showReviewItem:ContextMenuItem = new ContextMenuItem("Show Review Info");$/;"	v
+smallToBig	utilities/CBAnimator.as	/^	    public function smallToBig(duration:Number, delayInSeconds:Number, ...movieClips):void$/;"	f
+sndChannel	documents/CourseFileCombined.as	/^		public var sndChannel:SoundChannel = new SoundChannel();$/;"	v
+sortReviewInfo	documents/CourseReview.as	/^		private function sortReviewInfo():void$/;"	f
+soundLoader	popups/sound/CBSoundPlayer.as	/^        public var soundLoader:SoundLoader;$/;"	v
+span	sound/SoundSync.as	/^			var span:Number = 0;$/;"	v
+spreadMethod	buttons/DynamicButton.as	/^		var spreadMethod:String = SpreadMethod.PAD;$/;"	v
+startDebugger	documents/CourseSwf.as	/^		public function startDebugger(event:ContextMenuEvent):void$/;"	f
+stop	sound/SoundSync.as	/^		public function stop():void {$/;"	f
+stopAllSounds	documents/CourseWrapper.as	/^		private function stopAllSounds(event:Event):void$/;"	f
+stopAllSounds	documents/CourseWrapperStarLearning.as	/^		private function stopAllSounds(event:Event):void$/;"	f
+stopAllSounds	documents/FalconCourseWrapper.as	/^		private function stopAllSounds(event:Event):void$/;"	f
+stopAllSounds	documents/FalconPreviewWrapper.as	/^		private function stopAllSounds(event:Event):void$/;"	f
+stopAllSounds	documents/PreviewWrapper.as	/^		private function stopAllSounds(event:Event):void$/;"	f
+str	utilities/Scorm.as	/^			var str:String = __get(param);$/;"	v
+strID	buttons/DynamicButton.as	/^		var strID:String;  \/\/ Button Label$/;"	v
+strUserAgent	utilities/URLNavigator.as	/^				var strUserAgent:String = String(ExternalInterface.call("function() {return navigator.userAgent;}")).toLowerCase();$/;"	v
+stripWhitespace	games/QuizItemFillTheBlank.as	/^		public function stripWhitespace(string:String, options:String = null):String$/;"	f
+subTimeline	documents/FalconDemo.as	/^			var subTimeline:TimelineLite = new TimelineLite();$/;"	v
+success	documents/CourseWrapper.as	/^		private var success:Boolean = false;$/;"	v
+success	documents/CourseWrapperGated.as	/^		private var success:Boolean = false;$/;"	v
+success	documents/CourseWrapper_broken.as	/^		private var success:Boolean = false;$/;"	v
+success	documents/FalconCourseWrapper.as	/^		private var success:Boolean = false;$/;"	v
+sum	utilities/ArrayUtilities.as	/^    public static function sum(aArray:Array):Number {$/;"	f
+switchElements	utilities/ArrayUtilities.as	/^    public static function switchElements(aArray:Array, nIndexA:Number, nIndexB:Number):void {$/;"	f
+t	test/CourseTest.as	/^			var t:String = getTestTitle();$/;"	v
+tableOfContents	documents/CourseWrapper.as	/^		private var tableOfContents = new TableOfContents();$/;"	v
+tableOfContents	documents/CourseWrapperGated.as	/^		private var tableOfContents = new TableOfContents();$/;"	v
+tableOfContents	documents/CourseWrapperStarLearning.as	/^		private var tableOfContents = new TableOfContents();$/;"	v
+tableOfContents	documents/CourseWrapper_broken.as	/^		private var tableOfContents = new TableOfContents();$/;"	v
+tableOfContents	documents/FalconCourseWrapper.as	/^		private var tableOfContents = new TableOfContents();$/;"	v
+tableOfContents	documents/FalconPreviewWrapper.as	/^		private var tableOfContents = new TableOfContents();$/;"	v
+tableOfContents	documents/PreviewWrapper.as	/^		private var tableOfContents = new TableOfContents();$/;"	v
+tableOfContents	documents/PreviewWrapperGated.as	/^		private var tableOfContents = new TableOfContents();$/;"	v
+tableOfContents	documents/PreviewWrapper_broken.as	/^		private var tableOfContents = new TableOfContents();$/;"	v
+targetName	test/CourseTest.as	/^			var targetName:String = event.target.name;$/;"	v
+tempChars	utilities/StringUtilities.as	/^				var tempChars:Array = originalMap.concat();$/;"	v
+tempReviewInfo	documents/CourseWrapper.as	/^			var tempReviewInfo:Array = event.reviewInfo;$/;"	v
+tempReviewInfo	documents/CourseWrapperGated.as	/^			var tempReviewInfo:Array = event.reviewInfo;$/;"	v
+tempReviewInfo	documents/CourseWrapperStarLearning.as	/^			var tempReviewInfo:Array = event.reviewInfo;$/;"	v
+tempReviewInfo	documents/CourseWrapper_broken.as	/^			var tempReviewInfo:Array = event.reviewInfo;$/;"	v
+tempReviewInfo	documents/FalconCourseWrapper.as	/^			var tempReviewInfo:Array = event.reviewInfo;$/;"	v
+tempReviewInfo	documents/FalconPreviewWrapper.as	/^			var tempReviewInfo:Array = event.reviewInfo;$/;"	v
+tempReviewInfo	documents/PreviewWrapper.as	/^			var tempReviewInfo:Array = event.reviewInfo;$/;"	v
+tempReviewInfo	documents/PreviewWrapperGated.as	/^			var tempReviewInfo:Array = event.reviewInfo;$/;"	v
+tempReviewInfo	documents/PreviewWrapper_broken.as	/^			var tempReviewInfo:Array = event.reviewInfo;$/;"	v
+terms	documents/CourseWrapperStarLearning.as	/^        private var terms:StarTerms = new StarTerms();$/;"	v
+testItem	test/CourseTest.as	/^				var testItem = testXml.*[i];$/;"	v
+testItems	test/CourseTest.as	/^		private var testItems:Array = new Array();$/;"	v
+testTitle	test/CourseTest.as	/^		private var testTitle:String;$/;"	v
+testXml	test/CourseTest.as	/^		private var testXml:XML;$/;"	v
+textFadeIn	documents/FalconDemo.as	/^	public function textFadeIn(...movieClips):void$/;"	f
+textFadeOut	documents/FalconDemo.as	/^	public function textFadeOut(...movieClips):void$/;"	f
+textField	elements/CanYouRemember.as	/^				var textField:CYRTextEntry = blank[0];$/;"	v
+textField	quiz/QuizItem_FB.as	/^				var textField:BlankStandard = blank[0];$/;"	v
+textFieldX	documents/CourseReview.as	/^			var textFieldX:int=146;$/;"	v
+textFieldX	popups/Review.as	/^			var textFieldX:int = 146;$/;"	v
+textFieldX	popups/Search.as	/^			var textFieldX:int = 146;$/;"	v
+textFormat	popups/CourseMessage.as	/^		private var textFormat:TextFormat = new TextFormat();	$/;"	v
+textFormat	popups/HelpReminder.as	/^		private var textFormat:TextFormat = new TextFormat();	$/;"	v
+thinkAboutPopup	documents/CourseFile.as	/^				var thinkAboutPopup:ThinkAboutPopup = new ThinkAboutPopup();$/;"	v
+thinkAboutPopup	documents/CourseInteraction.as	/^					var thinkAboutPopup:ThinkAboutPopup = new ThinkAboutPopup();$/;"	v
+thisIndex	buttons/CourseNavButton.as	/^		public var thisIndex:int;$/;"	v
+thisIndex	buttons/DisablingButton.as	/^		var thisIndex:int;$/;"	v
+thisIndex	buttons/FalconCourseNavButton.as	/^		public var thisIndex:int;$/;"	v
+thisParent	buttons/CourseNavButton.as	/^		private var thisParent:*;$/;"	v
+thisParent	buttons/DisablingButton.as	/^		var thisParent:*;$/;"	v
+thisParent	buttons/FalconCourseNavButton.as	/^		private var thisParent:*;$/;"	v
+time	sound/CuePointEvent.as	/^		public var time:uint;$/;"	v
+time	sound/SoundSync.as	/^			var time:Number = _cuePoints[_currentCuePoint].time + (length * _loops);$/;"	v
+time	utilities/Console.as	/^		public function time(name:String):void{$/;"	f
+timeEnd	utilities/Console.as	/^		public function timeEnd(name:String):void{$/;"	f
+timeLineComplete	test/SimTest.as	/^		private function timeLineComplete():void$/;"	f
+timeline	documents/FalconDemo.as	/^		var timeline:TimelineLite = new TimelineLite({onComplete:play});		$/;"	v
+timeline	documents/FalconDemo.as	/^		var timeline:TimelineLite = new TimelineLite({onComplete:play});$/;"	v
+timeline	utilities/CBAnimator.as	/^			var timeline:TimelineLite = new TimelineLite();$/;"	v
+timeline	utilities/CBAnimator.as	/^            var timeline:TimelineLite = new TimelineLite();$/;"	v
+toInitialCap	utilities/StringUtilities.as	/^		public static function toInitialCap( original:String ):String {$/;"	f
+toString	utilities/ArrayUtilities.as	/^    static public function toString(oArray:Object, nLevel:uint = 0):String {$/;"	f
+toTitleCase	utilities/StringUtilities.as	/^		public static function toTitleCase( original:String ):String {$/;"	f
+tocLoadPage	documents/CourseWrapper.as	/^		private function tocLoadPage(event:ListEvent):void$/;"	f
+tocLoadPage	documents/CourseWrapperGated.as	/^		private function tocLoadPage(event:ListEvent):void$/;"	f
+tocLoadPage	documents/CourseWrapperStarLearning.as	/^		private function tocLoadPage(event:ListEvent):void$/;"	f
+tocLoadPage	documents/CourseWrapper_broken.as	/^		private function tocLoadPage(event:ListEvent):void$/;"	f
+tocLoadPage	documents/FalconCourseWrapper.as	/^		private function tocLoadPage(event:ListEvent):void$/;"	f
+tocLoadPage	documents/FalconPreviewWrapper.as	/^		private function tocLoadPage(event:ListEvent):void$/;"	f
+tocLoadPage	documents/PreviewWrapper.as	/^		private function tocLoadPage(event:ListEvent):void$/;"	f
+tocLoadPage	documents/PreviewWrapperGated.as	/^		private function tocLoadPage(event:ListEvent):void$/;"	f
+tocLoadPage	documents/PreviewWrapper_broken.as	/^		private function tocLoadPage(event:ListEvent):void$/;"	f
+toggleCC	documents/CourseWrapper.as	/^		function toggleCC(event:MouseEvent):void$/;"	f
+toggleCC	documents/CourseWrapperGated.as	/^		function toggleCC(event:MouseEvent):void$/;"	f
+toggleCC	documents/CourseWrapperStarLearning.as	/^		function toggleCC(event:MouseEvent):void$/;"	f
+toggleCC	documents/CourseWrapper_broken.as	/^		function toggleCC(event:MouseEvent):void$/;"	f
+toggleCC	documents/PreviewWrapper.as	/^		function toggleCC(event:MouseEvent):void$/;"	f
+toggleCC	documents/PreviewWrapperGated.as	/^		function toggleCC(event:MouseEvent):void$/;"	f
+toggleCC	documents/PreviewWrapper_broken.as	/^		function toggleCC(event:MouseEvent):void$/;"	f
+togglePage	documents/CourseWrapper.as	/^		private function togglePage(event:MouseEvent):void$/;"	f
+togglePage	documents/CourseWrapperGated.as	/^		private function togglePage(event:MouseEvent):void$/;"	f
+togglePage	documents/CourseWrapperStarLearning.as	/^		private function togglePage(event:MouseEvent):void$/;"	f
+togglePage	documents/CourseWrapper_broken.as	/^		private function togglePage(event:MouseEvent):void$/;"	f
+togglePage	documents/FalconCourseWrapper.as	/^		private function togglePage(event:MouseEvent):void$/;"	f
+togglePage	documents/FalconPreviewWrapper.as	/^		private function togglePage(event:MouseEvent):void$/;"	f
+togglePage	documents/PreviewWrapper.as	/^		private function togglePage(event:MouseEvent):void$/;"	f
+togglePage	documents/PreviewWrapperGated.as	/^		private function togglePage(event:MouseEvent):void$/;"	f
+togglePage	documents/PreviewWrapper_broken.as	/^		private function togglePage(event:MouseEvent):void$/;"	f
+totalQuestions	documents/DragAndDropQuiz.as	/^		private var totalQuestions:int = 0;$/;"	v
+totalQuestions	games/QuizItemDragAndDrop.as	/^		private var totalQuestions:int = 0;$/;"	v
+totalQuestions	quiz/QuizItem_DD.as	/^		private var totalQuestions:int = 0;$/;"	v
+totalQuestions	quiz/QuizResults.as	/^			var totalQuestions:Number = correctQuestions.length + incorrectQuestions.length;$/;"	v
+townCrierPopup	documents/CourseFile.as	/^				var townCrierPopup:TownCrierPopup = new TownCrierPopup();$/;"	v
+townCrierPopup	documents/CourseInteraction.as	/^					var townCrierPopup:TownCrierPopup = new TownCrierPopup();$/;"	v
+trace	utilities/Console.as	/^		public function trace():void{$/;"	f
+traceDisplayList	documents/CourseInteractionCombined.as	/^		function traceDisplayList(container:DisplayObjectContainer, indentString:String = ""):void $/;"	f
+tries	documents/CourseReview.as	/^				var tries:int = review[1];$/;"	v
+tries	documents/QuickCheckMC.as	/^		var tries:int;$/;"	v
+tries	games/QuizItemMultipleChoice.as	/^		var tries:int;$/;"	v
+tries	test/SimTest.as	/^		private var tries:Number = 0;$/;"	v
+trim	utilities/StringUtilities.as	/^		public static function trim( original:String ):String {$/;"	f
+trueFalse	quiz/QuizItem_MC.as	/^		public function trueFalse(question:String, answer:Boolean):void$/;"	f
+unGlow	utilities/CBAnimator.as	/^        public function unGlow(duration:Number, delayInSeconds:Number, myColor:String, ...movieClips):void$/;"	f
+updateCaption	popups/ClosedCaption.as	/^		public function updateCaption(event:CaptionEvent):void$/;"	f
+updateCourseStatus	documents/CourseWrapper.as	/^		function updateCourseStatus(event:CourseEvent):void$/;"	f
+updateCourseStatus	documents/CourseWrapperGated.as	/^		function updateCourseStatus(event:CourseEvent):void$/;"	f
+updateCourseStatus	documents/CourseWrapperStarLearning.as	/^		function updateCourseStatus(event:CourseEvent):void$/;"	f
+updateCourseStatus	documents/CourseWrapper_broken.as	/^		function updateCourseStatus(event:CourseEvent):void$/;"	f
+updateCourseStatus	documents/FalconCourseWrapper.as	/^		function updateCourseStatus(event:CourseEvent):void$/;"	f
+updateCourseStatus	documents/FalconPreviewWrapper.as	/^		function updateCourseStatus(event:CourseEvent):void$/;"	f
+updateCourseStatus	documents/PreviewWrapper.as	/^		function updateCourseStatus(event:CourseEvent):void$/;"	f
+updateCourseStatus	documents/PreviewWrapperGated.as	/^		function updateCourseStatus(event:CourseEvent):void$/;"	f
+updateCourseStatus	documents/PreviewWrapper_broken.as	/^		function updateCourseStatus(event:CourseEvent):void$/;"	f
+updateReviewInfo	documents/CourseWrapper.as	/^		private function updateReviewInfo(event:ReviewEvent):void$/;"	f
+updateReviewInfo	documents/CourseWrapperGated.as	/^		private function updateReviewInfo(event:ReviewEvent):void$/;"	f
+updateReviewInfo	documents/CourseWrapperStarLearning.as	/^		private function updateReviewInfo(event:ReviewEvent):void$/;"	f
+updateReviewInfo	documents/CourseWrapper_broken.as	/^		private function updateReviewInfo(event:ReviewEvent):void$/;"	f
+updateReviewInfo	documents/FalconCourseWrapper.as	/^		private function updateReviewInfo(event:ReviewEvent):void$/;"	f
+updateReviewInfo	documents/FalconPreviewWrapper.as	/^		private function updateReviewInfo(event:ReviewEvent):void$/;"	f
+updateReviewInfo	documents/PreviewWrapper.as	/^		private function updateReviewInfo(event:ReviewEvent):void$/;"	f
+updateReviewInfo	documents/PreviewWrapperGated.as	/^		private function updateReviewInfo(event:ReviewEvent):void$/;"	f
+updateReviewInfo	documents/PreviewWrapper_broken.as	/^		private function updateReviewInfo(event:ReviewEvent):void$/;"	f
+updateToc	popups/TableOfContents.as	/^		public function updateToc(event:CourseEvent):void $/;"	f
+userInput	elements/CYRTextEntry.as	/^			var userInput:String = this.text;$/;"	v
+userInput	elements/TextEntry.as	/^			var userInput:String = this.text;$/;"	v
+userInput	quiz/BlankStandard.as	/^			var userInput:String = this.text;$/;"	v
+val	utilities/Scorm.as	/^			var val:String= value;$/;"	v
+validateImmediately	elements/TextEntry.as	/^		private var validateImmediately:Boolean = new Boolean();$/;"	v
+validateUserInput	elements/TextEntry.as	/^		public function validateUserInput(e:ComponentEvent)$/;"	f
+warn	utilities/Console.as	/^		public function warn(...rest):void{$/;"	f
+words	utilities/StringUtilities.as	/^			var words:Array = original.split( " " );$/;"	v
+xmlLoaded	documents/CourseWrapper.as	/^		private function xmlLoaded(event:Event):void$/;"	f
+xmlLoaded	documents/CourseWrapperGated.as	/^		private function xmlLoaded(event:Event):void$/;"	f
+xmlLoaded	documents/CourseWrapperStarLearning.as	/^		private function xmlLoaded(event:Event):void$/;"	f
+xmlLoaded	documents/CourseWrapper_broken.as	/^		private function xmlLoaded(event:Event):void$/;"	f
+xmlLoaded	documents/FalconCourseWrapper.as	/^		private function xmlLoaded(event:Event):void$/;"	f
+xmlLoaded	documents/FalconPreviewWrapper.as	/^		private function xmlLoaded(event:Event):void$/;"	f
+xmlLoaded	documents/PreviewWrapper.as	/^		private function xmlLoaded(event:Event):void$/;"	f
+xmlLoaded	documents/PreviewWrapperGated.as	/^		private function xmlLoaded(event:Event):void$/;"	f
+xmlLoaded	documents/PreviewWrapper_broken.as	/^		private function xmlLoaded(event:Event):void$/;"	f
+xmlLoaded	test/CourseTest.as	/^		private function xmlLoaded(event:Event):void$/;"	f
+xmlLoader	documents/CourseWrapper.as	/^		public var xmlLoader:URLLoader = new URLLoader();$/;"	v
+xmlLoader	documents/CourseWrapperGated.as	/^		public var xmlLoader:URLLoader = new URLLoader();$/;"	v
+xmlLoader	documents/CourseWrapperStarLearning.as	/^		public var xmlLoader:URLLoader = new URLLoader();$/;"	v
+xmlLoader	documents/CourseWrapper_broken.as	/^		public var xmlLoader:URLLoader = new URLLoader();$/;"	v
+xmlLoader	documents/FalconCourseWrapper.as	/^		public var xmlLoader:URLLoader = new URLLoader();$/;"	v
+xmlLoader	documents/FalconPreviewWrapper.as	/^		public var xmlLoader:URLLoader = new URLLoader();$/;"	v
+xmlLoader	documents/PreviewWrapper.as	/^		public var xmlLoader:URLLoader = new URLLoader();$/;"	v
+xmlLoader	documents/PreviewWrapperGated.as	/^		public var xmlLoader:URLLoader = new URLLoader();$/;"	v
+xmlLoader	documents/PreviewWrapper_broken.as	/^		public var xmlLoader:URLLoader = new URLLoader();$/;"	v
+xmlLoader	test/CourseTest.as	/^		private var xmlLoader:URLLoader = new URLLoader();			$/;"	v
+xmlLoaderErrorHandler	documents/CourseWrapper.as	/^		private function xmlLoaderErrorHandler(event:IOErrorEvent):void$/;"	f
+xmlLoaderErrorHandler	documents/CourseWrapperGated.as	/^		private function xmlLoaderErrorHandler(event:IOErrorEvent):void$/;"	f
+xmlLoaderErrorHandler	documents/CourseWrapperStarLearning.as	/^		private function xmlLoaderErrorHandler(event:IOErrorEvent):void$/;"	f
+xmlLoaderErrorHandler	documents/CourseWrapper_broken.as	/^		private function xmlLoaderErrorHandler(event:IOErrorEvent):void$/;"	f
+xmlLoaderErrorHandler	documents/FalconCourseWrapper.as	/^		private function xmlLoaderErrorHandler(event:IOErrorEvent):void$/;"	f
+xmlLoaderErrorHandler	documents/FalconPreviewWrapper.as	/^		private function xmlLoaderErrorHandler(event:IOErrorEvent):void$/;"	f
+xmlLoaderErrorHandler	documents/PreviewWrapper.as	/^		private function xmlLoaderErrorHandler(event:IOErrorEvent):void$/;"	f
+xmlLoaderErrorHandler	documents/PreviewWrapperGated.as	/^		private function xmlLoaderErrorHandler(event:IOErrorEvent):void$/;"	f
+xmlLoaderErrorHandler	documents/PreviewWrapper_broken.as	/^		private function xmlLoaderErrorHandler(event:IOErrorEvent):void$/;"	f
+xmlPages	documents/CourseWrapper.as	/^		public var xmlPages:XMLList;$/;"	v
+xmlPages	documents/CourseWrapperGated.as	/^		public var xmlPages:XMLList;$/;"	v
+xmlPages	documents/CourseWrapperStarLearning.as	/^		public var xmlPages:XMLList;$/;"	v
+xmlPages	documents/CourseWrapper_broken.as	/^		public var xmlPages:XMLList;$/;"	v
+xmlPages	documents/FalconCourseWrapper.as	/^		public var xmlPages:XMLList;$/;"	v
+xmlPages	documents/FalconPreviewWrapper.as	/^		public var xmlPages:XMLList;$/;"	v
+xmlPages	documents/PreviewWrapper.as	/^		public var xmlPages:XMLList;$/;"	v
+xmlPages	documents/PreviewWrapperGated.as	/^		public var xmlPages:XMLList;$/;"	v
+xmlPages	documents/PreviewWrapper_broken.as	/^		public var xmlPages:XMLList;$/;"	v
+xmlSections	documents/CourseWrapper.as	/^		public var xmlSections:XMLList;$/;"	v
+xmlSections	documents/CourseWrapperGated.as	/^		public var xmlSections:XMLList;$/;"	v
+xmlSections	documents/CourseWrapperStarLearning.as	/^		public var xmlSections:XMLList;$/;"	v
+xmlSections	documents/CourseWrapper_broken.as	/^		public var xmlSections:XMLList;$/;"	v
+xmlSections	documents/FalconCourseWrapper.as	/^		public var xmlSections:XMLList;$/;"	v
+xmlSections	documents/FalconPreviewWrapper.as	/^		public var xmlSections:XMLList;$/;"	v
+xmlSections	documents/PreviewWrapper.as	/^		public var xmlSections:XMLList;$/;"	v
+xmlSections	documents/PreviewWrapperGated.as	/^		public var xmlSections:XMLList;$/;"	v
+xmlSections	documents/PreviewWrapper_broken.as	/^		public var xmlSections:XMLList;$/;"	v

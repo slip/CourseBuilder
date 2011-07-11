@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Welcome</title>
+	<style type="text/css" media="screen">
+		body {background-color:#8995ab; -webkit-user-select:none; cursor:default; margin:0; padding:0;}
+		img {-webkit-user-select:none;}
+		a {text-decoration:none; color:#222; text-align:center; display:block; font:bold 12px 'Lucida Grande';
+		 text-shadow: 0px 1px 0px #fff;}
+		#container {width:286px; height:313px; margin:-156px -143px;
+			position:absolute; top:45%; left:50%;}
+		/* new course button */
+		#course {position:relative; display:block; width:282px; margin:15px 0 0 2px; 
+			height:78px; background:url('newcourse.png'); cursor:default;}
+		#course:active {background-position:0px -78px;}
+		a #free {display:block; position:absolute; top:24px; left:85px;
+			text-align:left;}
+		a #power {display:block; position:absolute; top:41px; left:85px;
+			text-align:left; font-size:10px; color:#727272;}
+		/* mail feedback sticky */
+		#feedback {display:block; width:286px; height:97px; margin:15px 0 0 0; 
+			background:url('letusknow.png'); cursor:pointer;}
+			#feedback:active {background-position:0px -97px;}
+		/* learn about */
+		#learn {position:relative; display:block; width:282px; margin:15px 0 0 2px; 
+			height:78px; background:url('learn.png'); cursor:default;}
+		#learn:active {background-position:0px -78px;}
+
+	</style>
+</head>
+<body>
+	<div id="container">
+		<!-- new course -->
+		<a href="#" id="course" onclick="Courses.showNewCourseWindow();">
+			<span id="free">New Course</span>
+			<span id="power">create a new course</span>
+		</a>
+		<!-- learn something -->
+		<a href="help:anchor='access' bookID=CourseBuilder Help" id="learn">
+			<span id="free">Learn More</span>
+			<span id="power">your questions answered</span>			
+		</a>
+		<!-- feedback block -->
+		<a href="mailto:coursebuilder@normallearning.com?subject=CourseBuilder%20Feedback" id="feedback"></a>
+	</div>
+</body>
+</html>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course title="StarLearning for Managers" keywords="NA" description="StarLearning for Managers">
+    <section title="Welcome">
+        <page title="Welcome to StarLearning for Managers" source="coursefiles/LMS1002_01.swf" keywords="welcome" description="Welcome to StarLearning for Managers" pagenum="1"></page>
+        <page title="Goals and Objectives" source="coursefiles/LMS1002_02.swf" keywords="objectives" description="Goals and Objectives of this course." pagenum="2"></page>
+        <page title="Navigation" source="coursefiles/LMS1002_03.swf" keywords="navigation" description="How to navigate through this course." pagenum="3"></page>
+        <page title="StarTour" source="coursefiles/LMS1002_04.swf" keywords="startour, navigation" description="Demonstrates how to login and shows how to navigate the StarLearning interface." pagenum="4"></page>
+        <page title="Enroll Team Members in a Course" source="coursefiles/LMS1002_05.swf" keywords="enroll, enroll in a course, enrollment, enroll team member in a course, enroll team member, team member enrollments" description="Details how to enroll team members in a StarLearning course by demonstrating the process of searching for a course and then enrolling the team member(s) in it." pagenum="5"></page>
+        <page title="Drop a Teammate from a Course" source="coursefiles/LMS1002_06.swf" keywords="drop, drop a course, drop as course for a team member, team member drop course, manager drop a course, unenroll" description="Details how to Drop a Team Member from a course in StarLearning." pagenum="6"></page>
+        <page title="View Teammate Transcripts" source="coursefiles/LMS1002_07.swf" keywords="transcript, learner transcript, transcript report, team member transcript" description="Details how to View a Teammates Transcript" pagenum="7"></page>
+        <page title="Team Member Learning Plans" source="coursefiles/LMS1002_08.swf" keywords=" team members, view team members, team member learning plans, learning plans" description="Demonstrate how to create a Learning Plans for a Team Members" pagenum="8"></page>
+        <page title="Team Certification Status" source="coursefiles/LMS1002_09.swf" keywords="Team certification status, team certification, certification, certifications" description="Details how to view Team Certification Status for a Team Member." pagenum="9"></page>
+        <page title="Teammate Skills Checklist" source="coursefiles/LMS1002_10.swf" keywords="" description="Outlines a skills checklist for teammates." pagenum="10"></page>
+        <page title="DaVita Custom Reports" source="coursefiles/LMS1002_11.swf" keywords="" description="Details how to generate DaVita Custom Reports." pagenum="11"></page>
+    </section>
+</course>

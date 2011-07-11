@@ -1,0 +1,184 @@
+{\rtf1\mac\ansicpg10000\cocoartf824\cocoasubrtf230
+{\fonttbl\f0\fswiss\fcharset77 Helvetica-Bold;\f1\fswiss\fcharset77 Helvetica;\f2\fswiss\fcharset77 Helvetica-Oblique;
+}
+{\colortbl;\red255\green255\blue255;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid0\'02\'05.;}{\levelnumbers\'01;}}{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid0\'02\'05.;}{\levelnumbers\'01;}}{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid0\'02\'05.;}{\levelnumbers\'01;}}{\listname ;}\listid3}
+{\list\listtemplateid4\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid0\'02\'05.;}{\levelnumbers\'01;}}{\listname ;}\listid4}
+{\list\listtemplateid5\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid0\'02\'05.;}{\levelnumbers\'01;}}{\listname ;}\listid5}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}}
+\margl1440\margr1440\vieww12600\viewh10520\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+
+\f0\b\fs38 \cf0 Andy's Help Toolkit\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+
+\fs24 \cf0 Version 1.0
+\f1\b0 \
+by Andy Matuschak\
+http://www.andymatuschak.org/pages/helptoolkit\
+andy@andymatuschak.org\
+Adapted from Safari and Pixen's help books\
+\
+
+\f0\b\fs28 Abstract
+\f1\b0\fs24 \
+\
+	Every application needs documentation, but on the Mac, it's important to maintain an aesthetic standard. It's also important for applications to behave just like every other application on the platform\'d1and documentation is no different.\
+\
+	To help developers make their help books look just like Apple's, I've put together this template kit. Just follow the simple instructions presented here, and you'll have nice, pretty documentation in no time at all.\
+\
+
+\f0\b\fs28 The Templates\
+\
+
+\f1\b0\fs24 	There are several page templates included. I'll run through each, what it's for, and how you must change it before putting it to use.\
+\
+
+\f0\b The Access Page
+\f1\b0 \
+	/index.html\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\qc\pardirnatural
+\cf0 {{\NeXTGraphic Pasted Graphic.tiff \width10620 \height6680
+}¬}\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\qc\pardirnatural
+\cf0 \
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+\cf0 	This is the page that users see when they first open your help book. Simple starting points are presented on the right, but since Mac documentation is supposed to be 
+\f2\i answer-oriented
+\f1\i0  rather than 
+\f2\i tutorial-oriented
+\f1\i0 , it's pretty barebones. To prepare this page:\
+\
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\ql\qnatural\pardirnatural
+\ls1\ilvl0\cf0 {\listtext	1.	}Read through the HTML, and replace every instance of YOURAPP with the name of your application. Make sure to change the homepage URL, too.\
+{\listtext	2.	}Replace /gfx/splashScreenshot.png with a screenshot of your application. It should be around 200x200 or smaller. Remember to take the screenshot against a white background so that the shadow is preserved.\
+{\listtext	3.	}Replace /gfx/icon.png with your app's icon. It should be 32x32.\
+{\listtext	4.	}If you like, change around the links on the right bar.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+\cf0 \
+
+\f0\b The Basic Help Page\
+
+\f1\b0 	/pages/basicPageTemplate.html\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\qc\pardirnatural
+\cf0 {{\NeXTGraphic Pasted Graphic 1.tiff \width11080 \height6560
+}¬}\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\qc\pardirnatural
+\cf0 \
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+\cf0 	This is the most basic of the help pages. It should be used to explain generalized concepts\'d1topics on 
+\f2\i how
+\f1\i0  to do something should use the Task Help Page (described next). To prepare this page:\
+\
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\ql\qnatural\pardirnatural
+\ls2\ilvl0\cf0 {\listtext	1.	}Read through the HTML and change instances of YOURAPP to your application's name.\
+{\listtext	2.	}That's it for this one!\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+\cf0 \
+	Now, you should leave the basic page template alone and make copies of it for each page you want in the help book. For each page:\
+\
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\ql\qnatural\pardirnatural
+\ls3\ilvl0\cf0 {\listtext	1.	}Change the <title> to the title of the page.\
+{\listtext	2.	}Provide keywords in the meta "keywords" tag. These are used by the Help Viewer's search function, so make them useful.\
+{\listtext	3.	}Provide an abstract of the page in the meta "description" tag.\
+{\listtext	4.	}Change "SOMECATEGORY" in the <a> anchor to a reasonable category or delete the anchor if you don't want the page to belong to a category. You can make links to an auto-generated list of all pages in a given category using the template at the bottom of this page.\
+{\listtext	5.	}Change the header in the "pagetitle" div to match what you put in <title>.\
+{\listtext	6.	}Change the lipsum text to the documentation for the page. Try to make it as short as possible.\
+{\listtext	7.	}If possible, insert a screenshot. These spice up the pages and help users get an idea of what's going on. If you can't put in a screenshot, make sure to delete the <img> tag. Remember to shrink the screenshot if it's bigger than 350px wide or so.\
+{\listtext	8.	}Provide useful "See also" links at the bottom of the page (see the HTML for example links).\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+\cf0 \
+
+\f0\b The Task-Based Help Page
+\f1\b0 \
+	/pages/taskPageTemplate.html\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\qc\pardirnatural
+\cf0 {{\NeXTGraphic 1__#$!@%!#__Pasted Graphic.tiff \width11040 \height6880
+}¬}\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\qc\pardirnatural
+\cf0 \
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+\cf0 	This template is exactly like the previous one, except it has a "task box" which should be used to describe how to do something in a bite-sized, step-by-step manner. Try to use these pages more than the previous type whenever possible. The instructions for use are identical to the basic help page.\
+\
+
+\f0\b The Generated List Page
+\f1\b0 \
+	/css/genlist.html\
+\
+	Whenever you use one of those fancy help:topic_list links, this .html is used to generate the resulting page. It's all set up for you, and it's automatic. All you have to do is to change the two instances of YOURAPP.\
+\
+
+\f0\b The Index Page
+\f1\b0 \
+	/pages/index.html\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\qc\pardirnatural
+\cf0 {{\NeXTGraphic 1__#$!@%!#__Pasted Graphic 1.tiff \width11080 \height5680
+}¬}\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\qc\pardirnatural
+\cf0 \
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+\cf0 	Unlike the previous page, this one is not automatically generated. Nevertheless, it's nice to provide your users with an index of topics. To use this page:\
+\
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\ql\qnatural\pardirnatural
+\ls4\ilvl0\cf0 {\listtext	1.	}Replace instances of YOURAPP with your application's name.\
+{\listtext	2.	}Add links to topic pages as demonstrated in the HTML.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+\cf0 \
+	It's probably best to make this page last, 
+\f2\i after
+\f1\i0  writing all your documentation, so you don't have to update it many times as you go.\
+\
+
+\f0\b The "Discover" Template\
+
+\f1\b0 	/pages/discoverTemplate.html\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\qc\pardirnatural
+\cf0 {{\NeXTGraphic Pasted Graphic 2.tiff \width11080 \height6980
+}¬}\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\qc\pardirnatural
+\cf0 \
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+\cf0 	It's hard to tell what this one is supposed to be like with all that sample text there, so here's a shot of Pixen's discover page:\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\qc\pardirnatural
+\cf0 {{\NeXTGraphic Pasted Graphic 3.tiff \width10820 \height9560
+}¬}\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\qc\pardirnatural
+\cf0 \
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+\cf0 	And it goes on like that for some time. Basically, the point is for you to show off features of your app. This can be used either for a "discover" page or a "what's new in X version" page or both. There are no particular notes on customizing this page. Just change YOURAPP to your application's name and copy the tables that are there for each feature you'd like to add.\
+\
+
+\f0\b\fs28 Using Your Help Book\
+\
+
+\f1\b0\fs24 	Once you've finished your lovely help book, you still need to do a few things before your application will know it exists.\
+\
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\ql\qnatural\pardirnatural
+\ls5\ilvl0\cf0 {\listtext	1.	}Put these files in a "YOURAPP Help" folder inside English.lproj (or whatever language).\
+{\listtext	2.	}Drag the "YOURAPP Help" folder into the resources folder in your Xcode project. Make 
+\f2\i sure
+\f1\i0  to choose the "make folder references option".\
+{\listtext	3.	}Add keys for CFBundleHelpBookFolder and CFBundleHelpBookName to Info.plist and set them both to "YOURAPP Help".\
+{\listtext	4.	}Drop the "YOURAPP Help" folder into Help Indexer.\
+{\listtext	5.	}Compile and run!\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+\cf0 \
+
+\f0\b\fs28 Conclusion
+\f1\b0\fs24 \
+\
+	I hope that this template kit will prove useful and will spur more Mac applications to have good, compliant help books. To learn more about this toolkit or to check for updated versions, please check: 
+\f0\b http://www.andymatuschak.org/pages/helptoolkit
+\f1\b0 .\
+\
+	To learn more about Apple Help in general and its features, please read my article on "Help with Apple Help" at 
+\f0\b http://www.andymatuschak.org/articles/2005/12/18/help-with-apple-help
+\f1\b0 .}
