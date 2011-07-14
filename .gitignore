@@ -16,3 +16,13 @@ xcuserdata
 # svn & cvs
 .svn
 CVS
+
+# no build stuff
+_FRAMEWORKS/*
+_testing/*
+CLASSES_1.79/*
+flash_templates_nobuild/deprecated_templates/*
+Graphics_NoBuild/*
+
+# frameworks
+*.framework
