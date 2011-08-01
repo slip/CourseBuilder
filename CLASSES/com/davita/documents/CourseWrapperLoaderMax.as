@@ -754,7 +754,14 @@ package com.davita.documents
 		
 		public function getCopyright():String 
 		{ 
-            return "©2008-2011 DaVita Inc."; 				
+            if (copyright)
+            {
+                return copyright;
+            }
+            else
+            {
+                return "©2008-2011 DaVita Inc."; 				
+            }
 		}
 
 		/**
